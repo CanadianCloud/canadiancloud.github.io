@@ -1,0 +1,687 @@
+{
+  "entries": [
+    {
+      "api_id": "calev-uW5h3m7XsS2QztJ",
+      "event": {
+        "api_id": "evt-fG1PBHIgWArmkrD",
+        "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+        "cover_url": "https://images.lumacdn.com/event-covers/tj/1c6be007-a644-4215-adc1-2f4a0d605bf8.png",
+        "end_at": "2026-01-24T03:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "AWS re:Invent re:Cap",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "start_at": "2026-01-24T01:30:00.000Z",
+        "timezone": "America/Vancouver",
+        "url": "f0uc6rr2",
+        "user_api_id": "usr-g6FxZJfODUaVboL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Vancouver",
+          "type": "google",
+          "region": "British Columbia",
+          "address": "510 W Georgia St 14th floor",
+          "country": "Canada",
+          "place_id": "Ejo1MTAgVyBHZW9yZ2lhIFN0IDE0dGggZmxvb3IsIFZhbmNvdXZlciwgQkMgVjZCIDBNMywgQ2FuYWRhIiYaJAoWChQKEgnrsCflfnGGVBFJWlCB0b86uBIKMTR0aCBmbG9vcg",
+          "localized": null,
+          "city_state": "Vancouver, British Columbia",
+          "description": "Wait in the lobby for someone to escort you up - please arrive before 6pm - bring a government-issued photo ID or student ID",
+          "sublocality": "Central Vancouver",
+          "country_code": "CA",
+          "full_address": "510 W Georgia St 14th floor, Vancouver, BC V6B 0M3, Canada",
+          "short_address": "510 W Georgia St 14th floor, Vancouver",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": -123.11699940000001,
+          "latitude": 49.280990300000006
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "cover_image": {
+        "vibrant_color": null,
+        "colors": [
+          "#100f05",
+          "#f8f5f4",
+          "#b37531",
+          "#782b05"
+        ],
+        "palette": {
+          "neutral": [
+            {
+              "color": "#110f05",
+              "percentage": 31.19
+            },
+            {
+              "color": "#f9f6f4",
+              "percentage": 7.17
+            }
+          ],
+          "vibrant": [
+            {
+              "color": "#b37532",
+              "percentage": 6.4
+            },
+            {
+              "color": "#772a06",
+              "percentage": 5.01
+            }
+          ]
+        }
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-eRivKmWDsR2bxYq",
+        "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
+        "coordinate": {
+          "longitude": -123.120738,
+          "latitude": 49.282729
+        },
+        "cover_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxuZXR3b3JraW5nfGVufDB8fHx8MTcyMjI5MjA3Mnwy&ixlib=rb-4.0.3&q=80&w=1080",
+        "description_short": "Amazon AWS, Microsoft Azure and Google GCP events in Canada",
+        "event_submission_restriction": "open",
+        "geo_city": "Vancouver",
+        "geo_country": "Canada",
+        "geo_region": "British Columbia",
+        "google_measurement_id": null,
+        "instagram_handle": null,
+        "is_blocked": false,
+        "launch_status": "launched",
+        "linkedin_handle": null,
+        "luma_plus_active": true,
+        "meta_pixel_id": null,
+        "name": "Cloud Events",
+        "personal_user_api_id": null,
+        "refund_policy": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "No refunds. No Exchanges.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        "slug": "CloudCanada",
+        "social_image_url": null,
+        "stripe_account_id": "acct_1PxuTSE3uYeEs2Ai",
+        "tax_config": null,
+        "tiktok_handle": null,
+        "timezone": "America/Vancouver",
+        "tint_color": "#ffedc7",
+        "track_meta_ads_from_luma": false,
+        "twitter_handle": null,
+        "verified_at": "2024-06-12T21:30:46.314Z",
+        "website": "https://www.PublicCloud.ninja",
+        "youtube_handle": null,
+        "is_personal": false,
+        "personal_user": null
+      },
+      "start_at": "2026-01-24T01:30:00.000Z",
+      "hosts": [
+        {
+          "name": "Matt",
+          "api_id": "usr-g6FxZJfODUaVboL",
+          "website": "https://www.mattcarolan.com",
+          "timezone": "America/Vancouver",
+          "username": "MattCloud",
+          "bio_short": null,
+          "avatar_url": "https://images.lumacdn.com/avatars/n0/1cf35698-8753-45fc-9bb7-ad9e6c427b85",
+          "is_verified": false,
+          "tiktok_handle": null,
+          "last_online_at": "2026-01-21T04:23:26.723Z",
+          "twitter_handle": null,
+          "youtube_handle": "PublicCloudNinja",
+          "linkedin_handle": "/in/matthewcarolan",
+          "instagram_handle": "PublicCloudNinja"
+        }
+      ],
+      "guest_count": 202,
+      "ticket_count": 202,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "spots_remaining": null,
+        "is_near_capacity": false,
+        "require_approval": false,
+        "currency_info": null
+      },
+      "featured_guests": [
+        {
+          "api_id": "usr-vfeScRlvdtiXRiK",
+          "avatar_url": "https://images.lumacdn.com/avatars/6s/dd6d8bf9-bc9e-497c-bd8f-e72fc4aab114",
+          "bio_short": null,
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-01-21T05:55:43.824Z",
+          "linkedin_handle": "/in/a-huaman",
+          "name": "Alejandra Huaman",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-YjcqlKCmTxmcOxD",
+          "avatar_url": "https://images.lumacdn.com/avatars/0i/c18cd23d-4d82-4edf-9919-2065231786f2.jpg",
+          "bio_short": null,
+          "instagram_handle": "bryantiskandar",
+          "is_verified": false,
+          "last_online_at": "2026-01-21T05:44:30.713Z",
+          "linkedin_handle": "/in/bryantiskandar",
+          "name": "Bryant Iskandar",
+          "tiktok_handle": null,
+          "timezone": "America/Los_Angeles",
+          "twitter_handle": null,
+          "username": "bryantiskandar",
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-w59Ae1BPe162BBV",
+          "avatar_url": "https://images.lumacdn.com/avatars/nt/d327207e-cd0f-4132-9b8d-fda29598dc0f.jpg",
+          "bio_short": "",
+          "instagram_handle": "alexandra_consciousness",
+          "is_verified": false,
+          "last_online_at": "2026-01-21T01:05:41.878Z",
+          "linkedin_handle": "/in/alexandrasipyachova",
+          "name": "Alexandra Sypiachova",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "alexandrasyp",
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-5pvv7CXuSwFaG44",
+          "avatar_url": "https://images.lumacdn.com/avatars/97/abfda9d3-c5bc-461d-8d6f-8eb5a86159ec.png",
+          "bio_short": "",
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-01-20T19:19:57.470Z",
+          "linkedin_handle": null,
+          "name": "Andrew",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-icwyrtsQ3XhWwM2",
+          "avatar_url": "https://images.lumacdn.com/avatars/am/a5b335fe-4f75-4e3a-b404-d3ae8ac4f5c0",
+          "bio_short": "",
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-01-21T01:16:36.529Z",
+          "linkedin_handle": "/in/melaniia",
+          "name": "Melaniia Volkodav",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "email",
+          "username": null,
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-HyJm9S4VhLccy3y",
+          "avatar_url": "https://images.lumacdn.com/avatars/mf/007b33eb-3c1e-4585-904e-b113c4c01c08.jpg",
+          "bio_short": null,
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-01-19T21:22:20.785Z",
+          "linkedin_handle": null,
+          "name": "Gaël Jollivet",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "gaeljollivet",
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-EnhJAE2EvQoXYcM",
+          "avatar_url": "https://images.lumacdn.com/avatars/m4/770f0aa0-6ea4-4ce4-ac83-cc0c580e8fd8.png",
+          "bio_short": "Head of BC @ Women in Tech Canada",
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-01-21T04:20:37.316Z",
+          "linkedin_handle": "/in/bibschan",
+          "name": "Bibiana Souza",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "bibschan",
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-r7m2rFKV5S2BdQ0",
+          "avatar_url": "https://images.lumacdn.com/avatars/zm/62e08895-384e-4677-b221-9f583dd7b79d.jpg",
+          "bio_short": null,
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2025-12-11T16:08:53.957Z",
+          "linkedin_handle": "/in/lionello",
+          "name": "Lio Lunesu",
+          "tiktok_handle": null,
+          "timezone": "America/Los_Angeles",
+          "twitter_handle": "in",
+          "username": "lionello",
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-KJfzEBtcvZ1wFFf",
+          "avatar_url": "https://images.lumacdn.com/avatars/qd/4b6a4f08-ac84-4d93-ab7c-579000eba00a",
+          "bio_short": null,
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-01-16T21:09:54.524Z",
+          "linkedin_handle": "/in/lubadelegan",
+          "name": "Liubov",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-T9F6ByTAbMCqaNp",
+          "avatar_url": "https://images.lumacdn.com/avatars/zz/194c3588-edc6-49ba-915a-b1e00359be5e.jpg",
+          "bio_short": "",
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-01-16T19:27:09.169Z",
+          "linkedin_handle": "/in/asamisuzukid",
+          "name": "Asami",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": ""
+        }
+      ],
+      "role": null,
+      "waitlist_active": false,
+      "featured_city": {
+        "api_id": "discplace-4fa7ldlAkBTTivm",
+        "name": "Vancouver",
+        "slug": "vancouver"
+      },
+      "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "submitted_by_user_api_id": "usr-g6FxZJfODUaVboL",
+      "tags": []
+    },
+    {
+      "api_id": "calev-VeFuf1sXJyXsBSM",
+      "event": {
+        "api_id": "evt-29l5EDyiSF3WNaf",
+        "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+        "cover_url": "https://images.lumacdn.com/event-covers/ly/ce80f4ef-7b27-4f30-84d4-9253e7479b81.png",
+        "end_at": "2026-05-02T03:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Vancouver Cloud Summit 2026",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "start_at": "2026-05-01T22:00:00.000Z",
+        "timezone": "America/Vancouver",
+        "url": "cloudsummit26",
+        "user_api_id": "usr-g6FxZJfODUaVboL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Vancouver",
+          "type": "google",
+          "region": "British Columbia",
+          "address": "Science World",
+          "country": "Canada",
+          "place_id": "ChIJnZHwi2NxhlQRN3CYHzc3giE",
+          "city_state": "Vancouver, British Columbia",
+          "description": "",
+          "country_code": "CA",
+          "full_address": "Science World, 1455 Quebec St, Vancouver, BC V6A 3Z7, Canada",
+          "apple_maps_place_id": "IC49A9EEBE4CE0462",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": -123.10383399999999,
+          "latitude": 49.273376
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "cover_image": {
+        "vibrant_color": null,
+        "colors": [
+          "#ffffff",
+          "#221e1f",
+          "#6eaedf"
+        ],
+        "palette": {
+          "neutral": [
+            {
+              "color": "#ffffff",
+              "percentage": 88.47
+            },
+            {
+              "color": "#221e1f",
+              "percentage": 6.34
+            }
+          ],
+          "vibrant": [
+            {
+              "color": "#6eaede",
+              "percentage": 4.02
+            }
+          ]
+        }
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-eRivKmWDsR2bxYq",
+        "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
+        "coordinate": {
+          "longitude": -123.120738,
+          "latitude": 49.282729
+        },
+        "cover_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxuZXR3b3JraW5nfGVufDB8fHx8MTcyMjI5MjA3Mnwy&ixlib=rb-4.0.3&q=80&w=1080",
+        "description_short": "Amazon AWS, Microsoft Azure and Google GCP events in Canada",
+        "event_submission_restriction": "open",
+        "geo_city": "Vancouver",
+        "geo_country": "Canada",
+        "geo_region": "British Columbia",
+        "google_measurement_id": null,
+        "instagram_handle": null,
+        "is_blocked": false,
+        "launch_status": "launched",
+        "linkedin_handle": null,
+        "luma_plus_active": true,
+        "meta_pixel_id": null,
+        "name": "Cloud Events",
+        "personal_user_api_id": null,
+        "refund_policy": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "No refunds. No Exchanges.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        "slug": "CloudCanada",
+        "social_image_url": null,
+        "stripe_account_id": "acct_1PxuTSE3uYeEs2Ai",
+        "tax_config": null,
+        "tiktok_handle": null,
+        "timezone": "America/Vancouver",
+        "tint_color": "#ffedc7",
+        "track_meta_ads_from_luma": false,
+        "twitter_handle": null,
+        "verified_at": "2024-06-12T21:30:46.314Z",
+        "website": "https://www.PublicCloud.ninja",
+        "youtube_handle": null,
+        "is_personal": false,
+        "personal_user": null
+      },
+      "start_at": "2026-05-01T22:00:00.000Z",
+      "hosts": [
+        {
+          "name": "Matt",
+          "api_id": "usr-g6FxZJfODUaVboL",
+          "website": "https://www.mattcarolan.com",
+          "timezone": "America/Vancouver",
+          "username": "MattCloud",
+          "bio_short": null,
+          "avatar_url": "https://images.lumacdn.com/avatars/n0/1cf35698-8753-45fc-9bb7-ad9e6c427b85",
+          "is_verified": false,
+          "tiktok_handle": null,
+          "last_online_at": "2026-01-21T04:23:26.723Z",
+          "twitter_handle": null,
+          "youtube_handle": "PublicCloudNinja",
+          "linkedin_handle": "/in/matthewcarolan",
+          "instagram_handle": "PublicCloudNinja"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 4900,
+          "currency": "cad",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": null,
+        "is_sold_out": false,
+        "spots_remaining": null,
+        "is_near_capacity": false,
+        "require_approval": false,
+        "currency_info": {
+          "currency": "cad",
+          "decimals": 2
+        }
+      },
+      "featured_guests": [],
+      "role": null,
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "submitted_by_user_api_id": "usr-g6FxZJfODUaVboL",
+      "tags": []
+    },
+    {
+      "api_id": "calev-RJGV3GI2nMaqkXB",
+      "event": {
+        "api_id": "evt-VHuuSwxAUGgplkt",
+        "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+        "cover_url": "https://images.lumacdn.com/event-covers/ly/ce80f4ef-7b27-4f30-84d4-9253e7479b81.png",
+        "end_at": "2026-08-29T22:00:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Toronto Cloud Summit 2026",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": false,
+        "start_at": "2026-08-29T16:00:00.000Z",
+        "timezone": "America/Toronto",
+        "url": "0xpa2rxj",
+        "user_api_id": "usr-g6FxZJfODUaVboL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Toronto",
+          "type": "google",
+          "region": "Ontario",
+          "address": "Northeastern University, Toronto Campus",
+          "country": "Canada",
+          "place_id": "ChIJY4j7DBI1K4gRUuidUWku87U",
+          "localized": null,
+          "city_state": "Toronto, Ontario",
+          "description": "",
+          "sublocality": "Fashion District",
+          "country_code": "CA",
+          "full_address": "Northeastern University, Toronto Campus, 375 Queen St W, Toronto, ON M5V 2A5, Canada",
+          "short_address": "375 Queen St W, Toronto",
+          "apple_maps_place_id": "I519AA9BD3445C8FE",
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": -79.3938694,
+          "latitude": 43.648918599999995
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "cover_image": {
+        "vibrant_color": null,
+        "colors": [
+          "#ffffff",
+          "#221e1f",
+          "#6eaedf"
+        ],
+        "palette": {
+          "neutral": [
+            {
+              "color": "#ffffff",
+              "percentage": 88.47
+            },
+            {
+              "color": "#221e1f",
+              "percentage": 6.34
+            }
+          ],
+          "vibrant": [
+            {
+              "color": "#6eaede",
+              "percentage": 4.02
+            }
+          ]
+        }
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-eRivKmWDsR2bxYq",
+        "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
+        "coordinate": {
+          "longitude": -123.120738,
+          "latitude": 49.282729
+        },
+        "cover_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxuZXR3b3JraW5nfGVufDB8fHx8MTcyMjI5MjA3Mnwy&ixlib=rb-4.0.3&q=80&w=1080",
+        "description_short": "Amazon AWS, Microsoft Azure and Google GCP events in Canada",
+        "event_submission_restriction": "open",
+        "geo_city": "Vancouver",
+        "geo_country": "Canada",
+        "geo_region": "British Columbia",
+        "google_measurement_id": null,
+        "instagram_handle": null,
+        "is_blocked": false,
+        "launch_status": "launched",
+        "linkedin_handle": null,
+        "luma_plus_active": true,
+        "meta_pixel_id": null,
+        "name": "Cloud Events",
+        "personal_user_api_id": null,
+        "refund_policy": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "No refunds. No Exchanges.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        "slug": "CloudCanada",
+        "social_image_url": null,
+        "stripe_account_id": "acct_1PxuTSE3uYeEs2Ai",
+        "tax_config": null,
+        "tiktok_handle": null,
+        "timezone": "America/Vancouver",
+        "tint_color": "#ffedc7",
+        "track_meta_ads_from_luma": false,
+        "twitter_handle": null,
+        "verified_at": "2024-06-12T21:30:46.314Z",
+        "website": "https://www.PublicCloud.ninja",
+        "youtube_handle": null,
+        "is_personal": false,
+        "personal_user": null
+      },
+      "start_at": "2026-08-29T16:00:00.000Z",
+      "hosts": [
+        {
+          "name": "Matt",
+          "api_id": "usr-g6FxZJfODUaVboL",
+          "website": "https://www.mattcarolan.com",
+          "timezone": "America/Vancouver",
+          "username": "MattCloud",
+          "bio_short": null,
+          "avatar_url": "https://images.lumacdn.com/avatars/n0/1cf35698-8753-45fc-9bb7-ad9e6c427b85",
+          "is_verified": false,
+          "tiktok_handle": null,
+          "last_online_at": "2026-01-21T04:23:26.723Z",
+          "twitter_handle": null,
+          "youtube_handle": "PublicCloudNinja",
+          "linkedin_handle": "/in/matthewcarolan",
+          "instagram_handle": "PublicCloudNinja"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 4900,
+          "currency": "cad",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": null,
+        "is_sold_out": false,
+        "spots_remaining": null,
+        "is_near_capacity": false,
+        "require_approval": false,
+        "currency_info": {
+          "currency": "cad",
+          "decimals": 2
+        }
+      },
+      "featured_guests": [],
+      "role": null,
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "submitted_by_user_api_id": "usr-g6FxZJfODUaVboL",
+      "tags": []
+    }
+  ],
+  "has_more": false
+}
