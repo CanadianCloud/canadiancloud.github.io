@@ -82,7 +82,7 @@ nav {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('_DSC5513.png') center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('DSC5513.png') center/cover;
     color: white;
     padding: 250px 2rem 100px 2rem;
     min-height: 500px;
