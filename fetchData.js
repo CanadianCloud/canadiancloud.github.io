@@ -19,7 +19,8 @@ for (const event of eventsData.entries) {
   eventLink.classList.add("btn-involved");
 
   eventHeading.textContent = event.event.name;
-  eventLocation.textContent = event.event.geo_address_info.full_address;
+  eventLocation.textContent =
+    event.event.geo_address_info.full_address || "Location not specified";
   datePara.textContent = new Date(event.event.start_at).toDateString("en-US", {
     weekday: "long",
     year: "numeric",
