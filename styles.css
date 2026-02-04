@@ -82,7 +82,7 @@ nav {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/_DSC5513.png') center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('_DSC5513.png') center/cover;
     color: white;
     padding: 250px 2rem 100px 2rem;
     min-height: 500px;
@@ -548,6 +548,7 @@ nav {
 }
 
 @media (max-width: 768px) {
+
     /* Navigation */
     nav {
         flex-direction: row;
@@ -728,6 +729,7 @@ nav {
 }
 
 @media (max-width: 480px) {
+
     /* Hero Section */
     .hero {
         padding: 120px 1rem 60px 1rem;

@@ -1,226 +1,305 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Everything Cloud Technology to bring together education, sharing, networking, and supporting the local community.">
-    <meta name="keywords" content="cloud, ai, canada, aws, azure, gcp, technology, community">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Everything Cloud Technology to bring together education, sharing, networking, and supporting the local community."
+    />
+    <meta
+      name="keywords"
+      content="cloud, ai, canada, aws, azure, gcp, technology, community"
+    />
     <title>Canadian Public Cloud Association</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
     <script src="fetchData.js" type="module" defer></script>
-</head>
-<body>
+  </head>
+  <body>
     <!-- Navigation -->
     <nav>
-        <div class="nav-logo">
-            <img src="logo.png" alt="CPCA Logo">
-            <span>CPCA</span>
-        </div>
-        <div class="hamburger" id="hamburger">
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
-        <ul class="nav-menu" id="navMenu">
-            <li><a href="#about">About</a></li>
-            <li><a href="#events">Events</a></li>
-            <li><a href="#involved">Get Involved</a></li>
-        </ul>
+      <div class="nav-logo">
+        <img src="logo.png" alt="CPCA Logo" />
+        <span>CPCA</span>
+      </div>
+      <div class="hamburger" id="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <ul class="nav-menu" id="navMenu">
+        <li><a href="#about">About</a></li>
+        <li><a href="#events">Events</a></li>
+        <li><a href="#involved">Get Involved</a></li>
+      </ul>
     </nav>
 
     <!-- Hero Section -->
     <section class="hero">
-        <div class="hero-content">
-            <h1>Canadian Public<br>Cloud Association</h1>
-            <p>As a non-profit organization, our purpose is to bring together & educate the local tech community about the cloud and support our local community through charity.</p>
-            
-            <div class="button-container">
-                <a href="https://www.cloudsummit.ca" class="btn" target="_blank">Cloud Summit</a>
-                <a href="https://www.meetup.com/vanawsug/" class="btn" target="_blank">AWS Events</a>
-                <a href="http://www.azurecanada.ca" class="btn" target="_blank">Azure Events</a>
-                <a href="#events" class="btn">Cloud Events</a>
-            </div>
+      <div class="hero-content">
+        <h1>Canadian Public<br />Cloud Association</h1>
+        <p>
+          As a non-profit organization, our purpose is to bring together &
+          educate the local tech community about the cloud and support our local
+          community through charity.
+        </p>
+
+        <div class="button-container">
+          <a href="https://www.cloudsummit.ca" class="btn" target="_blank"
+            >Cloud Summit</a
+          >
+          <a href="https://www.meetup.com/vanawsug/" class="btn" target="_blank"
+            >AWS Events</a
+          >
+          <a href="http://www.azurecanada.ca" class="btn" target="_blank"
+            >Azure Events</a
+          >
+          <a href="#events" class="btn">Cloud Events</a>
         </div>
+      </div>
     </section>
 
     <!-- Statistics Section -->
     <section class="stats">
-        <div class="stat-box">
-            <div class="stat-item">
-                <div class="stat-number" data-target="14">0</div>
-                <div class="stat-label">Total Events</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-number" data-target="1800">0</div>
-                <div class="stat-label">Total Attendees</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-number" data-target="4000">0</div>
-                <div class="stat-label">Total Members</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-number" data-target="10000" data-prefix="$">0</div>
-                <div class="stat-label">Total Charity Raised</div>
-            </div>
+      <div class="stat-box">
+        <div class="stat-item">
+          <div class="stat-number" data-target="14">0</div>
+          <div class="stat-label">Total Events</div>
         </div>
+        <div class="stat-item">
+          <div class="stat-number" data-target="1800">0</div>
+          <div class="stat-label">Total Attendees</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number" data-target="4000">0</div>
+          <div class="stat-label">Total Members</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number" data-target="10000" data-prefix="$">0</div>
+          <div class="stat-label">Total Charity Raised</div>
+        </div>
+      </div>
     </section>
 
     <!-- About Section -->
     <section class="about" id="about">
-        <div class="about-content">
-            <div class="about-text">
-                <h2>Canadian Public Cloud Association Sed ut unde perspiciatis unde omnis iste natus</h2>
-                <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-                <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?</p>
-                <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis ut enim ad minima veniam, quis nostrum exercitationem ullam corporis</p>
-                <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis</p>
-            </div>
-            <div class="about-image">
-                <img src="images/_DSC5513.png" alt="CPCA Event">
-            </div>
+      <div class="about-content">
+        <div class="about-text">
+          <h2>
+            Canadian Public Cloud Association Sed ut unde perspiciatis unde
+            omnis iste natus
+          </h2>
+          <p>
+            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
+            consectetur, adipisci velit, sed quia non numquam eius modi tempora
+            incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+          </p>
+          <p>
+            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
+            suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+          </p>
+          <p>
+            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
+            ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
+          </p>
+          <p>
+            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
+          </p>
         </div>
+        <div class="about-image">
+          <img src="_DSC5513.png" alt="CPCA Event" />
+        </div>
+      </div>
     </section>
 
     <!-- Events Gallery Section -->
     <section class="events-gallery" id="events">
-        <h2>Events</h2>
-        <div class="gallery-grid"></div>
-        <div class="upcoming-button">
-            <a target="_blank" href="https://luma.com/CloudCanada?k=c" class="btn-upcoming">Upcoming Events</a>
-        </div>
+      <h2>Events</h2>
+      <div class="gallery-grid"></div>
+      <div class="upcoming-button">
+        <a
+          target="_blank"
+          href="https://luma.com/CloudCanada?k=c"
+          class="btn-upcoming"
+          >Upcoming Events</a
+        >
+      </div>
     </section>
 
     <!-- Get Involved Section -->
     <section class="get-involved" id="involved">
-        <h2>Get Involved</h2>
-        <div class="involved-grid">
-            <div class="involved-card">
-                <div class="involved-icon"><i class="fas fa-handshake"></i></div>
-                <h3>Become a Sponsor</h3>
-                <p>Become a sponsor and help us build the future of local cloud communities</p>
-                <a href="#" class="btn-involved">Join Us</a>
-            </div>
-            <div class="involved-card">
-                <div class="involved-icon"><i class="fas fa-microphone"></i></div>
-                <h3>Be a Speaker</h3>
-                <p>Interested in speaking at our upcoming event? Let's get in touch!</p>
-                <a href="#" class="btn-involved">Contact</a>
-            </div>
-            <div class="involved-card">
-                <div class="involved-icon"><i class="fas fa-users"></i></div>
-                <h3>Join Community</h3>
-                <p>Join our discord group to stay connected</p>
-                <a href="#" class="btn-involved">Join Us</a>
-            </div>
+      <h2>Get Involved</h2>
+      <div class="involved-grid">
+        <div class="involved-card">
+          <div class="involved-icon"><i class="fas fa-handshake"></i></div>
+          <h3>Become a Sponsor</h3>
+          <p>
+            Become a sponsor and help us build the future of local cloud
+            communities
+          </p>
+          <a href="#" class="btn-involved">Join Us</a>
         </div>
+        <div class="involved-card">
+          <div class="involved-icon"><i class="fas fa-microphone"></i></div>
+          <h3>Be a Speaker</h3>
+          <p>
+            Interested in speaking at our upcoming event? Let's get in touch!
+          </p>
+          <a href="#" class="btn-involved">Contact</a>
+        </div>
+        <div class="involved-card">
+          <div class="involved-icon"><i class="fas fa-users"></i></div>
+          <h3>Join Community</h3>
+          <p>Join our discord group to stay connected</p>
+          <a href="#" class="btn-involved">Join Us</a>
+        </div>
+      </div>
     </section>
 
     <!-- Footer -->
     <footer class="footer">
-        <div class="footer-content">
-            <!-- Left Section: Logo & Description -->
-            <div class="footer-section">
-                <div class="footer-logo">
-                    <img src="logo.png" alt="CPCA Logo">
-                    <span>CPCA</span>
-                </div>
-                <p class="footer-description">We bring together & educate the local tech community about the cloud and support our local community</p>
-            </div>
-
-            <!-- Middle Section: Quick Links -->
-            <div class="footer-section">
-                <h3>Quick Links</h3>
-                <ul class="footer-links">
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#events">Events</a></li>
-                    <li><a href="#events">Upcoming Events</a></li>
-                    <li><a href="#involved">Get Involved</a></li>
-                    <li><a href="https://www.cloudsummit.ca" target="_blank">Cloud Summit</a></li>
-                    <li><a href="https://www.awsday.ca" target="_blank">AWS Community Day</a></li>
-                    <li><a href="https://www.hackerrivals.com" target="_blank">Hackathon Partner</a></li>
-                </ul>
-            </div>
-
-            <!-- Right Section: Contacts & Socials -->
-            <div class="footer-section">
-                <div class="footer-contacts">
-                    <h3>Contacts</h3>
-                    <p><a href="mailto:connect@canadiancloud.org" target="_blank"><i class="fas fa-envelope"></i> connect@canadiancloud.org</a></p>
-                </div>
-                <div class="footer-socials">
-                    <h3>Socials</h3>
-                    <div class="social-icons">
-                        <a href="https://www.linkedin.com/company/canadiancloud" target="_blank"><i class="fab fa-linkedin"></i></a>
-                        <a href="https://www.instagram.com/canadiancloudninja/" target="_blank"><i class="fab fa-instagram"></i></a>
-                        <a href="https://discord.gg/wg372JtEK8" target="_blank"><i class="fab fa-discord"></i></a>
-                        <a href="https://www.youtube.com/channel/UCMfuz22CouuimIXngTMMZIQ" target="_blank"><i class="fab fa-youtube"></i></a>
-                    </div>
-                </div>
-            </div>
+      <div class="footer-content">
+        <!-- Left Section: Logo & Description -->
+        <div class="footer-section">
+          <div class="footer-logo">
+            <img src="logo.png" alt="CPCA Logo" />
+            <span>CPCA</span>
+          </div>
+          <p class="footer-description">
+            We bring together & educate the local tech community about the cloud
+            and support our local community
+          </p>
         </div>
-        <div class="footer-bottom">
-            <p>&copy; 2026 Canadian Public Cloud Association. All rights reserved.</p>
+
+        <!-- Middle Section: Quick Links -->
+        <div class="footer-section">
+          <h3>Quick Links</h3>
+          <ul class="footer-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#events">Events</a></li>
+            <li><a href="#events">Upcoming Events</a></li>
+            <li><a href="#involved">Get Involved</a></li>
+            <li>
+              <a href="https://www.cloudsummit.ca" target="_blank"
+                >Cloud Summit</a
+              >
+            </li>
+            <li>
+              <a href="https://www.awsday.ca" target="_blank"
+                >AWS Community Day</a
+              >
+            </li>
+            <li>
+              <a href="https://www.hackerrivals.com" target="_blank"
+                >Hackathon Partner</a
+              >
+            </li>
+          </ul>
         </div>
+
+        <!-- Right Section: Contacts & Socials -->
+        <div class="footer-section">
+          <div class="footer-contacts">
+            <h3>Contacts</h3>
+            <p>
+              <a href="mailto:connect@canadiancloud.org" target="_blank"
+                ><i class="fas fa-envelope"></i> connect@canadiancloud.org</a
+              >
+            </p>
+          </div>
+          <div class="footer-socials">
+            <h3>Socials</h3>
+            <div class="social-icons">
+              <a
+                href="https://www.linkedin.com/company/canadiancloud"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i
+              ></a>
+              <a
+                href="https://www.instagram.com/canadiancloudninja/"
+                target="_blank"
+                ><i class="fab fa-instagram"></i
+              ></a>
+              <a href="https://discord.gg/wg372JtEK8" target="_blank"
+                ><i class="fab fa-discord"></i
+              ></a>
+              <a
+                href="https://www.youtube.com/channel/UCMfuz22CouuimIXngTMMZIQ"
+                target="_blank"
+                ><i class="fab fa-youtube"></i
+              ></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>
+          &copy; 2026 Canadian Public Cloud Association. All rights reserved.
+        </p>
+      </div>
     </footer>
     <script>
-        // Hamburger menu toggle
-        const hamburger = document.getElementById('hamburger');
-        const navMenu = document.getElementById('navMenu');
+      // Hamburger menu toggle
+      const hamburger = document.getElementById("hamburger");
+      const navMenu = document.getElementById("navMenu");
 
-        hamburger.addEventListener('click', () => {
-            hamburger.classList.toggle('active');
-            navMenu.classList.toggle('active');
-        });
+      hamburger.addEventListener("click", () => {
+        hamburger.classList.toggle("active");
+        navMenu.classList.toggle("active");
+      });
 
-        // Close menu when a link is clicked
-        const navLinks = navMenu.querySelectorAll('a');
-        navLinks.forEach(link => {
-            link.addEventListener('click', () => {
-                hamburger.classList.remove('active');
-                navMenu.classList.remove('active');
-            });
+      // Close menu when a link is clicked
+      const navLinks = navMenu.querySelectorAll("a");
+      navLinks.forEach((link) => {
+        link.addEventListener("click", () => {
+          hamburger.classList.remove("active");
+          navMenu.classList.remove("active");
         });
+      });
 
-        // Counter animation for statistics
-        function animateCounters() {
-            const statNumbers = document.querySelectorAll('.stat-number');
-            
-            statNumbers.forEach(element => {
-                const target = parseInt(element.dataset.target);
-                const prefix = element.dataset.prefix || '';
-                let current = 0;
-                const increment = Math.ceil(target / 50);
-                
-                const timer = setInterval(() => {
-                    current += increment;
-                    if (current >= target) {
-                        current = target;
-                        clearInterval(timer);
-                        // Format number with commas
-                        element.textContent = prefix + current.toLocaleString() + '+';
-                    } else {
-                        element.textContent = prefix + current.toLocaleString();
-                    }
-                }, 30);
-            });
-        }
-        
-        // Trigger animation when stats section comes into view
-        const observer = new IntersectionObserver(entries => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    animateCounters();
-                    observer.unobserve(entry.target);
-                }
-            });
+      // Counter animation for statistics
+      function animateCounters() {
+        const statNumbers = document.querySelectorAll(".stat-number");
+
+        statNumbers.forEach((element) => {
+          const target = parseInt(element.dataset.target);
+          const prefix = element.dataset.prefix || "";
+          let current = 0;
+          const increment = Math.ceil(target / 50);
+
+          const timer = setInterval(() => {
+            current += increment;
+            if (current >= target) {
+              current = target;
+              clearInterval(timer);
+              // Format number with commas
+              element.textContent = prefix + current.toLocaleString() + "+";
+            } else {
+              element.textContent = prefix + current.toLocaleString();
+            }
+          }, 30);
         });
-        
-        const statsSection = document.querySelector('.stats');
-        if (statsSection) {
-            observer.observe(statsSection);
-        }
+      }
+
+      // Trigger animation when stats section comes into view
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            animateCounters();
+            observer.unobserve(entry.target);
+          }
+        });
+      });
+
+      const statsSection = document.querySelector(".stats");
+      if (statsSection) {
+        observer.observe(statsSection);
+      }
     </script>
-</body>
+  </body>
 </html>
