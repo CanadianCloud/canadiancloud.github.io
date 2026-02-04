@@ -24,7 +24,7 @@ jobs:
           cache: 'npm'
       
       - name: Install dependencies
-        run: npm ci
+        run: npm install
       
       # scrapes luma and updates events.json
       - name: Run events scraping script
