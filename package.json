@@ -1,0 +1,12 @@
+{
+  "name": "canadian-cloud-events",
+  "version": "1.0.0",
+  "description": "Script to update Canadian Cloud events",
+  "type": "module",
+  "scripts": {
+    "update-events": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
