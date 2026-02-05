@@ -1,158 +1,6 @@
 {
   "entries": [
     {
-      "api_id": "calev-oM21JN5MYpnDg1A",
-      "event": {
-        "api_id": "evt-wYAypt1ECZ8FneO",
-        "calendar_api_id": "cal-eRivKmWDsR2bxYq",
-        "cover_url": "https://images.lumacdn.com/gallery-images/ua/c2f85aab-5bf5-4576-96f4-66994e7d1c87",
-        "end_at": "2026-02-28T04:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": false,
-        "location_type": "offline",
-        "name": "test",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": true,
-        "start_at": "2026-02-28T03:00:00.000Z",
-        "timezone": "America/Vancouver",
-        "url": "rg2sbhym",
-        "user_api_id": "usr-g6FxZJfODUaVboL",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": null,
-        "geo_address_visibility": "public",
-        "coordinate": null,
-        "waitlist_enabled": false,
-        "waitlist_status": "disabled"
-      },
-      "cover_image": {
-        "colors": [
-          "#f02827",
-          "#eb0bc5",
-          "#0e0206",
-          "#f2b425"
-        ],
-        "palette": {
-          "neutral": [
-            {
-              "color": "#050102",
-              "percentage": 17.88
-            }
-          ],
-          "vibrant": [
-            {
-              "color": "#f00c06",
-              "percentage": 22.22
-            },
-            {
-              "color": "#ed01de",
-              "percentage": 15.91
-            },
-            {
-              "color": "#f0c314",
-              "percentage": 8.49
-            }
-          ]
-        }
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-eRivKmWDsR2bxYq",
-        "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
-        "coordinate": {
-          "longitude": -123.120738,
-          "latitude": 49.282729
-        },
-        "cover_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxuZXR3b3JraW5nfGVufDB8fHx8MTcyMjI5MjA3Mnwy&ixlib=rb-4.0.3&q=80&w=1080",
-        "description_short": "Amazon AWS, Microsoft Azure and Google GCP events in Canada",
-        "event_submission_restriction": "open",
-        "geo_city": "Vancouver",
-        "geo_country": "Canada",
-        "geo_region": "British Columbia",
-        "google_measurement_id": null,
-        "instagram_handle": null,
-        "is_blocked": false,
-        "launch_status": "launched",
-        "linkedin_handle": null,
-        "luma_plus_active": true,
-        "meta_pixel_id": null,
-        "name": "Cloud Events",
-        "personal_user_api_id": null,
-        "refund_policy": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "text": "No refunds. No Exchanges.",
-                  "type": "text"
-                }
-              ]
-            }
-          ]
-        },
-        "slug": "CloudCanada",
-        "social_image_url": null,
-        "stripe_account_id": "acct_1PxuTSE3uYeEs2Ai",
-        "tax_config": null,
-        "tiktok_handle": null,
-        "timezone": "America/Vancouver",
-        "tint_color": "#ffedc7",
-        "track_meta_ads_from_luma": false,
-        "twitter_handle": null,
-        "verified_at": "2024-06-12T21:30:46.314Z",
-        "website": "https://www.PublicCloud.ninja",
-        "youtube_handle": null,
-        "is_personal": false,
-        "personal_user": null
-      },
-      "start_at": "2026-02-28T03:00:00.000Z",
-      "hosts": [
-        {
-          "name": "Matt",
-          "api_id": "usr-g6FxZJfODUaVboL",
-          "website": "https://www.mattcarolan.com",
-          "timezone": "America/Vancouver",
-          "username": "MattCloud",
-          "bio_short": null,
-          "avatar_url": "https://images.lumacdn.com/avatars/n0/1cf35698-8753-45fc-9bb7-ad9e6c427b85",
-          "is_verified": false,
-          "tiktok_handle": null,
-          "last_online_at": "2026-02-04T02:38:14.615Z",
-          "twitter_handle": null,
-          "youtube_handle": "PublicCloudNinja",
-          "linkedin_handle": "/in/matthewcarolan",
-          "instagram_handle": "PublicCloudNinja"
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": null,
-        "is_free": true,
-        "max_price": null,
-        "is_sold_out": false,
-        "spots_remaining": null,
-        "is_near_capacity": false,
-        "require_approval": false,
-        "currency_info": null
-      },
-      "featured_guests": [],
-      "role": null,
-      "waitlist_active": false,
-      "featured_city": null,
-      "calendar_api_id": "cal-eRivKmWDsR2bxYq",
-      "is_manager": true,
-      "platform": "luma",
-      "status": "approved",
-      "submitted_by_user_api_id": "usr-g6FxZJfODUaVboL",
-      "tags": []
-    },
-    {
       "api_id": "calev-VeFuf1sXJyXsBSM",
       "event": {
         "api_id": "evt-29l5EDyiSF3WNaf",
@@ -288,7 +136,7 @@
           "avatar_url": "https://images.lumacdn.com/avatars/n0/1cf35698-8753-45fc-9bb7-ad9e6c427b85",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-02-04T02:38:14.615Z",
+          "last_online_at": "2026-02-04T17:06:27.346Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
@@ -461,7 +309,7 @@
           "avatar_url": "https://images.lumacdn.com/avatars/n0/1cf35698-8753-45fc-9bb7-ad9e6c427b85",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-02-04T02:38:14.615Z",
+          "last_online_at": "2026-02-04T17:06:27.346Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
