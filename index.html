@@ -346,6 +346,28 @@
     document.getElementById("current-year").textContent = new Date().getFullYear();
 </script>
 
+
+
+<div class="overlay" id="overlay" aria-hidden="true">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="loginTitle">
+    <div class="modal-top">
+      <h2 id="loginTitle" style="margin:0;">Login</h2>
+      <button class="close-btn" id="closeLogin" aria-label="Close">×</button>
+    </div>
+
+    <form id="loginForm">
+      <label for="email">Email (any)</label>
+      <input id="email" name="email" type="email" placeholder="name@example.com" required />
+
+      <label for="pw">Shared password</label>
+      <input id="pw" name="pw" type="password" placeholder="Password" required />
+
+      <button type="submit" class="submit">Continue</button>
+      <div id="err" class="error">Incorrect password.</div>
+    </form>
+  </div>
+</div>
+
 <script>
   // Shared password (view-source-able, so only "light friction")
   const SHARED_PASSWORD = "1234";
@@ -402,26 +424,6 @@
     }
   });
 </script>
-
-<div class="overlay" id="overlay" aria-hidden="true">
-  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="loginTitle">
-    <div class="modal-top">
-      <h2 id="loginTitle" style="margin:0;">Login</h2>
-      <button class="close-btn" id="closeLogin" aria-label="Close">×</button>
-    </div>
-
-    <form id="loginForm">
-      <label for="email">Email (any)</label>
-      <input id="email" name="email" type="email" placeholder="name@example.com" required />
-
-      <label for="pw">Shared password</label>
-      <input id="pw" name="pw" type="password" placeholder="Password" required />
-
-      <button type="submit" class="submit">Continue</button>
-      <div id="err" class="error">Incorrect password.</div>
-    </form>
-  </div>
-</div>
 
   </body>
 </html>
