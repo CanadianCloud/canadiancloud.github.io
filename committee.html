@@ -1,0 +1,46 @@
+<!-- tools.html -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Canadian Cloud Tools</title>
+
+  <!-- Tell compliant crawlers not to index -->
+  <meta name="robots" content="noindex, nofollow, noarchive" />
+
+  <style>
+    body { font-family: system-ui, Arial, sans-serif; max-width: 800px; margin: 60px auto; padding: 0 16px; }
+    ul { line-height: 1.9; }
+    .top { display:flex; justify-content: space-between; align-items:center; gap: 12px; flex-wrap: wrap; }
+    button { padding: 8px 12px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <script>
+    // Gate check
+    if (sessionStorage.getItem("cc_auth") !== "1") {
+      window.location.replace("/committee.html");
+    }
+  </script>
+
+  <div class="top">
+    <h1>Tools</h1>
+    <button id="logout">Logout</button>
+  </div>
+
+  <p>Links to the things.</p>
+  <ul>
+    <li><a href="https://example.com" target="_blank" rel="noopener">Sponsor Tracker</a></li>
+    <li><a href="https://example.com" target="_blank" rel="noopener">Volunteer Sheet</a></li>
+    <li><a href="https://example.com" target="_blank" rel="noopener">Confluence Space</a></li>
+  </ul>
+
+  <script>
+    document.getElementById("logout").addEventListener("click", () => {
+      sessionStorage.removeItem("cc_auth");
+      window.location.href = "/login.html";
+    });
+  </script>
+</body>
+</html>

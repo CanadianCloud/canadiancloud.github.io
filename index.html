@@ -19,6 +19,51 @@
     />
     <link rel="stylesheet" href="styles.css" />
     <script src="fetchData.js" type="module" defer></script>
+
+<style>
+  /* Make sure your overlay actually appears when opened */
+  .overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 18px;
+    z-index: 9999;
+  }
+  .overlay.open { display: flex; }
+
+  .modal {
+    width: 100%;
+    max-width: 520px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 18px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+  }
+  .modal-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 10px;
+  }
+  .close-btn {
+    border: 0;
+    background: transparent;
+    font-size: 22px;
+    cursor: pointer;
+    line-height: 1;
+  }
+
+  label { display:block; margin-top: 12px; font-weight: 600; }
+  input { width: 100%; padding: 10px; margin-top: 6px; box-sizing: border-box; }
+  .submit { margin-top: 16px; padding: 10px 14px; cursor: pointer; font-weight: 600; width: 100%; }
+  .error { margin-top: 12px; color: #b00020; display:none; }
+</style>
+
+
   </head>
   <body>
     <!-- Navigation -->
@@ -36,6 +81,7 @@
         <li><a href="#about">About</a></li>
         <li><a href="#events">Events</a></li>
         <li><a href="#involved">Get Involved</a></li>
+<li><a href="#" id="openLogin" class="nav-link">Login</a></li>
       </ul>
     </nav>
 
@@ -53,7 +99,7 @@
           <a href="https://www.cloudsummit.ca" class="btn" target="_blank"
             >Cloud Summit</a
           >
-          <a href="https://www.meetup.com/vanawsug/" class="btn" target="_blank"
+          <a href="https://www.awscanada.ca" class="btn" target="_blank"
             >AWS Events</a
           >
           <a href="http://www.azurecanada.ca" class="btn" target="_blank"
@@ -91,24 +137,16 @@
       <div class="about-content">
         <div class="about-text">
           <h2>
-            Canadian Public Cloud Association Sed ut unde perspiciatis unde
-            omnis iste natus
+            Canadian Public Cloud Association unoffically started in 2014 and has grown over the years to support many areas of the Canadian technology scene.
           </h2>
           <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-            consectetur, adipisci velit, sed quia non numquam eius modi tempora
-            incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+            CPCA has 3 core goals: <br>
+            1. To bring together the local technology community. <br>
+            2. To educate the local technology community. <br>
+            3. To give back to the local community through charity.
           </p>
           <p>
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-            suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-          </p>
-          <p>
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-            ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-          </p>
-          <p>
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
+
           </p>
         </div>
         <div class="about-image">
@@ -142,7 +180,8 @@
             Become a sponsor and help us build the future of local cloud
             communities
           </p>
-          <a href="#" class="btn-involved">Join Us</a>
+          <a href="https://tally.so/r/b5eB8L" target="_blank"
+ class="btn-involved">Join Us</a>
         </div>
         <div class="involved-card">
           <div class="involved-icon"><i class="fas fa-microphone"></i></div>
@@ -150,13 +189,15 @@
           <p>
             Interested in speaking at our upcoming event? Let's get in touch!
           </p>
-          <a href="#" class="btn-involved">Contact</a>
+          <a href="https://tally.so/r/1A4ZbQ" target="_blank"
+ class="btn-involved">Contact</a>
         </div>
         <div class="involved-card">
           <div class="involved-icon"><i class="fas fa-users"></i></div>
           <h3>Join Community</h3>
           <p>Join our discord group to stay connected</p>
-          <a href="#" class="btn-involved">Join Us</a>
+          <a href="https://discord.gg/wg372JtEK8" target="_blank"
+ class="btn-involved">Join Us</a>
         </div>
       </div>
     </section>
@@ -181,7 +222,6 @@
           <h3>Quick Links</h3>
           <ul class="footer-links">
             <li><a href="#about">About</a></li>
-            <li><a href="#events">Events</a></li>
             <li><a href="#events">Upcoming Events</a></li>
             <li><a href="#involved">Get Involved</a></li>
             <li>
@@ -239,7 +279,7 @@
       </div>
       <div class="footer-bottom">
         <p>
-          &copy; 2026 Canadian Public Cloud Association. All rights reserved.
+          &copy; <span id="current-year"></span> Canadian Public Cloud Association. All rights reserved.
         </p>
       </div>
     </footer>
@@ -301,5 +341,87 @@
         observer.observe(statsSection);
       }
     </script>
+
+<script>
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
+
+<script>
+  // Shared password (view-source-able, so only "light friction")
+  const SHARED_PASSWORD = "1234";
+
+  const overlay = document.getElementById("overlay");
+  const openBtn = document.getElementById("openLogin");
+  const closeBtn = document.getElementById("closeLogin");
+  const form = document.getElementById("loginForm");
+  const err = document.getElementById("err");
+  const pwInput = document.getElementById("pw");
+
+  function openOverlay(e) {
+    if (e) e.preventDefault(); // stops the nav link from jumping
+    overlay.classList.add("open");
+    overlay.setAttribute("aria-hidden", "false");
+    err.style.display = "none";
+    pwInput.value = "";
+
+    const emailInput = document.getElementById("email");
+    (emailInput.value ? pwInput : emailInput).focus();
+  }
+
+  function closeOverlay() {
+    overlay.classList.remove("open");
+    overlay.setAttribute("aria-hidden", "true");
+  }
+
+  openBtn.addEventListener("click", openOverlay);
+  closeBtn.addEventListener("click", closeOverlay);
+
+  // Close when clicking the dark background
+  overlay.addEventListener("click", (e) => {
+    if (e.target === overlay) closeOverlay();
+  });
+
+  // Close on Escape
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && overlay.classList.contains("open")) closeOverlay();
+  });
+
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    err.style.display = "none";
+
+    const pw = pwInput.value;
+
+    if (pw === SHARED_PASSWORD) {
+      sessionStorage.setItem("cc_auth", "1");
+      window.location.href = "committee.html";
+    } else {
+      err.style.display = "block";
+      pwInput.focus();
+      pwInput.select();
+    }
+  });
+</script>
+
+<div class="overlay" id="overlay" aria-hidden="true">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="loginTitle">
+    <div class="modal-top">
+      <h2 id="loginTitle" style="margin:0;">Login</h2>
+      <button class="close-btn" id="closeLogin" aria-label="Close">×</button>
+    </div>
+
+    <form id="loginForm">
+      <label for="email">Email (any)</label>
+      <input id="email" name="email" type="email" placeholder="name@example.com" required />
+
+      <label for="pw">Shared password</label>
+      <input id="pw" name="pw" type="password" placeholder="Password" required />
+
+      <button type="submit" class="submit">Continue</button>
+      <div id="err" class="error">Incorrect password.</div>
+    </form>
+  </div>
+</div>
+
   </body>
 </html>

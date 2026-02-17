@@ -1,0 +1,4 @@
+# robots.txt (put this at the root of your repo)
+User-agent: *
+Disallow: /login.html
+Disallow: /committee.html
