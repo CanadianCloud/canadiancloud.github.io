@@ -20,7 +20,7 @@
   <script>
     // Gate check
     if (sessionStorage.getItem("cc_auth") !== "1") {
-      window.location.replace("/committee.html");
+      window.location.replace("committee.html");
     }
   </script>
 
@@ -29,17 +29,50 @@
     <button id="logout">Logout</button>
   </div>
 
-  <p>Links to the things.</p>
+  <p>Toronto Cloud Summit Utilities:</p>
   <ul>
-    <li><a href="https://example.com" target="_blank" rel="noopener">Sponsor Tracker</a></li>
-    <li><a href="https://example.com" target="_blank" rel="noopener">Volunteer Sheet</a></li>
-    <li><a href="https://example.com" target="_blank" rel="noopener">Confluence Space</a></li>
+    <li><a href="https://www.cloudsummit.ca" target="_blank" rel="noopener">Public Website</a></li>
+    <li><a href="https://chat.whatsapp.com/BcXy1gE7Byo1LdK08E63ar" target="_blank" rel="noopener">Whatsapp</a></li>
+    <li><a href="https://cloudsummit.atlassian.net/wiki/spaces/TC" target="_blank" rel="noopener">Confluence</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1yioUJT8KYMgStN0jnJ1pSGp3EQT_8AtN?usp=drive_link" target="_blank" rel="noopener">Google Drive</a></li>
+  </ul>
+
+  <p>Vancouver Cloud Summit Utilities:</p>
+  <ul>
+    <li><a href="https://www.cloudsummit.ca" target="_blank" rel="noopener">Public Website</a></li>
+    <li><a href="https://chat.whatsapp.com/JxVM3GgKMmzGXaid4BqBYq" target="_blank" rel="noopener">Whatsapp</a></li>
+    <li><a href="" target="_blank" rel="noopener">Confluence</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1yioUJT8KYMgStN0jnJ1pSGp3EQT_8AtN?usp=drive_link" target="_blank" rel="noopener">Google Drive</a></li>
+  </ul>
+
+  <p>Hacker Rivals Utilities:</p>
+  <ul>
+    <li><a href="https://www.hackerrivals.com" target="_blank" rel="noopener">Public Website</a></li>
+    <li><a href="https://chat.whatsapp.com/KdXwSq68Zx4IST6hB08wrn" target="_blank" rel="noopener">Whatsapp</a></li>
+    <li><a href="https://hackers.atlassian.net/wiki/x/BYER" target="_blank" rel="noopener">Confluence</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1RE856XE93MFMNYMeQIyqxL1DZxce-P7I?usp=drive_link" target="_blank" rel="noopener">Google Drive</a></li>
+  </ul>
+
+  <p>Vancouver AWS Usergroup Utilities:</p>
+  <ul>
+    <li><a href="https://www.awscanada.ca" target="_blank" rel="noopener">Public Website</a></li>
+    <li><a href="https://chat.whatsapp.com/DSIFpgySRfy9zueULHeGwn" target="_blank" rel="noopener">Whatsapp</a></li>
+    <li><a href="https://github.com/CanadianCloud/aws-ug-vancouver" target="_blank" rel="noopener">Github</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1AqF2-ovE6VahtvC_33h6ZWCaFnLwDscT?usp=drive_link" target="_blank" rel="noopener">Google Drive</a></li>
+  </ul>
+
+  <p>Vancouver Azure Usergroup Utilities:</p>
+  <ul>
+    <li><a href="https://www.azurecanada.ca" target="_blank" rel="noopener">Public Website</a></li>
+    <li><a href="https://chat.whatsapp.com/CFglk0hkAZOG1APetZ7kPE" target="_blank" rel="noopener">Whatsapp</a></li>
+    <li><a href="https://github.com/CanadianCloud/azure-ug-vancouver" target="_blank" rel="noopener">Github</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1D_RgIKfHidrRasB79OiCw61XMtCsr5tC?usp=drive_link" target="_blank" rel="noopener">Google Drive</a></li>
   </ul>
 
   <script>
     document.getElementById("logout").addEventListener("click", () => {
       sessionStorage.removeItem("cc_auth");
-      window.location.href = "/login.html";
+      window.location.href = "https://www.canadiancloud.org";
     });
   </script>
 </body>
