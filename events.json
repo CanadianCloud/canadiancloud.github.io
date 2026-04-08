@@ -131,7 +131,7 @@
           "name": "Matt",
           "api_id": "usr-g6FxZJfODUaVboL",
           "website": "https://www.mattcarolan.com",
-          "timezone": "America/Toronto",
+          "timezone": "Europe/Bucharest",
           "username": "MattCloud",
           "bio_short": null,
           "last_name": "",
@@ -139,7 +139,7 @@
           "first_name": "Matt",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-04T00:18:33.310Z",
+          "last_online_at": "2026-04-08T03:22:06.745Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
@@ -177,11 +177,7 @@
         "is_sold_out": false,
         "spots_remaining": null,
         "is_near_capacity": false,
-        "require_approval": false,
-        "currency_info": {
-          "currency": "cad",
-          "decimals": 2
-        }
+        "require_approval": false
       },
       "featured_guests": [],
       "manager_info": null,
@@ -328,7 +324,7 @@
           "name": "Matt",
           "api_id": "usr-g6FxZJfODUaVboL",
           "website": "https://www.mattcarolan.com",
-          "timezone": "America/Toronto",
+          "timezone": "Europe/Bucharest",
           "username": "MattCloud",
           "bio_short": null,
           "last_name": "",
@@ -336,7 +332,7 @@
           "first_name": "Matt",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-04T00:18:33.310Z",
+          "last_online_at": "2026-04-08T03:22:06.745Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
@@ -356,11 +352,7 @@
         "is_sold_out": false,
         "spots_remaining": null,
         "is_near_capacity": false,
-        "require_approval": false,
-        "currency_info": {
-          "currency": "cad",
-          "decimals": 2
-        }
+        "require_approval": false
       },
       "featured_guests": [],
       "manager_info": null,
