@@ -76,6 +76,14 @@
         "access_level": "public",
         "api_id": "cal-eRivKmWDsR2bxYq",
         "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
+        "city": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "coordinate": {
           "longitude": -123.120738,
           "latitude": 49.282729
@@ -131,7 +139,7 @@
           "name": "Matt",
           "api_id": "usr-g6FxZJfODUaVboL",
           "website": "https://www.mattcarolan.com",
-          "timezone": "Europe/Warsaw",
+          "timezone": "America/Toronto",
           "username": "MattCloud",
           "bio_short": null,
           "last_name": "",
@@ -139,7 +147,7 @@
           "first_name": "Matt",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-12T05:04:03.715Z",
+          "last_online_at": "2026-04-14T01:27:06.275Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
@@ -157,7 +165,7 @@
           "first_name": "Shanky",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-11T17:06:29.203Z",
+          "last_online_at": "2026-04-14T05:06:28.075Z",
           "twitter_handle": "shankyjs",
           "youtube_handle": "shankyjs",
           "linkedin_handle": "/in/shankyjs",
@@ -175,7 +183,7 @@
           "first_name": "Philip",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2025-11-14T00:55:49.629Z",
+          "last_online_at": "2026-04-13T16:42:49.520Z",
           "twitter_handle": null,
           "youtube_handle": null,
           "linkedin_handle": "/in/philip-mak-b2b92823a",
@@ -287,6 +295,14 @@
         "access_level": "public",
         "api_id": "cal-eRivKmWDsR2bxYq",
         "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
+        "city": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "coordinate": {
           "longitude": -123.120738,
           "latitude": 49.282729
@@ -342,7 +358,7 @@
           "name": "Matt",
           "api_id": "usr-g6FxZJfODUaVboL",
           "website": "https://www.mattcarolan.com",
-          "timezone": "Europe/Warsaw",
+          "timezone": "America/Toronto",
           "username": "MattCloud",
           "bio_short": null,
           "last_name": "",
@@ -350,7 +366,7 @@
           "first_name": "Matt",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-12T05:04:03.715Z",
+          "last_online_at": "2026-04-14T01:27:06.275Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
