@@ -76,14 +76,6 @@
         "access_level": "public",
         "api_id": "cal-eRivKmWDsR2bxYq",
         "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
-        "city": {
-          "city": "Vancouver",
-          "region": "British Columbia",
-          "country": "Canada",
-          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
-          "timezone": "America/Vancouver",
-          "country_code": "CA"
-        },
         "coordinate": {
           "longitude": -123.120738,
           "latitude": 49.282729
@@ -96,6 +88,14 @@
         "is_blocked": false,
         "launch_status": "launched",
         "linkedin_handle": null,
+        "location": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "luma_plan": "plus",
         "luma_plus_active": true,
         "meta_pixel_id": null,
@@ -126,6 +126,14 @@
         "verified_at": "2024-06-12T21:30:46.314Z",
         "website": "https://www.PublicCloud.ninja",
         "youtube_handle": null,
+        "city": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "is_personal": false,
         "personal_user": null,
         "geo_city": "Vancouver",
@@ -147,7 +155,7 @@
           "first_name": "Matt",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-28T21:53:41.471Z",
+          "last_online_at": "2026-04-29T22:16:51.657Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
@@ -165,7 +173,7 @@
           "first_name": "Shanky",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-29T01:39:40.931Z",
+          "last_online_at": "2026-04-30T06:27:02.598Z",
           "twitter_handle": "shankyjs",
           "youtube_handle": "shankyjs",
           "linkedin_handle": "/in/shankyjs",
@@ -422,14 +430,6 @@
         "access_level": "public",
         "api_id": "cal-eRivKmWDsR2bxYq",
         "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
-        "city": {
-          "city": "Vancouver",
-          "region": "British Columbia",
-          "country": "Canada",
-          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
-          "timezone": "America/Vancouver",
-          "country_code": "CA"
-        },
         "coordinate": {
           "longitude": -123.120738,
           "latitude": 49.282729
@@ -442,6 +442,14 @@
         "is_blocked": false,
         "launch_status": "launched",
         "linkedin_handle": null,
+        "location": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "luma_plan": "plus",
         "luma_plus_active": true,
         "meta_pixel_id": null,
@@ -472,6 +480,14 @@
         "verified_at": "2024-06-12T21:30:46.314Z",
         "website": "https://www.PublicCloud.ninja",
         "youtube_handle": null,
+        "city": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "is_personal": false,
         "personal_user": null,
         "geo_city": "Vancouver",
@@ -493,7 +509,7 @@
           "first_name": "Matt",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-28T21:53:41.471Z",
+          "last_online_at": "2026-04-29T22:16:51.657Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
@@ -651,14 +667,6 @@
         "access_level": "public",
         "api_id": "cal-eRivKmWDsR2bxYq",
         "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
-        "city": {
-          "city": "Vancouver",
-          "region": "British Columbia",
-          "country": "Canada",
-          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
-          "timezone": "America/Vancouver",
-          "country_code": "CA"
-        },
         "coordinate": {
           "longitude": -123.120738,
           "latitude": 49.282729
@@ -671,6 +679,14 @@
         "is_blocked": false,
         "launch_status": "launched",
         "linkedin_handle": null,
+        "location": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "luma_plan": "plus",
         "luma_plus_active": true,
         "meta_pixel_id": null,
@@ -701,6 +717,14 @@
         "verified_at": "2024-06-12T21:30:46.314Z",
         "website": "https://www.PublicCloud.ninja",
         "youtube_handle": null,
+        "city": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "is_personal": false,
         "personal_user": null,
         "geo_city": "Vancouver",
@@ -722,7 +746,7 @@
           "first_name": "Matt",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-28T21:53:41.471Z",
+          "last_online_at": "2026-04-29T22:16:51.657Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
@@ -736,7 +760,7 @@
         "is_free": false,
         "max_price": null,
         "is_sold_out": false,
-        "spots_remaining": 88,
+        "spots_remaining": 83,
         "is_near_capacity": false,
         "require_approval": true
       },
@@ -962,14 +986,6 @@
         "access_level": "public",
         "api_id": "cal-eRivKmWDsR2bxYq",
         "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
-        "city": {
-          "city": "Vancouver",
-          "region": "British Columbia",
-          "country": "Canada",
-          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
-          "timezone": "America/Vancouver",
-          "country_code": "CA"
-        },
         "coordinate": {
           "longitude": -123.120738,
           "latitude": 49.282729
@@ -982,6 +998,14 @@
         "is_blocked": false,
         "launch_status": "launched",
         "linkedin_handle": null,
+        "location": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "luma_plan": "plus",
         "luma_plus_active": true,
         "meta_pixel_id": null,
@@ -1012,6 +1036,14 @@
         "verified_at": "2024-06-12T21:30:46.314Z",
         "website": "https://www.PublicCloud.ninja",
         "youtube_handle": null,
+        "city": {
+          "city": "Vancouver",
+          "region": "British Columbia",
+          "country": "Canada",
+          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+          "timezone": "America/Vancouver",
+          "country_code": "CA"
+        },
         "is_personal": false,
         "personal_user": null,
         "geo_city": "Vancouver",
@@ -1033,7 +1065,7 @@
           "first_name": "Matt",
           "is_verified": false,
           "tiktok_handle": null,
-          "last_online_at": "2026-04-28T21:53:41.471Z",
+          "last_online_at": "2026-04-29T22:16:51.657Z",
           "twitter_handle": null,
           "youtube_handle": "PublicCloudNinja",
           "linkedin_handle": "/in/matthewcarolan",
