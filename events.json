@@ -164,8 +164,8 @@
           "instagram_handle": "PublicCloudNinja"
         }
       ],
-      "guest_count": 126,
-      "ticket_count": 126,
+      "guest_count": 129,
+      "ticket_count": 129,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -178,6 +178,24 @@
       "registration_availability": "open",
       "featured_guests": [
         {
+          "api_id": "usr-S1U6LuGrZHcdLcu",
+          "avatar_url": "https://images.lumacdn.com/avatars/dk/1288d481-838b-46fd-a233-949f4cb20cb1.jpg",
+          "bio_short": "Hello my name is Amir CEO/Founder of www.Thinkhubx.ai",
+          "first_name": "Amir",
+          "last_name": "Shavandi",
+          "instagram_handle": "amirmah.shavandi",
+          "is_verified": false,
+          "last_online_at": "2026-05-16T18:02:10.257Z",
+          "linkedin_handle": "/in/amirshavandi",
+          "name": "Amir",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": "https://www.thinkhubx.ai",
+          "youtube_handle": "programmingwithAmir-e3o"
+        },
+        {
           "api_id": "usr-ou6flAllkGqcJM7",
           "avatar_url": "https://images.lumacdn.com/avatars/4y/7ca4a7a4-1fa9-498f-8a86-d636e6e4befb.jpg",
           "bio_short": "international cooperation, economy, IT, cybersecurity, AI innovations, Ukrainian representation in North and South America",
@@ -185,7 +203,7 @@
           "last_name": "Bohoslavets",
           "instagram_handle": "mikolabogoslavets",
           "is_verified": false,
-          "last_online_at": "2026-05-16T01:40:40.383Z",
+          "last_online_at": "2026-05-16T19:25:29.509Z",
           "linkedin_handle": "/in/mykola-bohoslavets-a07244375",
           "name": "Mykola Bohoslavets",
           "tiktok_handle": null,
@@ -203,7 +221,7 @@
           "last_name": "Shah",
           "instagram_handle": "blueskygreengrass3",
           "is_verified": false,
-          "last_online_at": "2026-05-16T03:09:47.992Z",
+          "last_online_at": "2026-05-16T13:31:43.465Z",
           "linkedin_handle": "/in/swapnilshahproduct",
           "name": "Swapnil Shah",
           "tiktok_handle": null,
@@ -338,24 +356,6 @@
           "username": "mrleeio",
           "website": "https://mrlee.io",
           "youtube_handle": ""
-        },
-        {
-          "api_id": "usr-SGF2yn4fShH1od8",
-          "avatar_url": "https://images.lumacdn.com/avatars/mp/47d5aa91-2ce7-48e6-983d-43e0b0724601",
-          "bio_short": null,
-          "first_name": "Talesh",
-          "last_name": "Seeparsan",
-          "instagram_handle": null,
-          "is_verified": false,
-          "last_online_at": "2026-05-14T02:11:19.952Z",
-          "linkedin_handle": "/in/talesh",
-          "name": "Talesh Seeparsan",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
-          "youtube_handle": null
         }
       ],
       "manager_info": null,
