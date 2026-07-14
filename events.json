@@ -15,7 +15,7 @@
         "recurrence_id": null,
         "show_guest_list": true,
         "social_image_url": "https://images.lumacdn.com/event-social/va/6a9fbb8f-3b62-4199-8681-a1b6c7a8bc87.png",
-        "start_at": "2026-07-17T00:30:00.000Z",
+        "start_at": "2026-07-17T00:00:00.000Z",
         "timezone": "America/Vancouver",
         "url": "aws-july",
         "user_api_id": "usr-g6FxZJfODUaVboL",
@@ -143,7 +143,7 @@
         "geo_region": "Ontario",
         "timezone": "America/Toronto"
       },
-      "start_at": "2026-07-17T00:30:00.000Z",
+      "start_at": "2026-07-17T00:00:00.000Z",
       "hosts": [
         {
           "api_id": "usr-g6FxZJfODUaVboL",
@@ -153,7 +153,7 @@
           "last_name": "",
           "instagram_handle": "PublicCloudNinja",
           "is_verified": false,
-          "last_online_at": "2026-07-11T05:14:36.364Z",
+          "last_online_at": "2026-07-14T03:05:36.458Z",
           "linkedin_handle": "/in/matthewcarolan",
           "name": "Matt",
           "tiktok_handle": null,
@@ -171,7 +171,7 @@
           "last_name": "JS",
           "instagram_handle": "shankyjs.tf",
           "is_verified": false,
-          "last_online_at": "2026-07-13T00:16:30.403Z",
+          "last_online_at": "2026-07-14T05:33:13.767Z",
           "linkedin_handle": "/in/shankyjs",
           "name": "ShankyJS",
           "tiktok_handle": null,
@@ -182,8 +182,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 306,
-      "ticket_count": 306,
+      "guest_count": 315,
+      "ticket_count": 315,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -195,6 +195,78 @@
       },
       "registration_availability": "waitlist",
       "featured_guests": [
+        {
+          "api_id": "usr-V3fO68iTHqNOGYv",
+          "avatar_url": "https://images.lumacdn.com/avatars/e5/dbcc4219-2687-482d-b78b-deef276e742d",
+          "bio_short": null,
+          "first_name": "Louie",
+          "last_name": "Wu",
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-07-13T22:52:17.978Z",
+          "linkedin_handle": "/in/http",
+          "name": "Louie",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "http",
+          "username": null,
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-rkiysbv3wmqCUdJ",
+          "avatar_url": "https://images.lumacdn.com/avatars/og/584811e9-1617-4b92-92e9-9a12ca4f9ee6.jpg",
+          "bio_short": "",
+          "first_name": "Het",
+          "last_name": "Shah",
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-07-13T05:37:26.345Z",
+          "linkedin_handle": "/in/hetshah22",
+          "name": "Het Shah",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "hetshah22",
+          "username": null,
+          "website": "https://www.hetshah.design",
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-y233ILOauyGDJBf",
+          "avatar_url": "https://images.lumacdn.com/avatars/pp/e915e2fd-5f48-4489-8213-dbe96b04d400",
+          "bio_short": "",
+          "first_name": "Prakash",
+          "last_name": "Wagle",
+          "instagram_handle": null,
+          "is_verified": false,
+          "last_online_at": "2026-07-13T21:30:49.635Z",
+          "linkedin_handle": "/in/prakashwagle",
+          "name": "Prakash Wagle",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "prakashwagle89",
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-FgDqkBH3joWB7m3",
+          "avatar_url": "https://images.lumacdn.com/avatars/ed/4df3bee8-5b6e-4785-8865-4cabbc72b7e8",
+          "bio_short": "🚀 Entrepreneur,Business Development & Marketing Strategist @ www.Sedighi.ca",
+          "first_name": "Ali",
+          "last_name": "Sedighi",
+          "instagram_handle": "sedighi.ca",
+          "is_verified": false,
+          "last_online_at": "2026-07-13T01:38:17.360Z",
+          "linkedin_handle": "/in/sedighiali",
+          "name": "Ali Sedighi",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "sedighi",
+          "username": "sedighi",
+          "website": "https://sedighi.ca/",
+          "youtube_handle": "sedighi"
+        },
         {
           "api_id": "usr-CupGfpBcMa1apzU",
           "avatar_url": "https://images.lumacdn.com/avatars/p3/217cd250-e994-4611-9e0a-e5531e36e61b.jpg",
@@ -221,7 +293,7 @@
           "last_name": "S",
           "instagram_handle": null,
           "is_verified": false,
-          "last_online_at": "2026-07-12T21:55:19.004Z",
+          "last_online_at": "2026-07-13T23:54:24.937Z",
           "linkedin_handle": "/in/ryan-spencer-765a39b0",
           "name": "Ryan S.",
           "tiktok_handle": null,
@@ -239,7 +311,7 @@
           "last_name": "Alemi",
           "instagram_handle": null,
           "is_verified": false,
-          "last_online_at": "2026-07-13T06:18:24.567Z",
+          "last_online_at": "2026-07-14T07:25:07.039Z",
           "linkedin_handle": "/in/kvalemi",
           "name": "Kaveh Alemi",
           "tiktok_handle": null,
@@ -257,7 +329,7 @@
           "last_name": "Seo",
           "instagram_handle": "ihateraincouver",
           "is_verified": false,
-          "last_online_at": "2026-07-13T02:04:41.164Z",
+          "last_online_at": "2026-07-14T07:31:36.779Z",
           "linkedin_handle": "/in/jaeyongseo",
           "name": "JY Seo",
           "tiktok_handle": null,
@@ -275,7 +347,7 @@
           "last_name": "Dales",
           "instagram_handle": "metaviewcoaching",
           "is_verified": false,
-          "last_online_at": "2026-07-13T01:37:12.888Z",
+          "last_online_at": "2026-07-14T01:16:51.826Z",
           "linkedin_handle": "/in/connor-dales",
           "name": "Connor Dales",
           "tiktok_handle": null,
@@ -300,78 +372,6 @@
           "timezone": "America/Vancouver",
           "twitter_handle": null,
           "username": null,
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-HpgqyDycfhTASjx",
-          "avatar_url": "https://images.lumacdn.com/avatars/99/c0215671-d728-4e9e-8982-885cbd13e950",
-          "bio_short": null,
-          "first_name": "Kumar",
-          "last_name": "Poovizhi Ashok",
-          "instagram_handle": null,
-          "is_verified": false,
-          "last_online_at": null,
-          "linkedin_handle": "/in/poovizhiashokkumar",
-          "name": "Poovizhi Ashok Kumar",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-AHzHCy4IydAKKAW",
-          "avatar_url": "https://images.lumacdn.com/uploads/kd/3b1078e6-a471-48a7-88f3-0cc316598497.jpg",
-          "bio_short": "Building the AI Native observability layer - made for agents not human operators\n\nLogForge.dev",
-          "first_name": "Adan",
-          "last_name": "Butt",
-          "instagram_handle": null,
-          "is_verified": false,
-          "last_online_at": "2026-07-13T04:25:51.765Z",
-          "linkedin_handle": "/in/adan-butt",
-          "name": "Adan",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": "Adan_dev",
-          "username": null,
-          "website": "https://www.logforge.dev/",
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-FFVCvuiESuT4W2S",
-          "avatar_url": "https://images.lumacdn.com/avatars/vs/b93b2a9e-2b19-44cd-af62-3eb0e7524c48.jpg",
-          "bio_short": "Marketing Manager at Bravo Rewards. Actively learning and expanding into tech and AI to bridge marketing strategy with innovation.",
-          "first_name": "Gloria",
-          "last_name": "Li",
-          "instagram_handle": null,
-          "is_verified": false,
-          "last_online_at": "2026-07-13T01:33:56.557Z",
-          "linkedin_handle": "/in/glorialivancouver",
-          "name": "Gloria Li",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-cXJPG5NBU6PrgCZ",
-          "avatar_url": "https://images.lumacdn.com/uploads/fv/dac3fbb1-2975-4b39-aab3-87974269c775.jpg",
-          "bio_short": "I am a fullstack developer that loves to building Python and Golang. I have built many AI products and MCP servers.",
-          "first_name": "Kevin",
-          "last_name": "Vo",
-          "instagram_handle": null,
-          "is_verified": false,
-          "last_online_at": "2026-07-08T01:39:25.248Z",
-          "linkedin_handle": "/in/kevyvo",
-          "name": "Kevin Vo",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": "KevinVo",
           "website": null,
           "youtube_handle": null
         }
@@ -546,7 +546,7 @@
           "last_name": "",
           "instagram_handle": "PublicCloudNinja",
           "is_verified": false,
-          "last_online_at": "2026-07-11T05:14:36.364Z",
+          "last_online_at": "2026-07-14T03:05:36.458Z",
           "linkedin_handle": "/in/matthewcarolan",
           "name": "Matt",
           "tiktok_handle": null,
@@ -876,7 +876,7 @@
           "last_name": "",
           "instagram_handle": "PublicCloudNinja",
           "is_verified": false,
-          "last_online_at": "2026-07-11T05:14:36.364Z",
+          "last_online_at": "2026-07-14T03:05:36.458Z",
           "linkedin_handle": "/in/matthewcarolan",
           "name": "Matt",
           "tiktok_handle": null,
@@ -1022,6 +1022,227 @@
           "color": "barney"
         }
       ]
+    },
+    {
+      "api_id": "calev-WrcXW9jj6gY6FlV",
+      "event": {
+        "api_id": "evt-5XhVSHtjfUPnca3",
+        "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+        "cover_url": "https://images.lumacdn.com/uploads/tv/c48466d2-8025-4102-bbbe-42a8a915ab07.png",
+        "end_at": "2026-09-03T02:45:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "AWS Vancouver: DevRel All-Stars",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/jn/8d75cf46-fa59-4b2d-a68e-2351411134ba.png",
+        "start_at": "2026-09-03T00:00:00.000Z",
+        "timezone": "America/Vancouver",
+        "url": "cloud-ri5l",
+        "user_api_id": "usr-g6FxZJfODUaVboL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "city": "Vancouver",
+          "type": "google",
+          "region": "British Columbia",
+          "address": "349 W Georgia St",
+          "country": "Canada",
+          "place_id": "EiszNDkgVyBHZW9yZ2lhIFN0LCBWYW5jb3V2ZXIsIEJDIFY2QiwgQ2FuYWRhIjESLwoUChIJ1Yfll35xhlQRlH0zexkIq60Q3QIqFAoSCb2PsUWCcYZUEaywKljAemjW",
+          "localized": null,
+          "city_state": "Vancouver, BC",
+          "description": "Please bring Gov ID for reception registration desk",
+          "sublocality": "Central Vancouver",
+          "country_code": "CA",
+          "full_address": "349 W Georgia St, Vancouver, BC, Canada",
+          "region_short": "BC",
+          "short_address": "349 W Georgia St, Vancouver",
+          "apple_maps_place_id": null,
+          "mode": "shown"
+        },
+        "geo_address_visibility": "public",
+        "coordinate": {
+          "longitude": -123.1146093,
+          "latitude": 49.2803708
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "cover_image": {
+        "colors": [
+          "#040518",
+          "#f8f6f5",
+          "#f6810f",
+          "#e8237e"
+        ],
+        "palette": {
+          "neutral": [
+            {
+              "color": "#040518",
+              "percentage": 35.67
+            },
+            {
+              "color": "#f8f6f5",
+              "percentage": 9.14
+            }
+          ],
+          "vibrant": [
+            {
+              "color": "#131c70",
+              "percentage": 11.35
+            },
+            {
+              "color": "#e8237e",
+              "percentage": 4.89
+            },
+            {
+              "color": "#f6810f",
+              "percentage": 4.9
+            },
+            {
+              "color": "#9f27a7",
+              "percentage": 3.24
+            }
+          ]
+        }
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-eRivKmWDsR2bxYq",
+        "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
+        "coordinate": {
+          "longitude": -79.388447,
+          "latitude": 43.6548253
+        },
+        "cover_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxuZXR3b3JraW5nfGVufDB8fHx8MTcyMjI5MjA3Mnwy&ixlib=rb-4.0.3&q=80&w=1080",
+        "description_short": "Amazon AWS, Microsoft Azure and Google GCP events in Canada",
+        "event_submission_restriction": "open",
+        "google_measurement_id": null,
+        "instagram_handle": null,
+        "is_blocked": false,
+        "launch_status": "launched",
+        "linkedin_handle": null,
+        "location": {
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "place_id": "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+          "timezone": "America/Toronto",
+          "country_code": "CA"
+        },
+        "luma_plan": "plus",
+        "luma_plus_active": true,
+        "meta_pixel_id": null,
+        "name": "Cloud Events",
+        "personal_user_api_id": null,
+        "refund_policy": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "No refunds. No Exchanges.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        "slug": "CloudCanada",
+        "social_image_url": null,
+        "stripe_account_id": "acct_1PxuTSE3uYeEs2Ai",
+        "tax_config": null,
+        "tiktok_handle": null,
+        "tint_color": "#ffedc7",
+        "track_meta_ads_from_luma": false,
+        "twitter_handle": null,
+        "verified_at": "2024-06-12T21:30:46.314Z",
+        "website": "https://www.PublicCloud.ninja",
+        "youtube_handle": null,
+        "city": {
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "place_id": "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+          "timezone": "America/Toronto",
+          "country_code": "CA"
+        },
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": "Toronto",
+        "geo_country": "Canada",
+        "geo_region": "Ontario",
+        "timezone": "America/Toronto"
+      },
+      "start_at": "2026-09-03T00:00:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-g6FxZJfODUaVboL",
+          "avatar_url": "https://images.lumacdn.com/avatars/n0/1cf35698-8753-45fc-9bb7-ad9e6c427b85",
+          "bio_short": null,
+          "first_name": "Matt",
+          "last_name": "",
+          "instagram_handle": "PublicCloudNinja",
+          "is_verified": false,
+          "last_online_at": "2026-07-14T03:05:36.458Z",
+          "linkedin_handle": "/in/matthewcarolan",
+          "name": "Matt",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "MattCloud",
+          "website": "https://www.mattcarolan.com",
+          "youtube_handle": "PublicCloudNinja"
+        },
+        {
+          "api_id": "usr-u2ELd68fbSg9VpZ",
+          "avatar_url": "https://images.lumacdn.com/uploads/hm/751b3765-eaf2-462f-bb8e-b479195a9a49.png",
+          "bio_short": "☁️ Cloud Engineer | Open Source\n📑 CNCF VAN/SV Org\n🧑🏻‍🏫 Mentor in DevOps & Cloud/Career choices.\n📍 Vancouver, 🇨🇦\ngithub.com/ShankyJS",
+          "first_name": "Shanky",
+          "last_name": "JS",
+          "instagram_handle": "shankyjs.tf",
+          "is_verified": false,
+          "last_online_at": "2026-07-14T05:33:13.767Z",
+          "linkedin_handle": "/in/shankyjs",
+          "name": "ShankyJS",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "shankyjs",
+          "username": null,
+          "website": "https://blog.shankyjs.com",
+          "youtube_handle": "shankyjs"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": null,
+        "is_free": true,
+        "max_price": null,
+        "is_sold_out": false,
+        "spots_remaining": null,
+        "is_near_capacity": false,
+        "require_approval": false
+      },
+      "registration_availability": "open",
+      "featured_guests": [],
+      "manager_info": null,
+      "guest_info": null,
+      "host_info": null,
+      "waitlist_active": false,
+      "featured_city": null,
+      "role": null,
+      "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "submitted_by_user_api_id": "usr-g6FxZJfODUaVboL",
+      "tags": []
     }
   ],
   "has_more": false
