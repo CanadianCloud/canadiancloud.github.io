@@ -327,7 +327,7 @@
           "linkedin_handle": "/in/andrea-liyu-liao",
           "name": "Andrea Liao",
           "tiktok_handle": null,
-          "timezone": "America/New_York",
+          "timezone": "America/Vancouver",
           "twitter_handle": "andrealiao15",
           "username": "andrealiao",
           "website": null,
@@ -1407,8 +1407,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 86,
-      "ticket_count": 86,
+      "guest_count": 89,
+      "ticket_count": 89,
       "ticket_info": {
         "price": null,
         "is_free": true,
