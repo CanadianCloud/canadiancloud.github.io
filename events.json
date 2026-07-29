@@ -150,15 +150,19 @@
           "youtube_handle": ""
         }
       ],
-      "guest_count": 399,
-      "ticket_count": 399,
+      "guest_count": 401,
+      "ticket_count": 401,
       "ticket_info": {
-        "price": null,
-        "is_free": true,
+        "price": {
+          "cents": 2000,
+          "currency": "cad",
+          "is_flexible": false
+        },
+        "is_free": false,
         "max_price": null,
         "is_sold_out": false,
-        "spots_remaining": 1,
-        "is_near_capacity": true,
+        "spots_remaining": 99,
+        "is_near_capacity": false,
         "require_approval": false
       },
       "registration_availability": "open",
@@ -300,23 +304,6 @@
           "youtube_handle": null
         },
         {
-          "api_id": "usr-49QVvGAKPfyHNwj",
-          "avatar_url": "https://images.lumacdn.com/avatars/af/98172538-a130-44f8-b2b0-9784d28c8194",
-          "bio_short": "Community Team Lead at Safe Software and Co-Founder of She Summits in Vancouver, BC",
-          "first_name": "Danielle",
-          "last_name": "Leroux",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/danielle-leroux-18569562",
-          "name": "Danielle Leroux",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
-          "youtube_handle": ""
-        },
-        {
           "api_id": "usr-9iZAvk3YoW52ymt",
           "avatar_url": "https://images.lumacdn.com/avatars/gt/592b6fdd-99a4-4ef0-aa57-d436ab9c9ccf",
           "bio_short": "",
@@ -332,6 +319,23 @@
           "username": null,
           "website": null,
           "youtube_handle": null
+        },
+        {
+          "api_id": "usr-JT3HOZEl8klMwkI",
+          "avatar_url": "https://images.lumacdn.com/avatars/1f/835e4eda-092c-4141-b4e8-eb7696b32755.jpg",
+          "bio_short": null,
+          "first_name": "Jill",
+          "last_name": "Robinson",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/jillrobinson",
+          "name": "Jill Robinson",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "jillrob",
+          "website": "https://jillrob.ca",
+          "youtube_handle": ""
         }
       ],
       "manager_info": null,
@@ -536,7 +540,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 153,
+        "spots_remaining": 150,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1407,8 +1411,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 99,
-      "ticket_count": 99,
+      "guest_count": 101,
+      "ticket_count": 101,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1420,6 +1424,23 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-utxq1NL35nCBP1H",
+          "avatar_url": "https://images.lumacdn.com/avatars/ip/26189c45-e57a-4c0c-8a4c-f6ff8ed913c0.jpg",
+          "bio_short": "",
+          "first_name": "Eduardo",
+          "last_name": "Garza",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/eduardocgarza",
+          "name": "Eduardo Garza",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "eduardocgarza",
+          "username": "eduardocgarza",
+          "website": "https://eduardo.garza.ca",
+          "youtube_handle": ""
+        },
         {
           "api_id": "usr-iyab1GARzJsnOUA",
           "avatar_url": "https://images.lumacdn.com/avatars/vj/60bd42da-769d-4d89-b46f-58a563aa0f61.jpg",
@@ -1572,23 +1593,6 @@
           "username": null,
           "website": null,
           "youtube_handle": null
-        },
-        {
-          "api_id": "usr-XyC7XMON2Gs6DUG",
-          "avatar_url": "https://images.lumacdn.com/avatars/ma/3d3c4c57-aed3-44de-8a0d-1a2a19425b56.jpg",
-          "bio_short": "",
-          "first_name": "José A.",
-          "last_name": "Ruiz",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/joseruiz81",
-          "name": "José A. Ruiz",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
-          "youtube_handle": ""
         }
       ],
       "manager_info": null,
