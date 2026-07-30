@@ -8,7 +8,7 @@
         "cover_url": "https://images.lumacdn.com/uploads/fd/6c42e313-8c21-4a5e-9d11-c494a6b67467.png",
         "end_at": "2026-07-31T03:30:00.000Z",
         "event_type": "independent",
-        "hide_rsvp": false,
+        "hide_rsvp": true,
         "location_type": "offline",
         "name": "The Future of Women: Money, Power & Influence",
         "one_to_one": true,
@@ -150,8 +150,8 @@
           "youtube_handle": ""
         }
       ],
-      "guest_count": 401,
-      "ticket_count": 401,
+      "guest_count": 393,
+      "ticket_count": 393,
       "ticket_info": {
         "price": {
           "cents": 2000,
@@ -161,11 +161,11 @@
         "is_free": false,
         "max_price": null,
         "is_sold_out": false,
-        "spots_remaining": 99,
+        "spots_remaining": 107,
         "is_near_capacity": false,
         "require_approval": false
       },
-      "registration_availability": "open",
+      "registration_availability": "sold-out",
       "featured_guests": [
         {
           "api_id": "usr-KW7e8nI5y8b5rRV",
@@ -540,7 +540,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 150,
+        "spots_remaining": 149,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1411,8 +1411,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 101,
-      "ticket_count": 101,
+      "guest_count": 104,
+      "ticket_count": 104,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1445,8 +1445,8 @@
           "api_id": "usr-iyab1GARzJsnOUA",
           "avatar_url": "https://images.lumacdn.com/avatars/vj/60bd42da-769d-4d89-b46f-58a563aa0f61.jpg",
           "bio_short": "Senior Software Engineer @Chartmetric",
-          "first_name": "Hyosik Joo",
-          "last_name": "Philip",
+          "first_name": "Hyosik",
+          "last_name": "Joo",
           "instagram_handle": null,
           "is_verified": false,
           "linkedin_handle": "/in/hyositive",
@@ -1456,7 +1456,7 @@
           "twitter_handle": null,
           "username": "hyositive",
           "website": null,
-          "youtube_handle": ""
+          "youtube_handle": null
         },
         {
           "api_id": "usr-mFEWiQaiIZeoug8",
