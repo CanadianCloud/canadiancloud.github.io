@@ -138,23 +138,6 @@
       "start_at": "2026-08-23T23:30:00.000Z",
       "hosts": [
         {
-          "api_id": "usr-EnhJAE2EvQoXYcM",
-          "avatar_url": "https://images.lumacdn.com/avatars/yn/5269d95d-9c81-4cfb-b38c-771ee9dda51a.png",
-          "bio_short": "Head of BC @ Women in Tech Canada",
-          "first_name": "Bibiana",
-          "last_name": "Souza",
-          "instagram_handle": "bibisouza_yvr",
-          "is_verified": false,
-          "linkedin_handle": "/in/bibschan",
-          "name": "Bibiana Souza",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": "bibschan",
-          "website": null,
-          "youtube_handle": ""
-        },
-        {
           "api_id": "usr-QaVHtkuizD4grtV",
           "avatar_url": "https://images.lumacdn.com/uploads/ul/0c2e1d5f-e619-4aea-908b-5671461800a6.jpg",
           "bio_short": "",
@@ -176,7 +159,7 @@
       "ticket_count": 0,
       "ticket_info": {
         "price": {
-          "cents": 30000,
+          "cents": 50000,
           "currency": "cad",
           "is_flexible": false
         },
@@ -186,7 +169,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 146,
+        "spots_remaining": 139,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1057,8 +1040,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 107,
-      "ticket_count": 107,
+      "guest_count": 115,
+      "ticket_count": 115,
       "ticket_info": {
         "price": null,
         "is_free": true,
