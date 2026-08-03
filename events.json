@@ -169,7 +169,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 139,
+        "spots_remaining": 138,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1040,8 +1040,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 115,
-      "ticket_count": 115,
+      "guest_count": 119,
+      "ticket_count": 119,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1183,7 +1183,7 @@
           "linkedin_handle": "/in/yashaswinsagi",
           "name": "Yash",
           "tiktok_handle": null,
-          "timezone": "America/Vancouver",
+          "timezone": "Europe/Amsterdam",
           "twitter_handle": null,
           "username": "Yashaswin",
           "website": null,
