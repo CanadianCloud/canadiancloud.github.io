@@ -1040,8 +1040,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 119,
-      "ticket_count": 119,
+      "guest_count": 123,
+      "ticket_count": 123,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1228,7 +1228,11 @@
       "guest_info": null,
       "host_info": null,
       "waitlist_active": false,
-      "featured_city": null,
+      "featured_city": {
+        "api_id": "discplace-4fa7ldlAkBTTivm",
+        "name": "Vancouver",
+        "slug": "vancouver"
+      },
       "calendar_api_id": "cal-eRivKmWDsR2bxYq",
       "is_manager": true,
       "platform": "luma",
