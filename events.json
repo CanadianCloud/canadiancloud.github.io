@@ -169,7 +169,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 138,
+        "spots_remaining": 136,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1040,8 +1040,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 146,
-      "ticket_count": 146,
+      "guest_count": 149,
+      "ticket_count": 149,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1173,6 +1173,23 @@
           "youtube_handle": null
         },
         {
+          "api_id": "usr-3cuuZwBNy0CkJff",
+          "avatar_url": "https://images.lumacdn.com/uploads/fp/89c79d2a-077b-4c6f-a4cc-f4cb9e90d055.jpg",
+          "bio_short": "CS + Business Student @ UBC exploring the world through people and tech.",
+          "first_name": "Jared",
+          "last_name": "Shum",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/jaredyhshum",
+          "name": "Jared Shum",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": "https://jaredshum.ca",
+          "youtube_handle": null
+        },
+        {
           "api_id": "usr-bckxIGxGe1He3MW",
           "avatar_url": "https://images.lumacdn.com/uploads/fn/1ad2b3e8-5b50-49e8-89fb-08a10e1f213d.jpg",
           "bio_short": "Data Science, AI/ML, Software, Product",
@@ -1205,23 +1222,6 @@
           "username": "eduardocgarza",
           "website": "https://eduardo.garza.ca",
           "youtube_handle": ""
-        },
-        {
-          "api_id": "usr-iyab1GARzJsnOUA",
-          "avatar_url": "https://images.lumacdn.com/avatars/vj/60bd42da-769d-4d89-b46f-58a563aa0f61.jpg",
-          "bio_short": "Senior Software Engineer @Chartmetric",
-          "first_name": "Hyosik",
-          "last_name": "Joo",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/hyositive",
-          "name": "Hyosik Philip Joo",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": "hyositive",
-          "website": null,
-          "youtube_handle": null
         }
       ],
       "manager_info": null,
