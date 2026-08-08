@@ -169,7 +169,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 136,
+        "spots_remaining": 134,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1040,8 +1040,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 149,
-      "ticket_count": 149,
+      "guest_count": 159,
+      "ticket_count": 159,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1053,6 +1053,23 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-zXlzoFS3oWCWIk0",
+          "avatar_url": "https://images.lumacdn.com/avatars/el/3765bf36-bfdd-4f95-a781-3397332bd499",
+          "bio_short": "",
+          "first_name": "Alex",
+          "last_name": "Kekulov",
+          "instagram_handle": "kekulov",
+          "is_verified": false,
+          "linkedin_handle": "/in/kekulov",
+          "name": "Alex Kekulov",
+          "tiktok_handle": null,
+          "timezone": "Asia/Makassar",
+          "twitter_handle": "kekulov",
+          "username": "kekulov",
+          "website": null,
+          "youtube_handle": ""
+        },
         {
           "api_id": "usr-ENEyl1HUQalGp1t",
           "avatar_url": "https://images.lumacdn.com/uploads/dv/aa62f729-beb8-4600-934d-c94151c5e0c6.jpg",
@@ -1205,23 +1222,6 @@
           "username": null,
           "website": null,
           "youtube_handle": null
-        },
-        {
-          "api_id": "usr-utxq1NL35nCBP1H",
-          "avatar_url": "https://images.lumacdn.com/avatars/ip/26189c45-e57a-4c0c-8a4c-f6ff8ed913c0.jpg",
-          "bio_short": "",
-          "first_name": "Eduardo",
-          "last_name": "Garza",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/eduardocgarza",
-          "name": "Eduardo Garza",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": "eduardocgarza",
-          "username": "eduardocgarza",
-          "website": "https://eduardo.garza.ca",
-          "youtube_handle": ""
         }
       ],
       "manager_info": null,
