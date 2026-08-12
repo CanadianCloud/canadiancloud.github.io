@@ -139,8 +139,8 @@
       "hosts": [
         {
           "api_id": "usr-QaVHtkuizD4grtV",
-          "avatar_url": "https://images.lumacdn.com/uploads/ul/0c2e1d5f-e619-4aea-908b-5671461800a6.jpg",
-          "bio_short": "",
+          "avatar_url": "https://images.lumacdn.com/uploads/6r/cdf2ce61-95f2-490f-bffd-d13005b99a66.jpg",
+          "bio_short": "Strategy Lead @ Women in Tech \nDirector of Customer Success @ Microsoft",
           "first_name": "Jessica",
           "last_name": "Dowdall",
           "instagram_handle": "jessicaintech",
@@ -151,7 +151,7 @@
           "timezone": "America/Vancouver",
           "twitter_handle": null,
           "username": null,
-          "website": null,
+          "website": "https://jessicadowdall.com",
           "youtube_handle": null
         },
         {
@@ -186,7 +186,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 102,
+        "spots_remaining": 101,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1057,8 +1057,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 194,
-      "ticket_count": 194,
+      "guest_count": 206,
+      "ticket_count": 206,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1070,6 +1070,57 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-hc7wGM6Wctg5VXm",
+          "avatar_url": "https://images.lumacdn.com/uploads/7f/455c3e53-885e-46c4-bbfb-d8e91c0b80dd.jpg",
+          "bio_short": "Recovering mobile guru lead/senior software engineer.  AI native, home-lab, secure SDLC.  Music, art, hockey.",
+          "first_name": "Ryan",
+          "last_name": "Jennings",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/ryjen",
+          "name": "Ryan Jennings",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "entrobert",
+          "website": "https://ryanjennin.gs",
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-FjfHO2cwJyMwbc6",
+          "avatar_url": "https://images.lumacdn.com/uploads/1y/5d81432c-46fc-470e-af87-d67292a1d068.jpg",
+          "bio_short": "🥭",
+          "first_name": "Shabnam",
+          "last_name": "Beiraghian",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/shabnam-beiraghian",
+          "name": "Shabnam",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "curleycoder",
+          "website": null,
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-rp6CqThXjxsLJZz",
+          "avatar_url": "https://images.lumacdn.com/avatars/p1/3f746be6-5187-495a-8bda-03dbfb520789.jpg",
+          "bio_short": null,
+          "first_name": "Ankit",
+          "last_name": "Rawat",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/rawatankit90",
+          "name": "Ankit Rawat",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
         {
           "api_id": "usr-SqAagLGJI9rCcV0",
           "avatar_url": "https://images.lumacdn.com/avatars/ry/ff6eb445-656c-458b-90cf-104a7f30c7fd.jpg",
@@ -1188,57 +1239,6 @@
           "username": "jeisoneccel",
           "website": "https://www.jeisoneccel.com",
           "youtube_handle": "nengatusytems"
-        },
-        {
-          "api_id": "usr-3oiO60yPURGOyZX",
-          "avatar_url": "https://images.lumacdn.com/uploads/e3/c6dae627-174a-4486-be23-4a7783179148.jpg",
-          "bio_short": "",
-          "first_name": "Bill",
-          "last_name": "McGraw",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/billmcgraw",
-          "name": "Bill McGraw",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": "billmcgraw16",
-          "username": null,
-          "website": "https://www.dvnet.co",
-          "youtube_handle": ""
-        },
-        {
-          "api_id": "usr-Neew1E5DcJDj7Ki",
-          "avatar_url": "https://images.lumacdn.com/uploads/gu/2d536272-89ef-46c2-9c67-78f346c2b797.png",
-          "bio_short": "Creative Technologist",
-          "first_name": "Mas",
-          "last_name": "Jeffrey",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/masakijeffrey",
-          "name": "Mas",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": "themasmedia",
-          "username": "themasmedia",
-          "website": "https://themasmedia.co",
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-gso57It8tAJOUZP",
-          "avatar_url": "https://images.lumacdn.com/uploads/kq/0b219846-8876-47af-9f59-e72b2181b10d.jpg",
-          "bio_short": "Canadian AI Literacy & Innovation Foundation",
-          "first_name": "Yan",
-          "last_name": "Hong",
-          "instagram_handle": "bboyonly",
-          "is_verified": false,
-          "linkedin_handle": "/in/hongyanh",
-          "name": "Yan Hong",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": "honlyan",
-          "username": null,
-          "website": "https://cailif.ca",
-          "youtube_handle": null
         }
       ],
       "manager_info": null,
