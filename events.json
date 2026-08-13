@@ -186,7 +186,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 101,
+        "spots_remaining": 49,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1057,8 +1057,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 206,
-      "ticket_count": 206,
+      "guest_count": 213,
+      "ticket_count": 213,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1070,6 +1070,23 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-FZhVdl2pGKLoo07",
+          "avatar_url": "https://images.lumacdn.com/avatars/qz/9af44eb4-d8e4-4be2-b6d7-cd5fafa60373.jpg",
+          "bio_short": "",
+          "first_name": "Weixi",
+          "last_name": "Long",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": null,
+          "name": "David Long",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
         {
           "api_id": "usr-hc7wGM6Wctg5VXm",
           "avatar_url": "https://images.lumacdn.com/uploads/7f/455c3e53-885e-46c4-bbfb-d8e91c0b80dd.jpg",
@@ -1222,23 +1239,6 @@
           "username": null,
           "website": null,
           "youtube_handle": null
-        },
-        {
-          "api_id": "usr-N0I7HKA2kWKvxGr",
-          "avatar_url": "https://images.lumacdn.com/avatars/ya/c449489d-79c1-493a-b87b-cb9c83943de5.jpg",
-          "bio_short": "Founder at Nengatu, Software Developer, Production Engineer.",
-          "first_name": "Jeison",
-          "last_name": "Eccel",
-          "instagram_handle": "nengatusytems",
-          "is_verified": false,
-          "linkedin_handle": "/in/jeisonreccel",
-          "name": "Jeison Eccel",
-          "tiktok_handle": null,
-          "timezone": "America/Los_Angeles",
-          "twitter_handle": null,
-          "username": "jeisoneccel",
-          "website": "https://www.jeisoneccel.com",
-          "youtube_handle": "nengatusytems"
         }
       ],
       "manager_info": null,
