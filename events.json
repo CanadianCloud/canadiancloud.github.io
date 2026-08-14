@@ -111,7 +111,7 @@
         "refund_policy": null,
         "slug": "witcanada",
         "social_image_url": null,
-        "stripe_account_id": "acct_1PxuTSE3uYeEs2Ai",
+        "stripe_account_id": "acct_1U42XjRrnoqZ707H",
         "tax_config": null,
         "tiktok_handle": null,
         "tint_color": "#F31A7C",
@@ -1057,8 +1057,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 213,
-      "ticket_count": 213,
+      "guest_count": 221,
+      "ticket_count": 221,
       "ticket_info": {
         "price": null,
         "is_free": true,
