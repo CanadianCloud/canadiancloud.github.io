@@ -15,7 +15,7 @@
         "recurrence_id": null,
         "show_guest_list": false,
         "social_image_url": "https://images.lumacdn.com/event-social/1b/2732d0dd-1f72-4cd3-9d5a-4ac74bb6dfc0.png",
-        "start_at": "2026-08-23T23:30:00.000Z",
+        "start_at": "2026-08-24T01:00:00.000Z",
         "timezone": "America/Vancouver",
         "url": "w15oflty",
         "user_api_id": "usr-EnhJAE2EvQoXYcM",
@@ -135,7 +135,7 @@
         "geo_region": "British Columbia",
         "timezone": "America/Vancouver"
       },
-      "start_at": "2026-08-23T23:30:00.000Z",
+      "start_at": "2026-08-24T01:00:00.000Z",
       "hosts": [
         {
           "api_id": "usr-QaVHtkuizD4grtV",
@@ -186,7 +186,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 49,
+        "spots_remaining": 48,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1057,8 +1057,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 221,
-      "ticket_count": 221,
+      "guest_count": 230,
+      "ticket_count": 230,
       "ticket_info": {
         "price": null,
         "is_free": true,
