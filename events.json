@@ -186,7 +186,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 46,
+        "spots_remaining": 44,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1050,15 +1050,15 @@
           "linkedin_handle": "/in/shankyjs",
           "name": "ShankyJS",
           "tiktok_handle": null,
-          "timezone": "America/Vancouver",
+          "timezone": "America/Chicago",
           "twitter_handle": "shankyjs",
           "username": null,
           "website": "https://blog.shankyjs.com",
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 237,
-      "ticket_count": 237,
+      "guest_count": 241,
+      "ticket_count": 241,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1070,6 +1070,23 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-LFmgBARt5E5U24i",
+          "avatar_url": "https://images.lumacdn.com/avatars/8q/a20512a6-4836-4f1d-b455-6def4e89f59f",
+          "bio_short": "Senior Data Scientist.\nAI Research | Aerospace | Builder",
+          "first_name": "Pawel",
+          "last_name": "Zet",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/pawel-z",
+          "name": "Pawel Zet",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "pawelz",
+          "website": null,
+          "youtube_handle": null
+        },
         {
           "api_id": "usr-FZhVdl2pGKLoo07",
           "avatar_url": "https://images.lumacdn.com/avatars/qz/9af44eb4-d8e4-4be2-b6d7-cd5fafa60373.jpg",
@@ -1221,23 +1238,6 @@
           "twitter_handle": "djpardis",
           "username": "djpardis",
           "website": "https://djpardis.com",
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-Zz3Ce2anNpFjbob",
-          "avatar_url": "https://images.lumacdn.com/uploads/z7/ceafba67-9f7f-429d-a364-946689c96a0d.jpg",
-          "bio_short": "",
-          "first_name": "Chris",
-          "last_name": "Adamczyk",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": null,
-          "name": "Chris Adamczyk",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
           "youtube_handle": null
         }
       ],
