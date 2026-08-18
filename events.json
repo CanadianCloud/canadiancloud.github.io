@@ -186,7 +186,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 44,
+        "spots_remaining": 43,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1050,15 +1050,15 @@
           "linkedin_handle": "/in/shankyjs",
           "name": "ShankyJS",
           "tiktok_handle": null,
-          "timezone": "America/Chicago",
+          "timezone": "Europe/Madrid",
           "twitter_handle": "shankyjs",
           "username": null,
           "website": "https://blog.shankyjs.com",
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 241,
-      "ticket_count": 241,
+      "guest_count": 248,
+      "ticket_count": 248,
       "ticket_info": {
         "price": null,
         "is_free": true,
