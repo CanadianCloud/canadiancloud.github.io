@@ -186,7 +186,7 @@
           "currency": "cad"
         },
         "is_sold_out": false,
-        "spots_remaining": 38,
+        "spots_remaining": 30,
         "is_near_capacity": false,
         "require_approval": false
       },
@@ -1057,8 +1057,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 256,
-      "ticket_count": 256,
+      "guest_count": 261,
+      "ticket_count": 261,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1070,6 +1070,40 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-7Sh4lKuwOWT6nDA",
+          "avatar_url": "https://images.lumacdn.com/avatars/0a/a262481a-1177-4bfa-af7a-36b7388e0ade.jpg",
+          "bio_short": "Founder, wavegenesis quantum technologies Inc.\nPhd in quantum chemistry, spend 7+ years trying make quantum computing useful for chemistry.",
+          "first_name": "Prakash",
+          "last_name": "Verma",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/prakashverma",
+          "name": "Prakash Verma",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "qmlab",
+          "username": null,
+          "website": "https://wavegenesis.ca",
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-LnSa89mUVQJmVGh",
+          "avatar_url": "https://images.lumacdn.com/avatars/bz/8e618964-1c14-48e3-bbdb-c69e9c826db0.jpg",
+          "bio_short": "",
+          "first_name": "Tuan",
+          "last_name": "Le",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/tuanlt",
+          "name": "Tuan LE",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
         {
           "api_id": "usr-9DknBg4oQzTyjpP",
           "avatar_url": "https://images.lumacdn.com/avatars/8x/3353a013-9cc2-4740-a866-7039128c5a28.jpg",
@@ -1205,40 +1239,6 @@
           "username": null,
           "website": null,
           "youtube_handle": null
-        },
-        {
-          "api_id": "usr-SqAagLGJI9rCcV0",
-          "avatar_url": "https://images.lumacdn.com/avatars/ry/ff6eb445-656c-458b-90cf-104a7f30c7fd.jpg",
-          "bio_short": "Blockchain Engineer",
-          "first_name": "Charlene",
-          "last_name": "Nicer",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/charlenenicer",
-          "name": "Charlene Nicer",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": "TheCyclotron",
-          "username": null,
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-Ss1iXhMRj5DLe8c",
-          "avatar_url": "https://images.lumacdn.com/avatars/fs/94a3a882-c26b-46b8-b7c0-cd69b020a988.jpg",
-          "bio_short": null,
-          "first_name": "Vitor",
-          "last_name": "Oliveira",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/imvitoroliveira",
-          "name": "Vitor Oliveira",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": "imvitoroliveira",
-          "website": "https://www.vitoroliveira.ca",
-          "youtube_handle": ""
         }
       ],
       "manager_info": null,
