@@ -1,210 +1,6 @@
 {
   "entries": [
     {
-      "api_id": "calev-8PO3pEoi42unH4c",
-      "event": {
-        "api_id": "evt-2c0pqW9dsorErE6",
-        "calendar_api_id": "cal-3uVd6qhBGAwEXbX",
-        "cover_url": "https://images.lumacdn.com/uploads/m2/43132a6b-6fe5-4782-a70f-1f61a0a4aa9b.png",
-        "end_at": "2026-08-24T05:00:00.000Z",
-        "event_type": "independent",
-        "hide_rsvp": true,
-        "location_type": "offline",
-        "name": "Women in Tech® Summer Fundraising Gala",
-        "one_to_one": true,
-        "recurrence_id": null,
-        "show_guest_list": false,
-        "social_image_url": "https://images.lumacdn.com/event-social/1b/2732d0dd-1f72-4cd3-9d5a-4ac74bb6dfc0.png",
-        "start_at": "2026-08-24T01:00:00.000Z",
-        "timezone": "America/Vancouver",
-        "url": "w15oflty",
-        "user_api_id": "usr-EnhJAE2EvQoXYcM",
-        "visibility": "public",
-        "virtual_info": {
-          "has_access": false
-        },
-        "geo_address_info": {
-          "city": "Vancouver",
-          "type": "google",
-          "region": "British Columbia",
-          "address": "The Vancouver Club",
-          "country": "Canada",
-          "place_id": "ChIJkyMsWYJxhlQRfjR-K6v8O6A",
-          "localized": null,
-          "city_state": "Vancouver, BC",
-          "description": "",
-          "sublocality": "Downtown Vancouver",
-          "country_code": "CA",
-          "full_address": "The Vancouver Club, 915 W Hastings St, Vancouver, BC V6C 1C6, Canada",
-          "region_short": "BC",
-          "short_address": "915 W Hastings St, Vancouver",
-          "apple_maps_place_id": "I9C39993230FE58DD",
-          "mode": "shown"
-        },
-        "geo_address_visibility": "public",
-        "coordinate": {
-          "longitude": -123.11589710000001,
-          "latitude": 49.2868547
-        },
-        "waitlist_enabled": true,
-        "waitlist_status": "enabled"
-      },
-      "cover_image": {
-        "colors": [
-          "#301923",
-          "#0e0721",
-          "#f3f0ec",
-          "#d2bda0"
-        ],
-        "palette": {
-          "neutral": [
-            {
-              "color": "#301923",
-              "percentage": 22.46
-            },
-            {
-              "color": "#f3f0ec",
-              "percentage": 2.47
-            }
-          ],
-          "vibrant": [
-            {
-              "color": "#0e0721",
-              "percentage": 19.31
-            },
-            {
-              "color": "#d2bda0",
-              "percentage": 1.07
-            }
-          ]
-        }
-      },
-      "calendar": {
-        "access_level": "public",
-        "api_id": "cal-3uVd6qhBGAwEXbX",
-        "avatar_url": "https://images.lumacdn.com/calendars/ia/32050084-f885-4844-873e-f31d3c9b6fa4.png",
-        "coordinate": {
-          "longitude": -123.120738,
-          "latitude": 49.282729
-        },
-        "cover_image_url": "https://images.lumacdn.com/calendar-cover-images/kb/5fab0a95-0b10-408f-b205-c9b80c3b9fd1.jpg",
-        "description_short": "",
-        "event_submission_restriction": "open",
-        "google_measurement_id": null,
-        "instagram_handle": null,
-        "is_blocked": false,
-        "launch_status": "launched",
-        "linkedin_handle": "/showcase/womenintech-canada",
-        "location": {
-          "city": "Vancouver",
-          "region": "British Columbia",
-          "country": "Canada",
-          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
-          "timezone": "America/Vancouver",
-          "country_code": "CA"
-        },
-        "luma_plan": "plus",
-        "luma_plus_active": true,
-        "meta_pixel_id": null,
-        "name": "WOMEN IN TECH® Canada",
-        "personal_user_api_id": null,
-        "refund_policy": null,
-        "slug": "witcanada",
-        "social_image_url": null,
-        "stripe_account_id": "acct_1U42XjRrnoqZ707H",
-        "tax_config": null,
-        "tiktok_handle": null,
-        "tint_color": "#F31A7C",
-        "track_meta_ads_from_luma": false,
-        "twitter_handle": null,
-        "verified_at": "2025-07-28T20:53:55.741Z",
-        "website": "https://women-in-tech.org/",
-        "youtube_handle": null,
-        "city": {
-          "city": "Vancouver",
-          "region": "British Columbia",
-          "country": "Canada",
-          "place_id": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
-          "timezone": "America/Vancouver",
-          "country_code": "CA"
-        },
-        "is_personal": false,
-        "personal_user": null,
-        "geo_city": "Vancouver",
-        "geo_country": "Canada",
-        "geo_region": "British Columbia",
-        "timezone": "America/Vancouver"
-      },
-      "start_at": "2026-08-24T01:00:00.000Z",
-      "hosts": [
-        {
-          "api_id": "usr-QaVHtkuizD4grtV",
-          "avatar_url": "https://images.lumacdn.com/uploads/6r/cdf2ce61-95f2-490f-bffd-d13005b99a66.jpg",
-          "bio_short": "Strategy Lead @ Women in Tech \nDirector of Customer Success @ Microsoft",
-          "first_name": "Jessica",
-          "last_name": "Dowdall",
-          "instagram_handle": "jessicaintech",
-          "is_verified": false,
-          "linkedin_handle": "/in/jessica-dowdall",
-          "name": "Jessica Dowdall",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": "https://jessicadowdall.com",
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-EnhJAE2EvQoXYcM",
-          "avatar_url": "https://images.lumacdn.com/avatars/yn/5269d95d-9c81-4cfb-b38c-771ee9dda51a.png",
-          "bio_short": "Head of BC @ Women in Tech Canada",
-          "first_name": "Bibiana",
-          "last_name": "Souza",
-          "instagram_handle": "bibisouza_yvr",
-          "is_verified": false,
-          "linkedin_handle": "/in/bibschan",
-          "name": "Bibiana Souza",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": "bibschan",
-          "website": null,
-          "youtube_handle": ""
-        }
-      ],
-      "guest_count": 0,
-      "ticket_count": 0,
-      "ticket_info": {
-        "price": {
-          "cents": 50000,
-          "currency": "cad",
-          "is_flexible": false
-        },
-        "is_free": false,
-        "max_price": {
-          "cents": 700000,
-          "currency": "cad"
-        },
-        "is_sold_out": false,
-        "spots_remaining": 3,
-        "is_near_capacity": true,
-        "require_approval": false
-      },
-      "registration_availability": "sold-out",
-      "featured_guests": [],
-      "manager_info": null,
-      "guest_info": null,
-      "host_info": null,
-      "waitlist_active": false,
-      "featured_city": null,
-      "calendar_api_id": "cal-eRivKmWDsR2bxYq",
-      "is_manager": false,
-      "platform": "luma",
-      "status": "approved",
-      "submitted_by_user_api_id": "usr-g6FxZJfODUaVboL",
-      "tags": []
-    },
-    {
       "api_id": "calev-RJGV3GI2nMaqkXB",
       "event": {
         "api_id": "evt-VHuuSwxAUGgplkt",
@@ -1057,8 +853,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 278,
-      "ticket_count": 278,
+      "guest_count": 289,
+      "ticket_count": 289,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -1070,6 +866,74 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-GdNvuxqqLWaNx4i",
+          "avatar_url": "https://images.lumacdn.com/avatars/kh/792805fe-6f27-40a7-a93d-c329a3fb1145.jpg",
+          "bio_short": "Partner @ private equity",
+          "first_name": "winnie",
+          "last_name": "zhang",
+          "instagram_handle": "nickh.zzz",
+          "is_verified": false,
+          "linkedin_handle": "/in/zihaozhang1",
+          "name": "nick",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "winniiezz",
+          "username": null,
+          "website": "https://realvaluecp.com",
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-jqC1k62DDLTecLN",
+          "avatar_url": "https://images.lumacdn.com/avatars/q9/24f9611c-074b-4312-a986-ef6399a5ce2b.jpg",
+          "bio_short": null,
+          "first_name": "Valerie",
+          "last_name": "Koroliuk",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/valerie-koroliuk",
+          "name": "Valerie Koroliuk",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": ""
+        },
+        {
+          "api_id": "usr-H5WAKNwVfUlE7JF",
+          "avatar_url": "https://images.lumacdn.com/uploads/qr/d74a95de-cc7d-443a-91d8-2156014b9d93.jpg",
+          "bio_short": "",
+          "first_name": "TingTing",
+          "last_name": "",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/tingtingwang2701",
+          "name": "TingTing",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-4omiB7zBKaCjvRD",
+          "avatar_url": "https://images.lumacdn.com/avatars/ir/c62bf50c-a538-4086-b190-dc4e3bc1b0e1",
+          "bio_short": "Dev / Product + cyclist 🚴🏼‍♂️",
+          "first_name": "BJ",
+          "last_name": "Vicks",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/bjvicks",
+          "name": "BJ Vicks",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
         {
           "api_id": "usr-AiW2Nbfg8hJ9cUX",
           "avatar_url": "https://images.lumacdn.com/avatars/oj/8375e784-dd9e-493c-b485-16bce9965d7c.png",
@@ -1139,6 +1003,23 @@
           "youtube_handle": ""
         },
         {
+          "api_id": "usr-hqtFtuzqZMw8el0",
+          "avatar_url": "https://images.lumacdn.com/uploads/k7/1faa8e13-5844-4116-9355-7953f32c214b.jpg",
+          "bio_short": "Interest: AWS, Clojure, GraphQL",
+          "first_name": "Naoya",
+          "last_name": "Yamashita",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/conao3",
+          "name": "Naoya Yamashita",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "conao_3",
+          "username": "conao3",
+          "website": null,
+          "youtube_handle": null
+        },
+        {
           "api_id": "usr-7Sh4lKuwOWT6nDA",
           "avatar_url": "https://images.lumacdn.com/avatars/0a/a262481a-1177-4bfa-af7a-36b7388e0ade.jpg",
           "bio_short": "Founder, wavegenesis quantum technologies Inc.\nPhd in quantum chemistry, spend 7+ years trying make quantum computing useful for chemistry.",
@@ -1153,91 +1034,6 @@
           "twitter_handle": "qmlab",
           "username": null,
           "website": "https://wavegenesis.ca",
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-LnSa89mUVQJmVGh",
-          "avatar_url": "https://images.lumacdn.com/avatars/bz/8e618964-1c14-48e3-bbdb-c69e9c826db0.jpg",
-          "bio_short": "",
-          "first_name": "Tuan",
-          "last_name": "Le",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/tuanlt",
-          "name": "Tuan LE",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-9DknBg4oQzTyjpP",
-          "avatar_url": "https://images.lumacdn.com/avatars/8x/3353a013-9cc2-4740-a866-7039128c5a28.jpg",
-          "bio_short": "I’m living in Vancouver.\nI love sports and art.\nI’m working as a software dev.",
-          "first_name": "재호",
-          "last_name": "장",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/jaeho-chang-09b1ab268",
-          "name": "Jaeho",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-SiylGOwVOW0Wei6",
-          "avatar_url": "https://images.lumacdn.com/avatars/cq/91f4d7f7-fe76-4203-8399-1ba9dea2612d.jpg",
-          "bio_short": "",
-          "first_name": "AJ",
-          "last_name": "Green",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/aj-green-ai",
-          "name": "AJ Green",
-          "tiktok_handle": null,
-          "timezone": "America/Los_Angeles",
-          "twitter_handle": "ajs_ai",
-          "username": "ajsai",
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-gBLadtJHRsAgxtE",
-          "avatar_url": "https://images.lumacdn.com/avatars/j6/4da5f281-41bb-4f4a-9db0-e599a78c9b9e.jpg",
-          "bio_short": "",
-          "first_name": "Damaris",
-          "last_name": "Avila",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/damaris-avila",
-          "name": "Damaris Avila",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-LFmgBARt5E5U24i",
-          "avatar_url": "https://images.lumacdn.com/avatars/8q/a20512a6-4836-4f1d-b455-6def4e89f59f",
-          "bio_short": "Senior Data Scientist.\nAI Research | Aerospace | Builder",
-          "first_name": "Pawel",
-          "last_name": "Zet",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/pawel-z",
-          "name": "Pawel Zet",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": "pawelz",
-          "website": null,
           "youtube_handle": null
         }
       ],
