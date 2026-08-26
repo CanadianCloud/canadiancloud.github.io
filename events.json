@@ -156,7 +156,7 @@
           "linkedin_handle": "/in/matthewcarolan",
           "name": "Matt",
           "tiktok_handle": null,
-          "timezone": "America/Vancouver",
+          "timezone": "America/Toronto",
           "twitter_handle": null,
           "username": "MattCloud",
           "website": "https://www.mattcarolan.com",
@@ -484,7 +484,7 @@
           "linkedin_handle": "/in/matthewcarolan",
           "name": "Matt",
           "tiktok_handle": null,
-          "timezone": "America/Vancouver",
+          "timezone": "America/Toronto",
           "twitter_handle": null,
           "username": "MattCloud",
           "website": "https://www.mattcarolan.com",
@@ -523,6 +523,23 @@
           "username": null,
           "website": null,
           "youtube_handle": null
+        },
+        {
+          "api_id": "usr-EnhJAE2EvQoXYcM",
+          "avatar_url": "https://images.lumacdn.com/avatars/yn/5269d95d-9c81-4cfb-b38c-771ee9dda51a.png",
+          "bio_short": "Head of BC @ Women in Tech Canada",
+          "first_name": "Bibiana",
+          "last_name": "Souza",
+          "instagram_handle": "bibisouza_yvr",
+          "is_verified": false,
+          "linkedin_handle": "/in/bibschan",
+          "name": "Bibiana Souza",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "bibschan",
+          "website": null,
+          "youtube_handle": ""
         }
       ],
       "guest_count": 0,
@@ -829,7 +846,7 @@
           "linkedin_handle": "/in/matthewcarolan",
           "name": "Matt",
           "tiktok_handle": null,
-          "timezone": "America/Vancouver",
+          "timezone": "America/Toronto",
           "twitter_handle": null,
           "username": "MattCloud",
           "website": "https://www.mattcarolan.com",
@@ -853,8 +870,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 297,
-      "ticket_count": 297,
+      "guest_count": 303,
+      "ticket_count": 303,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -866,6 +883,23 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-a4RB7sabdGIhEKv",
+          "avatar_url": "https://images.lumacdn.com/avatars/5f/c22cfae5-20cf-49c6-b4f8-855af6e032f2.jpg",
+          "bio_short": null,
+          "first_name": "Felipe",
+          "last_name": "Archangelo",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/farchangelo",
+          "name": "Felipe Archangelo",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": "farchangelo",
+          "website": null,
+          "youtube_handle": ""
+        },
         {
           "api_id": "usr-BhIkvoGqJ7yPTKG",
           "avatar_url": "https://images.lumacdn.com/avatars/sg/40060e2b-b461-42e5-b963-f2320e0ea116",
@@ -1005,7 +1039,7 @@
         {
           "api_id": "usr-AiW2Nbfg8hJ9cUX",
           "avatar_url": "https://images.lumacdn.com/avatars/oj/8375e784-dd9e-493c-b485-16bce9965d7c.png",
-          "bio_short": "iOS Engineer · indie app developer · agentic coding",
+          "bio_short": "Building apps and exploring places",
           "first_name": "Aleksandra",
           "last_name": "Komagorkina",
           "instagram_handle": "aleksandra.tech",
@@ -1017,23 +1051,6 @@
           "twitter_handle": "akomagorkina",
           "username": "aleksandratech",
           "website": "https://github.com/akomagorkina",
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-rrgOuoeFONBLmlX",
-          "avatar_url": "https://images.lumacdn.com/avatars/9n/e69127da-1374-4778-a426-20d70db7da08",
-          "bio_short": "",
-          "first_name": "Shahab",
-          "last_name": "Pourazadi",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/shahpourazadi",
-          "name": "Shah",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
-          "website": null,
           "youtube_handle": null
         }
       ],
