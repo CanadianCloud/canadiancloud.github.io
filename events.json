@@ -535,7 +535,7 @@
           "linkedin_handle": "/in/bibschan",
           "name": "Bibiana Souza",
           "tiktok_handle": null,
-          "timezone": "America/Vancouver",
+          "timezone": "America/Toronto",
           "twitter_handle": null,
           "username": "bibschan",
           "website": null,
@@ -676,6 +676,199 @@
           "color": "barney"
         }
       ]
+    },
+    {
+      "api_id": "calev-eBq5nxhJYeMuFcw",
+      "event": {
+        "api_id": "evt-pWGjotfuiYs7aDL",
+        "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+        "cover_url": "https://images.lumacdn.com/uploads/9a/782b8d21-efac-4db7-a6da-2cb789136ea6.png",
+        "end_at": "2026-08-30T00:30:00.000Z",
+        "event_type": "independent",
+        "hide_rsvp": false,
+        "location_type": "offline",
+        "name": "Secret Cloud + AI VIP After Party 🤫",
+        "one_to_one": true,
+        "recurrence_id": null,
+        "show_guest_list": true,
+        "social_image_url": "https://images.lumacdn.com/event-social/tg/889b052b-f101-4dd0-9f60-3b0130df555f.png",
+        "start_at": "2026-08-29T22:30:00.000Z",
+        "timezone": "America/Toronto",
+        "url": "cloudvip",
+        "user_api_id": "usr-g6FxZJfODUaVboL",
+        "visibility": "public",
+        "virtual_info": {
+          "has_access": false
+        },
+        "geo_address_info": {
+          "mode": "obfuscated",
+          "city": "Toronto",
+          "city_state": "Toronto, ON",
+          "sublocality": "Wellington Place",
+          "country": "Canada",
+          "country_code": "CA",
+          "region": "Ontario",
+          "region_short": "ON"
+        },
+        "geo_address_visibility": "guests-only",
+        "coordinate": {
+          "latitude": 43.650002331701494,
+          "longitude": -79.39071577329327
+        },
+        "waitlist_enabled": false,
+        "waitlist_status": "disabled"
+      },
+      "cover_image": {
+        "colors": [
+          "#040307",
+          "#f9f1e2",
+          "#d9a847",
+          "#db84da"
+        ],
+        "palette": {
+          "neutral": [
+            {
+              "color": "#040307",
+              "percentage": 50.95
+            },
+            {
+              "color": "#f9f1e2",
+              "percentage": 6
+            }
+          ],
+          "vibrant": [
+            {
+              "color": "#d9a847",
+              "percentage": 5.48
+            },
+            {
+              "color": "#db84da",
+              "percentage": 0.51
+            },
+            {
+              "color": "#983747",
+              "percentage": 0.61
+            }
+          ]
+        }
+      },
+      "calendar": {
+        "access_level": "public",
+        "api_id": "cal-eRivKmWDsR2bxYq",
+        "avatar_url": "https://images.lumacdn.com/calendars/cs/fb32f931-39df-448a-8768-0b4ee27ce169",
+        "coordinate": {
+          "longitude": -79.388447,
+          "latitude": 43.6548253
+        },
+        "cover_image_url": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwyfHxuZXR3b3JraW5nfGVufDB8fHx8MTcyMjI5MjA3Mnwy&ixlib=rb-4.0.3&q=80&w=1080",
+        "description_short": "Amazon AWS, Microsoft Azure and Google GCP events in Canada",
+        "event_submission_restriction": "open",
+        "google_measurement_id": null,
+        "instagram_handle": null,
+        "is_blocked": false,
+        "launch_status": "launched",
+        "linkedin_handle": null,
+        "location": {
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "place_id": "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+          "timezone": "America/Toronto",
+          "country_code": "CA"
+        },
+        "luma_plan": "plus",
+        "luma_plus_active": true,
+        "meta_pixel_id": null,
+        "name": "Cloud Events",
+        "personal_user_api_id": null,
+        "refund_policy": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "No refunds. No Exchanges.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        "slug": "CloudCanada",
+        "social_image_url": null,
+        "stripe_account_id": "acct_1PxuTSE3uYeEs2Ai",
+        "tax_config": null,
+        "tiktok_handle": null,
+        "tint_color": "#ffedc7",
+        "track_meta_ads_from_luma": false,
+        "twitter_handle": null,
+        "verified_at": "2024-06-12T21:30:46.314Z",
+        "website": "https://www.PublicCloud.ninja",
+        "youtube_handle": null,
+        "city": {
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "place_id": "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+          "timezone": "America/Toronto",
+          "country_code": "CA"
+        },
+        "is_personal": false,
+        "personal_user": null,
+        "geo_city": "Toronto",
+        "geo_country": "Canada",
+        "geo_region": "Ontario",
+        "timezone": "America/Toronto"
+      },
+      "start_at": "2026-08-29T22:30:00.000Z",
+      "hosts": [
+        {
+          "api_id": "usr-g6FxZJfODUaVboL",
+          "avatar_url": "https://images.lumacdn.com/avatars/n0/1cf35698-8753-45fc-9bb7-ad9e6c427b85",
+          "bio_short": null,
+          "first_name": "Matt",
+          "last_name": "",
+          "instagram_handle": "PublicCloudNinja",
+          "is_verified": false,
+          "linkedin_handle": "/in/matthewcarolan",
+          "name": "Matt",
+          "tiktok_handle": null,
+          "timezone": "America/Toronto",
+          "twitter_handle": null,
+          "username": "MattCloud",
+          "website": "https://www.mattcarolan.com",
+          "youtube_handle": "PublicCloudNinja"
+        }
+      ],
+      "guest_count": 0,
+      "ticket_count": 0,
+      "ticket_info": {
+        "price": {
+          "cents": 1000,
+          "currency": "cad",
+          "is_flexible": false
+        },
+        "is_free": false,
+        "max_price": null,
+        "is_sold_out": false,
+        "spots_remaining": null,
+        "is_near_capacity": false,
+        "require_approval": true
+      },
+      "registration_availability": "open",
+      "featured_guests": [],
+      "manager_info": null,
+      "guest_info": null,
+      "host_info": null,
+      "waitlist_active": false,
+      "featured_city": null,
+      "calendar_api_id": "cal-eRivKmWDsR2bxYq",
+      "is_manager": true,
+      "platform": "luma",
+      "status": "approved",
+      "submitted_by_user_api_id": "usr-g6FxZJfODUaVboL",
+      "tags": []
     },
     {
       "api_id": "calev-WrcXW9jj6gY6FlV",
@@ -870,8 +1063,8 @@
           "youtube_handle": "shankyjs"
         }
       ],
-      "guest_count": 319,
-      "ticket_count": 319,
+      "guest_count": 325,
+      "ticket_count": 325,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -883,6 +1076,23 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-fwyPxvE4PBlwREC",
+          "avatar_url": "https://images.lumacdn.com/avatars/ax/71c0c417-f4a3-4400-9aad-c3c34349050e.png",
+          "bio_short": null,
+          "first_name": "Bek",
+          "last_name": "Abdik",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/abdik",
+          "name": "Bek Abdik",
+          "tiktok_handle": null,
+          "timezone": "America/Los_Angeles",
+          "twitter_handle": "beknabdik",
+          "username": null,
+          "website": "https://speko.ai/",
+          "youtube_handle": ""
+        },
         {
           "api_id": "usr-B2Ne8BFtAyaUK3Y",
           "avatar_url": "https://images.lumacdn.com/uploads/nx/af5075bd-4b67-461c-9218-af4023cb9795.jpg",
@@ -1033,23 +1243,6 @@
           "timezone": "America/Toronto",
           "twitter_handle": "i",
           "username": "mindmodel",
-          "website": null,
-          "youtube_handle": null
-        },
-        {
-          "api_id": "usr-9dXk4Eg7KD79xda",
-          "avatar_url": "https://images.lumacdn.com/uploads/kx/7de8d4b1-aa63-4784-9f10-2496cd4b827b.jpg",
-          "bio_short": "",
-          "first_name": "Daniele",
-          "last_name": "Lisi",
-          "instagram_handle": null,
-          "is_verified": false,
-          "linkedin_handle": "/in/daniele-lisi",
-          "name": "Daniele",
-          "tiktok_handle": null,
-          "timezone": "America/Vancouver",
-          "twitter_handle": null,
-          "username": null,
           "website": null,
           "youtube_handle": null
         }
