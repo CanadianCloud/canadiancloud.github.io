@@ -137,19 +137,8 @@
         "verified_at": "2024-06-12T21:30:46.314Z",
         "website": "https://www.PublicCloud.ninja",
         "youtube_handle": null,
-        "city": {
-          "city": "Toronto",
-          "region": "Ontario",
-          "country": "Canada",
-          "place_id": "ChIJpTvG15DL1IkRd8S0KlBVNTI",
-          "timezone": "America/Toronto",
-          "country_code": "CA"
-        },
         "is_personal": false,
         "personal_user": null,
-        "geo_city": "Toronto",
-        "geo_country": "Canada",
-        "geo_region": "Ontario",
         "timezone": "America/Toronto"
       },
       "start_at": "2026-09-16T01:00:00.000Z",
@@ -172,8 +161,8 @@
           "youtube_handle": "PublicCloudNinja"
         }
       ],
-      "guest_count": 0,
-      "ticket_count": 0,
+      "guest_count": 1,
+      "ticket_count": 1,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -184,7 +173,25 @@
         "require_approval": false
       },
       "registration_availability": "open",
-      "featured_guests": [],
+      "featured_guests": [
+        {
+          "api_id": "usr-3cMeqH1q5cyFZZ6",
+          "avatar_url": "https://images.lumacdn.com/uploads/nb/57746e86-3577-4efd-bdd5-ef1511b53503.jpg",
+          "bio_short": "",
+          "first_name": "Cam",
+          "last_name": "Appleton",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/Camappleton",
+          "name": "Cam Appleton",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        }
+      ],
       "manager_info": null,
       "guest_info": null,
       "host_info": null,
