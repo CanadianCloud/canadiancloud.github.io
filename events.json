@@ -161,8 +161,8 @@
           "youtube_handle": "PublicCloudNinja"
         }
       ],
-      "guest_count": 1,
-      "ticket_count": 1,
+      "guest_count": 3,
+      "ticket_count": 3,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -175,6 +175,23 @@
       "registration_availability": "open",
       "featured_guests": [
         {
+          "api_id": "usr-ZkcUxVK8mA1ED8l",
+          "avatar_url": "https://images.lumacdn.com/avatars/h8/42c0f784-caec-4e06-81ea-474a6af3c8b8.jpg",
+          "bio_short": "Software Developer building in AI",
+          "first_name": "William",
+          "last_name": "Ting",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/williamdjting",
+          "name": "William Ting",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
+        {
           "api_id": "usr-3cMeqH1q5cyFZZ6",
           "avatar_url": "https://images.lumacdn.com/uploads/nb/57746e86-3577-4efd-bdd5-ef1511b53503.jpg",
           "bio_short": "",
@@ -184,6 +201,23 @@
           "is_verified": false,
           "linkedin_handle": "/in/Camappleton",
           "name": "Cam Appleton",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": null,
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
+        {
+          "api_id": "usr-AjRyx9toYOlAymz",
+          "avatar_url": "https://cdn.lu.ma/avatars-default/avatar_47.png",
+          "bio_short": null,
+          "first_name": "Mark",
+          "last_name": "Fischer",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": null,
+          "name": "Mark Fischer",
           "tiktok_handle": null,
           "timezone": "America/Vancouver",
           "twitter_handle": null,
