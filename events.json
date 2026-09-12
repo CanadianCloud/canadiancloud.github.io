@@ -161,8 +161,8 @@
           "youtube_handle": "PublicCloudNinja"
         }
       ],
-      "guest_count": 3,
-      "ticket_count": 3,
+      "guest_count": 4,
+      "ticket_count": 4,
       "ticket_info": {
         "price": null,
         "is_free": true,
@@ -174,6 +174,23 @@
       },
       "registration_availability": "open",
       "featured_guests": [
+        {
+          "api_id": "usr-eZiXEIIEda8di2H",
+          "avatar_url": "https://images.lumacdn.com/avatars/lj/6be295e7-37d8-48d4-b7a9-6d508992896f.jpg",
+          "bio_short": "Sentientwebsite.com \nOne click install on your website. No more tutorial. No more onboarding. No more lost revenue.",
+          "first_name": "Tingsong",
+          "last_name": "Dai",
+          "instagram_handle": null,
+          "is_verified": false,
+          "linkedin_handle": "/in/tingsongday",
+          "name": "Ting SongDay",
+          "tiktok_handle": null,
+          "timezone": "America/Vancouver",
+          "twitter_handle": "tingsongday",
+          "username": null,
+          "website": null,
+          "youtube_handle": null
+        },
         {
           "api_id": "usr-ZkcUxVK8mA1ED8l",
           "avatar_url": "https://images.lumacdn.com/avatars/h8/42c0f784-caec-4e06-81ea-474a6af3c8b8.jpg",
