@@ -1,0 +1,316 @@
+{
+  "cities": [
+    {
+      "id": "vancouver",
+      "name": "Vancouver",
+      "province": "British Columbia",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "timezone": "America/Vancouver",
+      "radiusKm": 65,
+      "aliases": [
+        "Vancouver",
+        "Burnaby",
+        "Richmond",
+        "Surrey",
+        "New Westminster",
+        "Coquitlam"
+      ]
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "province": "British Columbia",
+      "latitude": 48.4284,
+      "longitude": -123.3656,
+      "timezone": "America/Vancouver",
+      "radiusKm": 45,
+      "aliases": [
+        "Victoria",
+        "Langford",
+        "Saanich"
+      ]
+    },
+    {
+      "id": "calgary",
+      "name": "Calgary",
+      "province": "Alberta",
+      "latitude": 51.0447,
+      "longitude": -114.0719,
+      "timezone": "America/Edmonton",
+      "radiusKm": 70,
+      "aliases": [
+        "Calgary"
+      ]
+    },
+    {
+      "id": "edmonton",
+      "name": "Edmonton",
+      "province": "Alberta",
+      "latitude": 53.5461,
+      "longitude": -113.4938,
+      "timezone": "America/Edmonton",
+      "radiusKm": 70,
+      "aliases": [
+        "Edmonton",
+        "Sherwood Park",
+        "St. Albert"
+      ]
+    },
+    {
+      "id": "winnipeg",
+      "name": "Winnipeg",
+      "province": "Manitoba",
+      "latitude": 49.8951,
+      "longitude": -97.1384,
+      "timezone": "America/Winnipeg",
+      "radiusKm": 60,
+      "aliases": [
+        "Winnipeg"
+      ]
+    },
+    {
+      "id": "waterloo",
+      "name": "Waterloo",
+      "province": "Ontario",
+      "latitude": 43.4643,
+      "longitude": -80.5204,
+      "timezone": "America/Toronto",
+      "radiusKm": 55,
+      "aliases": [
+        "Waterloo",
+        "Kitchener",
+        "Cambridge",
+        "Guelph"
+      ]
+    },
+    {
+      "id": "toronto",
+      "name": "Toronto",
+      "province": "Ontario",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "timezone": "America/Toronto",
+      "radiusKm": 65,
+      "aliases": [
+        "Toronto",
+        "Mississauga",
+        "Markham",
+        "Brampton",
+        "Vaughan"
+      ]
+    },
+    {
+      "id": "ottawa",
+      "name": "Ottawa",
+      "province": "Ontario",
+      "latitude": 45.4215,
+      "longitude": -75.6972,
+      "timezone": "America/Toronto",
+      "radiusKm": 65,
+      "aliases": [
+        "Ottawa",
+        "Gatineau",
+        "Kanata"
+      ]
+    },
+    {
+      "id": "montreal",
+      "name": "Montréal",
+      "province": "Québec",
+      "latitude": 45.5019,
+      "longitude": -73.5674,
+      "timezone": "America/Toronto",
+      "radiusKm": 65,
+      "aliases": [
+        "Montréal",
+        "Montreal",
+        "Laval",
+        "Longueuil"
+      ]
+    },
+    {
+      "id": "halifax",
+      "name": "Halifax",
+      "province": "Nova Scotia",
+      "latitude": 44.6488,
+      "longitude": -63.5752,
+      "timezone": "America/Halifax",
+      "radiusKm": 65,
+      "aliases": [
+        "Halifax",
+        "Dartmouth"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cal-eRivKmWDsR2bxYq",
+      "city": "vancouver",
+      "name": "Cloud Events",
+      "url": "https://luma.com/CloudCanada",
+      "scope": "global"
+    },
+    {
+      "id": "cal-cT3g3W7LDCRB7Z9",
+      "city": "vancouver",
+      "name": "Cloud Native Vancouver",
+      "url": "https://luma.com/cloudnativevan",
+      "scope": "local"
+    },
+    {
+      "id": "cal-i2SXCQcJZBMq8NN",
+      "city": "vancouver",
+      "name": "Vancouver Tech Journal Events",
+      "url": "https://luma.com/vantechjournal",
+      "scope": "local"
+    },
+    {
+      "id": "cal-KAGZBuhP9K2YNbA",
+      "city": "vancouver",
+      "name": "Vancouver AI Meetup (VAM!)",
+      "url": "https://luma.com/vam",
+      "scope": "local"
+    },
+    {
+      "id": "cal-gUADv2P40s4rWOB",
+      "city": "vancouver",
+      "name": "Careerin Tech Society Event Calendar",
+      "url": "https://luma.com/careerintechevents",
+      "scope": "local"
+    },
+    {
+      "id": "cal-SazQXSKydxdq2UG",
+      "city": "vancouver",
+      "name": "Vancouver Tech Week",
+      "url": "https://luma.com/vantechweek",
+      "scope": "local"
+    },
+    {
+      "id": "cal-2jzOe3AtDZp3HsD",
+      "city": "victoria",
+      "name": "Victoria Tech Week 2026",
+      "url": "https://luma.com/victoriatechweek2026",
+      "scope": "local"
+    },
+    {
+      "id": "cal-NFIKWffXs4kAUi3",
+      "city": "toronto",
+      "name": "TechTO",
+      "url": "https://luma.com/TechTO-Events",
+      "scope": "local"
+    },
+    {
+      "id": "cal-DdUEFsYsDVh7osG",
+      "city": "toronto",
+      "name": "Toronto Tech Week",
+      "url": "https://luma.com/torontotechweek",
+      "scope": "local"
+    },
+    {
+      "id": "cal-pCYHxFjHr6u6cRl",
+      "city": "toronto",
+      "name": "SUPERCOLLIDER - Toronto Tech Community",
+      "url": "https://luma.com/supercollider-tech-community",
+      "scope": "local"
+    },
+    {
+      "id": "cal-KQCPkgCBy4QE9of",
+      "city": "toronto",
+      "name": "Toronto Tech Fest",
+      "url": "https://luma.com/torontotechfest",
+      "scope": "local"
+    },
+    {
+      "id": "cal-rJoHBmPlHGvg5F8",
+      "city": "waterloo",
+      "name": "Waterloo Tech (+adjacent) Events",
+      "url": "https://luma.com/waterlooevents",
+      "scope": "local"
+    },
+    {
+      "id": "cal-xfRCBuSHDpIoEmp",
+      "city": "montreal",
+      "name": "AI Salon (www.AiSalon.ai)",
+      "url": "https://luma.com/aisalon",
+      "scope": "global"
+    },
+    {
+      "id": "cal-6mC5Rknn9qtVgom",
+      "city": "montreal",
+      "name": "AI Safety Montréal / Sécurité de l'IA Montréal",
+      "url": "https://luma.com/montreal-ai-safety-ethics-governance",
+      "scope": "local"
+    },
+    {
+      "id": "cal-G9uXagmA57lPjU2",
+      "city": "calgary",
+      "name": "Calgary Tech Thursday",
+      "url": "https://luma.com/calgarytechthursday",
+      "scope": "local"
+    },
+    {
+      "id": "cal-BUu5NNfzTOkzsa8",
+      "city": "calgary",
+      "name": "Calgary Innovation Week 2026",
+      "url": "https://luma.com/calgaryinnovationweek2026",
+      "scope": "local"
+    },
+    {
+      "id": "cal-vN0x9nuso728ULQ",
+      "city": "calgary",
+      "name": "Hunter Hub Events",
+      "url": "https://luma.com/hunterhub",
+      "scope": "local"
+    },
+    {
+      "id": "cal-XuQJD3iDbbAGjSU",
+      "city": "edmonton",
+      "name": "Tech Wednesdays",
+      "url": "https://luma.com/techwednesdays",
+      "scope": "local"
+    },
+    {
+      "id": "cal-Qq84JUsUDv3xMxV",
+      "city": "edmonton",
+      "name": "Edmonton Startup Week",
+      "url": "https://luma.com/Edmonton-Startup-Week",
+      "scope": "local"
+    },
+    {
+      "id": "cal-yiYZCjVML6OJg7I",
+      "city": "ottawa",
+      "name": "Ottawa Tech Thursday",
+      "url": "https://luma.com/ottawatechthursday",
+      "scope": "local"
+    },
+    {
+      "id": "cal-XBzckKgBq3z61r4",
+      "city": "ottawa",
+      "name": "Ottawa Systems",
+      "url": "https://luma.com/ottawasystems",
+      "scope": "local"
+    },
+    {
+      "id": "cal-F7fhNHf0o5YDtk0",
+      "city": "ottawa",
+      "name": "The AI Collective Ottawa",
+      "url": "https://luma.com/calendar/cal-F7fhNHf0o5YDtk0",
+      "scope": "local"
+    },
+    {
+      "id": "cal-7F8pZGxrsjSQVRL",
+      "city": "winnipeg",
+      "name": "Winnipeg Tech Thursday",
+      "url": "https://luma.com/winnipegtechthursday",
+      "scope": "local"
+    },
+    {
+      "id": "cal-E74MDlDKBaeAwXK",
+      "city": "halifax",
+      "name": "The AI Collective",
+      "url": "https://luma.com/genai-collective",
+      "scope": "global"
+    }
+  ]
+}

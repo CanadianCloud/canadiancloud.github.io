@@ -1,0 +1,2874 @@
+{
+  "updated_at": "2026-11-05T23:48:04.806Z",
+  "cities": [
+    {
+      "id": "vancouver",
+      "name": "Vancouver",
+      "province": "British Columbia",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "timezone": "America/Vancouver",
+      "radiusKm": 65,
+      "aliases": [
+        "Vancouver",
+        "Burnaby",
+        "Richmond",
+        "Surrey",
+        "New Westminster",
+        "Coquitlam"
+      ]
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "province": "British Columbia",
+      "latitude": 48.4284,
+      "longitude": -123.3656,
+      "timezone": "America/Vancouver",
+      "radiusKm": 45,
+      "aliases": [
+        "Victoria",
+        "Langford",
+        "Saanich"
+      ]
+    },
+    {
+      "id": "calgary",
+      "name": "Calgary",
+      "province": "Alberta",
+      "latitude": 51.0447,
+      "longitude": -114.0719,
+      "timezone": "America/Edmonton",
+      "radiusKm": 70,
+      "aliases": [
+        "Calgary"
+      ]
+    },
+    {
+      "id": "edmonton",
+      "name": "Edmonton",
+      "province": "Alberta",
+      "latitude": 53.5461,
+      "longitude": -113.4938,
+      "timezone": "America/Edmonton",
+      "radiusKm": 70,
+      "aliases": [
+        "Edmonton",
+        "Sherwood Park",
+        "St. Albert"
+      ]
+    },
+    {
+      "id": "winnipeg",
+      "name": "Winnipeg",
+      "province": "Manitoba",
+      "latitude": 49.8951,
+      "longitude": -97.1384,
+      "timezone": "America/Winnipeg",
+      "radiusKm": 60,
+      "aliases": [
+        "Winnipeg"
+      ]
+    },
+    {
+      "id": "waterloo",
+      "name": "Waterloo",
+      "province": "Ontario",
+      "latitude": 43.4643,
+      "longitude": -80.5204,
+      "timezone": "America/Toronto",
+      "radiusKm": 55,
+      "aliases": [
+        "Waterloo",
+        "Kitchener",
+        "Cambridge",
+        "Guelph"
+      ]
+    },
+    {
+      "id": "toronto",
+      "name": "Toronto",
+      "province": "Ontario",
+      "latitude": 43.6532,
+      "longitude": -79.3832,
+      "timezone": "America/Toronto",
+      "radiusKm": 65,
+      "aliases": [
+        "Toronto",
+        "Mississauga",
+        "Markham",
+        "Brampton",
+        "Vaughan"
+      ]
+    },
+    {
+      "id": "ottawa",
+      "name": "Ottawa",
+      "province": "Ontario",
+      "latitude": 45.4215,
+      "longitude": -75.6972,
+      "timezone": "America/Toronto",
+      "radiusKm": 65,
+      "aliases": [
+        "Ottawa",
+        "Gatineau",
+        "Kanata"
+      ]
+    },
+    {
+      "id": "montreal",
+      "name": "Montréal",
+      "province": "Québec",
+      "latitude": 45.5019,
+      "longitude": -73.5674,
+      "timezone": "America/Toronto",
+      "radiusKm": 65,
+      "aliases": [
+        "Montréal",
+        "Montreal",
+        "Laval",
+        "Longueuil"
+      ]
+    },
+    {
+      "id": "halifax",
+      "name": "Halifax",
+      "province": "Nova Scotia",
+      "latitude": 44.6488,
+      "longitude": -63.5752,
+      "timezone": "America/Halifax",
+      "radiusKm": 65,
+      "aliases": [
+        "Halifax",
+        "Dartmouth"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cal-eRivKmWDsR2bxYq",
+      "city": "vancouver",
+      "name": "Cloud Events",
+      "url": "https://luma.com/CloudCanada",
+      "scope": "global",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-cT3g3W7LDCRB7Z9",
+      "city": "vancouver",
+      "name": "Cloud Native Vancouver",
+      "url": "https://luma.com/cloudnativevan",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-i2SXCQcJZBMq8NN",
+      "city": "vancouver",
+      "name": "Vancouver Tech Journal Events",
+      "url": "https://luma.com/vantechjournal",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-KAGZBuhP9K2YNbA",
+      "city": "vancouver",
+      "name": "Vancouver AI Meetup (VAM!)",
+      "url": "https://luma.com/vam",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-gUADv2P40s4rWOB",
+      "city": "vancouver",
+      "name": "Careerin Tech Society Event Calendar",
+      "url": "https://luma.com/careerintechevents",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-SazQXSKydxdq2UG",
+      "city": "vancouver",
+      "name": "Vancouver Tech Week",
+      "url": "https://luma.com/vantechweek",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-2jzOe3AtDZp3HsD",
+      "city": "victoria",
+      "name": "Victoria Tech Week 2026",
+      "url": "https://luma.com/victoriatechweek2026",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-NFIKWffXs4kAUi3",
+      "city": "toronto",
+      "name": "TechTO",
+      "url": "https://luma.com/TechTO-Events",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-DdUEFsYsDVh7osG",
+      "city": "toronto",
+      "name": "Toronto Tech Week",
+      "url": "https://luma.com/torontotechweek",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-pCYHxFjHr6u6cRl",
+      "city": "toronto",
+      "name": "SUPERCOLLIDER - Toronto Tech Community",
+      "url": "https://luma.com/supercollider-tech-community",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-KQCPkgCBy4QE9of",
+      "city": "toronto",
+      "name": "Toronto Tech Fest",
+      "url": "https://luma.com/torontotechfest",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-rJoHBmPlHGvg5F8",
+      "city": "waterloo",
+      "name": "Waterloo Tech (+adjacent) Events",
+      "url": "https://luma.com/waterlooevents",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-xfRCBuSHDpIoEmp",
+      "city": "montreal",
+      "name": "AI Salon (www.AiSalon.ai)",
+      "url": "https://luma.com/aisalon",
+      "scope": "global",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-6mC5Rknn9qtVgom",
+      "city": "montreal",
+      "name": "AI Safety Montréal / Sécurité de l'IA Montréal",
+      "url": "https://luma.com/montreal-ai-safety-ethics-governance",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-G9uXagmA57lPjU2",
+      "city": "calgary",
+      "name": "Calgary Tech Thursday",
+      "url": "https://luma.com/calgarytechthursday",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-BUu5NNfzTOkzsa8",
+      "city": "calgary",
+      "name": "Calgary Innovation Week 2026",
+      "url": "https://luma.com/calgaryinnovationweek2026",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-vN0x9nuso728ULQ",
+      "city": "calgary",
+      "name": "Hunter Hub Events",
+      "url": "https://luma.com/hunterhub",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-XuQJD3iDbbAGjSU",
+      "city": "edmonton",
+      "name": "Tech Wednesdays",
+      "url": "https://luma.com/techwednesdays",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-Qq84JUsUDv3xMxV",
+      "city": "edmonton",
+      "name": "Edmonton Startup Week",
+      "url": "https://luma.com/Edmonton-Startup-Week",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-yiYZCjVML6OJg7I",
+      "city": "ottawa",
+      "name": "Ottawa Tech Thursday",
+      "url": "https://luma.com/ottawatechthursday",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-XBzckKgBq3z61r4",
+      "city": "ottawa",
+      "name": "Ottawa Systems",
+      "url": "https://luma.com/ottawasystems",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-F7fhNHf0o5YDtk0",
+      "city": "ottawa",
+      "name": "The AI Collective Ottawa",
+      "url": "https://luma.com/calendar/cal-F7fhNHf0o5YDtk0",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-7F8pZGxrsjSQVRL",
+      "city": "winnipeg",
+      "name": "Winnipeg Tech Thursday",
+      "url": "https://luma.com/winnipegtechthursday",
+      "scope": "local",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    },
+    {
+      "id": "cal-E74MDlDKBaeAwXK",
+      "city": "halifax",
+      "name": "The AI Collective",
+      "url": "https://luma.com/genai-collective",
+      "scope": "global",
+      "status": "ok",
+      "last_success": "2026-11-05T23:48:04.806Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-MAXe5V4oysba4z0",
+      "name": "Vancouver Tech Community: Connect with Tech Companies",
+      "start": "2026-11-06T00:30:00.000Z",
+      "end": "2026-11-06T03:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Convergence, 777 Hornby St #1500, Vancouver, BC V6Z 1S4, Canada",
+      "url": "https://luma.com/VancouverTech2026Nov5",
+      "latitude": 49.282962,
+      "longitude": -123.12172,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/ml/54640642-e5c8-47da-880f-66e7cf1c46ee",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-x0VsLdgM7TScGDC",
+      "name": "Burnaby Tech Community Coffee Meetup",
+      "start": "2026-11-07T16:00:00.000Z",
+      "end": "2026-11-07T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - Kingsway, 4250 Kingsway #1, Burnaby, BC V5H 4T7, Canada",
+      "url": "https://luma.com/BurnabyTechCoffee2026Nov7",
+      "latitude": 49.2315169,
+      "longitude": -123.0096835,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/rp/04f7c170-21e1-4882-a935-7c781597ec33.png",
+      "venueCity": "Burnaby",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-261ATAfKkIZAyNm",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2026-11-07T17:00:00.000Z",
+      "end": "2026-11-07T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 2E3, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2026Nov7",
+      "latitude": 49.1709,
+      "longitude": -123.136814,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/hk/6cd1dc4f-79b4-4c9d-8a18-2b6554137c7b.png",
+      "venueCity": "Richmond",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-2KlEI9SAZhd13W0",
+      "name": "West Vancouver Tech Community Coffee Meetup",
+      "start": "2026-11-07T17:00:00.000Z",
+      "end": "2026-11-07T19:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Tesla West Vancouver - Park Royal, 860 Main St D3, West Vancouver, BC V7T 2Z3, Canada",
+      "url": "https://luma.com/WestVanTechCoffee2026Nov7",
+      "latitude": 49.325363599999996,
+      "longitude": -123.1417561,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/sw/9dfba5c9-3e05-4e58-aaa7-c622ebb93967.png",
+      "venueCity": "West Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-JOanhDhSk858uGV",
+      "name": "Chasing Enough LIVE: The High Achiever's Guide to Sustainable Success with Mandy Balak",
+      "start": "2026-11-10T00:30:00.000Z",
+      "end": "2026-11-10T02:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "And-Co Offices, 1575 W Georgia St #200, Vancouver, BC V6G 2V3, Canada",
+      "url": "https://luma.com/50k2gv93",
+      "latitude": 49.2906352,
+      "longitude": -123.1301896,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/kn/a1c3250d-2214-4bb4-b3c8-6d1e094d3cd0.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-RGqRz5tsBxtpiCJ",
+      "name": "Cursor for PMs: AI Workshop to Build 0👉1",
+      "start": "2026-11-10T00:30:00.000Z",
+      "end": "2026-11-10T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Northeastern University - Vancouver, 410 W Georgia St #1400, Vancouver, BC V6B 1Z3, Canada",
+      "url": "https://luma.com/pmhivecursorworkshop",
+      "latitude": 49.280679799999994,
+      "longitude": -123.1156822,
+      "sequence": 216085686,
+      "sources": [
+        "cal-SazQXSKydxdq2UG"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/jt/df675c0c-a20f-4836-9991-feef54f72f13.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-lNYmqVF7sY0DC8E",
+      "name": "VAM! AI Reading Group: JEPAs & World Models 📖",
+      "start": "2026-11-11T01:00:00.000Z",
+      "end": "2026-11-11T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Northeastern University - Vancouver, 410 W Georgia St #1400, Vancouver, BC V6B 1Z3, Canada",
+      "url": "https://luma.com/0so4ulav",
+      "latitude": 49.280679799999994,
+      "longitude": -123.1156822,
+      "sequence": 216085685,
+      "sources": [
+        "cal-KAGZBuhP9K2YNbA"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/3n/b78965f2-b59c-4261-88e6-4f4f92e1163d.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-7MhJrhOhBw3GaLi",
+      "name": "The 3am Founder: Quiet the Mind",
+      "start": "2026-11-12T22:00:00.000Z",
+      "end": "2026-11-13T00:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "https://luma.com/event/evt-7MhJrhOhBw3GaLi",
+      "url": "https://luma.com/g38brhm6",
+      "latitude": 49.279545354456154,
+      "longitude": -123.11712966678112,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/ve/74c0d9cd-7507-4f78-8c89-aa77c48de20f.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-aryvBzPMPsKgKQb",
+      "name": "The Hardware Behind the AI Buildout",
+      "start": "2026-11-12T23:00:00.000Z",
+      "end": "2026-11-13T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "And-Co Offices, 1575 W Georgia St #200, Vancouver, BC V6G 2V3, Canada",
+      "url": "https://luma.com/vancouver-06wa",
+      "latitude": 49.2906352,
+      "longitude": -123.1301896,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/f6/4b34e840-1d7a-4041-8bba-819dccf206af.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-2itL27JUcXBIsJl",
+      "name": "Pick a Side: The Future of Tech 🔥",
+      "start": "2026-11-13T00:00:00.000Z",
+      "end": "2026-11-13T02:45:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "308 Dunsmuir St, Vancouver, BC V6B 0T5, Canada",
+      "url": "https://luma.com/cloud-1ue4",
+      "latitude": 49.281224699999996,
+      "longitude": -123.1129895,
+      "sequence": 216085685,
+      "sources": [
+        "cal-eRivKmWDsR2bxYq",
+        "cal-cT3g3W7LDCRB7Z9"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/ga/50ce61ee-61e6-4e76-ac4a-9615a4f259a6.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-Tq1frynMWvcIKAZ",
+      "name": "VAM! Talks: AI Optimization & Multimodal Reasoning",
+      "start": "2026-11-14T00:30:00.000Z",
+      "end": "2026-11-14T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Northeastern University - Vancouver, 410 W Georgia St #1400, Vancouver, BC V6B 1Z3, Canada",
+      "url": "https://luma.com/l1kcnrg0",
+      "latitude": 49.280679799999994,
+      "longitude": -123.1156822,
+      "sequence": 216085685,
+      "sources": [
+        "cal-KAGZBuhP9K2YNbA"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/zy/eb4df1bf-a3b3-4793-8656-ff5a0238d90c.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-GbJ7DB5NXfUVq6V",
+      "name": "Vancouver Tech Community Coffee Meetup",
+      "start": "2026-11-14T16:00:00.000Z",
+      "end": "2026-11-14T17:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Deville Coffee-The Post, 366 Dunsmuir St, Vancouver, BC V6B 0T5, Canada",
+      "url": "https://luma.com/VanTechCoffee2026Nov14",
+      "latitude": 49.28134,
+      "longitude": -123.113234,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/pn/6e04e741-cdbd-4c09-a981-32e89cf555af.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-MqxvosugQnfT2SK",
+      "name": "#VTJTalks: Leadership Lessons From Women Builders",
+      "start": "2026-11-18T23:00:00.000Z",
+      "end": "2026-11-19T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Northeastern University - Vancouver, 410 W Georgia St #1400, Vancouver, BC V6B 1Z3, Canada",
+      "url": "https://luma.com/v2mmmzbf",
+      "latitude": 49.280679799999994,
+      "longitude": -123.1156822,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/2j/5bfe9112-3423-4811-ab55-8c8915141687.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-28rLEK2M6RM89ee",
+      "name": "Surrey Tech Community Coffee Meetup",
+      "start": "2026-11-21T16:00:00.000Z",
+      "end": "2026-11-21T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Blenz Coffee, Blenz at Central City, 13450 102 Ave Unit 110, Surrey, BC V3T 5Y1, Canada",
+      "url": "https://luma.com/SurreyTechCoffee2026Nov21",
+      "latitude": 49.188048,
+      "longitude": -122.849382,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/en/7fa70f54-0f1c-4967-98e0-3bcd32b63f63.png",
+      "venueCity": "Surrey",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-Vqi6eBQGDY3QBHO",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2026-11-21T17:00:00.000Z",
+      "end": "2026-11-21T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 2E3, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2026Nov21",
+      "latitude": 49.1709,
+      "longitude": -123.136814,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/tf/f2a5a963-c761-4be9-b050-68b385d26d76.png",
+      "venueCity": "Richmond",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-VghB2CtmEsclZiN",
+      "name": "#VTJTalks: Fall Fundraising Playbook: Insights For Vancouver Founders",
+      "start": "2026-11-23T23:30:00.000Z",
+      "end": "2026-11-24T01:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Segev LLP, The King George, 905 W Pender St Bldg 6TH Floor, Vancouver, BC V6C 1L6, Canada",
+      "url": "https://luma.com/guwndgxc",
+      "latitude": 49.2861014,
+      "longitude": -123.1168627,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/zh/8b842cea-7541-44f8-b830-509ec71a8b96.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-pD2lbxo4kLQbwnF",
+      "name": "VAM! AI Reading Group: JEV-as-a-Judge 📖",
+      "start": "2026-11-25T01:00:00.000Z",
+      "end": "2026-11-25T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Northeastern University - Vancouver, 410 W Georgia St #1400, Vancouver, BC V6B 1Z3, Canada",
+      "url": "https://luma.com/hjl856k9",
+      "latitude": 49.280679799999994,
+      "longitude": -123.1156822,
+      "sequence": 216085685,
+      "sources": [
+        "cal-KAGZBuhP9K2YNbA"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/3n/b78965f2-b59c-4261-88e6-4f4f92e1163d.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-ceqa4brTyNAnch6",
+      "name": "#VTJTalks: Critical Minerals, Critical Moment: Innovation from Mine to Market",
+      "start": "2026-11-25T23:00:00.000Z",
+      "end": "2026-11-26T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "And-Co Offices, 1575 W Georgia St #200, Vancouver, BC V6G 2V3, Canada",
+      "url": "https://luma.com/vancouver-ilxc",
+      "latitude": 49.2906352,
+      "longitude": -123.1301896,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/8c/de7e8452-3a8b-4cd0-9b0d-f54165466f59.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-MRVLpM7AzE263yZ",
+      "name": "2026: November - Cloud Native Vancouver",
+      "start": "2026-11-26T00:00:00.000Z",
+      "end": "2026-11-26T03:10:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "https://luma.com/event/evt-MRVLpM7AzE263yZ",
+      "url": "https://luma.com/5e55u1u9",
+      "latitude": 49.28094260912445,
+      "longitude": -123.11353337338335,
+      "sequence": 216085685,
+      "sources": [
+        "cal-eRivKmWDsR2bxYq",
+        "cal-cT3g3W7LDCRB7Z9"
+      ],
+      "cover": "https://images.lumacdn.com/gallery-images/vj/986292e1-1875-463a-be76-da8164df0b89.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-Jul0pYz4UDR6NiM",
+      "name": "Vancouver Tech Community Coffee Meetup",
+      "start": "2026-11-28T16:00:00.000Z",
+      "end": "2026-11-28T17:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Deville Coffee-The Post, 366 Dunsmuir St, Vancouver, BC V6B 0T5, Canada",
+      "url": "https://luma.com/VanTechCoffee2026Nov28",
+      "latitude": 49.28134,
+      "longitude": -123.113234,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/a3/5cbcc935-33bd-401a-bc8c-92c0c8598bb5.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-A3Ahm5NjSNmbn6q",
+      "name": "VAM! AI Reading Group: JEV-as-a-Judge 📖",
+      "start": "2026-12-02T01:00:00.000Z",
+      "end": "2026-12-02T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Northeastern University - Vancouver, 410 W Georgia St #1400, Vancouver, BC V6B 1Z3, Canada",
+      "url": "https://luma.com/sqkqc3sa",
+      "latitude": 49.280679799999994,
+      "longitude": -123.1156822,
+      "sequence": 216085685,
+      "sources": [
+        "cal-KAGZBuhP9K2YNbA"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/3n/b78965f2-b59c-4261-88e6-4f4f92e1163d.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-vQNagxOrWSOlsAg",
+      "name": "Leadership Workshop",
+      "start": "2026-12-04T00:00:00.000Z",
+      "end": "2026-12-04T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "SAP Canada Inc., 910 Mainland St, Vancouver, BC V6B 1A9, Canada",
+      "url": "https://luma.com/witcanada-phz0",
+      "latitude": 49.2770989,
+      "longitude": -123.1180737,
+      "sequence": 216085685,
+      "sources": [
+        "cal-eRivKmWDsR2bxYq"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/el/05d58a4f-e1c0-4d9d-8e37-22380fd6590d.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-x7pKsBJLhZ7FeB4",
+      "name": "Burnaby Tech Community Coffee Meetup",
+      "start": "2026-12-05T16:00:00.000Z",
+      "end": "2026-12-05T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - Kingsway, 4250 Kingsway #1, Burnaby, BC V5H 4T7, Canada",
+      "url": "https://luma.com/BurnabyTechCoffee2026Dec5",
+      "latitude": 49.2315169,
+      "longitude": -123.0096835,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/xa/92f78363-7e86-4470-9cdb-565423327649.png",
+      "venueCity": "Burnaby",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-QbSmbKqvWDBe1mC",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2026-12-05T17:00:00.000Z",
+      "end": "2026-12-05T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 2E3, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2026Dec5",
+      "latitude": 49.1709,
+      "longitude": -123.136814,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/e3/17be3ac6-206d-47af-9e03-5b5aac128901.png",
+      "venueCity": "Richmond",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-YAPIIr33dZLYWMC",
+      "name": "West Vancouver Tech Community Coffee Meetup",
+      "start": "2026-12-05T18:00:00.000Z",
+      "end": "2026-12-05T20:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Tesla West Vancouver - Park Royal, 860 Main St D3, West Vancouver, BC V7T 2Z3, Canada",
+      "url": "https://luma.com/WestVanTechCoffee2026Dec5",
+      "latitude": 49.325363599999996,
+      "longitude": -123.1417561,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/7a/c7c9f8da-d633-42a6-8482-9cec96d29bf9.png",
+      "venueCity": "West Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-2jp5zNixTwmg7Em",
+      "name": "#VTJTalks: Grading Vancouver's Innovation Economy in 2026",
+      "start": "2026-12-08T23:00:00.000Z",
+      "end": "2026-12-09T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Northeastern University - Vancouver, 410 W Georgia St #1400, Vancouver, BC V6B 1Z3, Canada",
+      "url": "https://luma.com/7wiz6rcz",
+      "latitude": 49.280679799999994,
+      "longitude": -123.1156822,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/9t/845a1a06-0510-4ea4-8e69-835a8d38a0c8.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-YZMCb41NPz4eXy3",
+      "name": "Building Your Own Business in Tech",
+      "start": "2026-12-09T00:00:00.000Z",
+      "end": "2026-12-09T03:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Amazon YVR26, 399 W Georgia St, Vancouver, BC V6B 3W8, Canada",
+      "url": "https://luma.com/ssrlbtt2",
+      "latitude": 49.2806285,
+      "longitude": -123.11469049999998,
+      "sequence": 216085685,
+      "sources": [
+        "cal-eRivKmWDsR2bxYq"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/ou/14ff02b2-763d-4a3a-ae10-75a475d66e54.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-4DpgVAYzwoMgQhV",
+      "name": "Vancouver Tech's Annual Year-End Celebration",
+      "start": "2026-12-10T01:00:00.000Z",
+      "end": "2026-12-10T04:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "The Pint Public House, 455 Abbott St, Vancouver, BC V6B 2L2, Canada",
+      "url": "https://luma.com/techvancouver",
+      "latitude": 49.2814279,
+      "longitude": -123.1077303,
+      "sequence": 216085685,
+      "sources": [
+        "cal-eRivKmWDsR2bxYq"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/88/c04a5bfd-660e-403a-beb0-72443f59aa59.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-8prklCDEzo85IBf",
+      "name": "Vancouver Tech Community: Connect with Tech Companies",
+      "start": "2026-12-11T00:30:00.000Z",
+      "end": "2026-12-11T03:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Convergence, 777 Hornby St #1500, Vancouver, BC V6Z 1S4, Canada",
+      "url": "https://luma.com/VancouverTech2026Dec10",
+      "latitude": 49.282962,
+      "longitude": -123.12172,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/ml/54640642-e5c8-47da-880f-66e7cf1c46ee",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-u1dQmW7E9lQpURs",
+      "name": "Vancouver Tech Community Coffee Meetup",
+      "start": "2026-12-12T16:00:00.000Z",
+      "end": "2026-12-12T17:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Deville Coffee-The Post, 366 Dunsmuir St, Vancouver, BC V6B 0T5, Canada",
+      "url": "https://luma.com/VanTechCoffee2026Dec12",
+      "latitude": 49.28134,
+      "longitude": -123.113234,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/mu/78b2a816-877f-42d5-9a6f-1217d2569c91.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-qrMdejZndiomtFV",
+      "name": "Althra Cohort 3 Demo Day",
+      "start": "2026-12-15T01:00:00.000Z",
+      "end": "2026-12-15T04:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "https://luma.com/event/evt-qrMdejZndiomtFV",
+      "url": "https://luma.com/w489tqr6",
+      "latitude": 49.25911833107539,
+      "longitude": -123.1000473314585,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/ck/69795854-5049-43a1-9b1f-61d6bb668421.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-XmeFBPHC1tekZe6",
+      "name": "VAM! AI Reading Group: JEV-as-a-Judge 📖",
+      "start": "2026-12-16T01:00:00.000Z",
+      "end": "2026-12-16T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Northeastern University - Vancouver, 410 W Georgia St #1400, Vancouver, BC V6B 1Z3, Canada",
+      "url": "https://luma.com/97plwhy4",
+      "latitude": 49.280679799999994,
+      "longitude": -123.1156822,
+      "sequence": 216085685,
+      "sources": [
+        "cal-KAGZBuhP9K2YNbA"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/3n/b78965f2-b59c-4261-88e6-4f4f92e1163d.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-hWEot8YxSBLqBMY",
+      "name": "Surrey Tech Community Coffee Meetup",
+      "start": "2026-12-19T16:00:00.000Z",
+      "end": "2026-12-19T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Blenz Coffee, Blenz at Central City, 13450 102 Ave Unit 110, Surrey, BC V3T 5Y1, Canada",
+      "url": "https://luma.com/SurreyTechCoffee2026Dec19",
+      "latitude": 49.188048,
+      "longitude": -122.849382,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/ne/61dcbeab-17bb-4b13-b539-403ef2e4caa8.png",
+      "venueCity": "Surrey",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-njig14g6hawMJQu",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2026-12-19T17:00:00.000Z",
+      "end": "2026-12-19T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 2E3, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2026Dec19",
+      "latitude": 49.1709,
+      "longitude": -123.136814,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/o9/dfe14c94-041e-48f1-82c4-d184e53aad2d.png",
+      "venueCity": "Richmond",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-mkNaOeYJdJv9MMZ",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-01-02T17:00:00.000Z",
+      "end": "2027-01-02T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Jan2",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/e3/17be3ac6-206d-47af-9e03-5b5aac128901.png",
+      "venueCity": "Richmond",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-dQjELbneBU3qkTL",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-01-16T17:00:00.000Z",
+      "end": "2027-01-16T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Jan16",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-tfmIEpldE2RbSSl",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-01-30T17:00:00.000Z",
+      "end": "2027-01-30T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Jan30",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-4d1zfRAnJ0QYRQS",
+      "name": "Tech Days Vol. 3",
+      "start": "2027-02-08T20:00:00.000Z",
+      "end": "2027-02-10T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "And-Co Offices, 1575 W Georgia St #200, Vancouver, BC V6G 2V3, Canada",
+      "url": "https://luma.com/2r2gc4k2",
+      "latitude": 49.2906352,
+      "longitude": -123.1301896,
+      "sequence": 216085685,
+      "sources": [
+        "cal-i2SXCQcJZBMq8NN"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/xz/bf740778-154e-434c-8f43-b6b64fddb6eb.png",
+      "venueCity": "Vancouver",
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-3yvLWC7mlZOrr9G",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-02-13T17:00:00.000Z",
+      "end": "2027-02-13T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Feb13",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-PV8Km3Xbmd3oNKl",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-02-27T17:00:00.000Z",
+      "end": "2027-02-27T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Feb27",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-X4Dis1AyiHu6OgR",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-03-13T17:00:00.000Z",
+      "end": "2027-03-13T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Mar13",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-z4tsE8pbQSzHFpM",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-03-27T17:00:00.000Z",
+      "end": "2027-03-27T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Mar27",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-VlG1ewDKPf8Bdm7",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-04-10T17:00:00.000Z",
+      "end": "2027-04-10T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Apr10",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-nqqxEUAfYgGbphg",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-04-24T17:00:00.000Z",
+      "end": "2027-04-24T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Apr24",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-XOHQGdK9DJExzBi",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-05-08T17:00:00.000Z",
+      "end": "2027-05-08T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027May8",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-uQXDEdCECUdIhMk",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-05-22T17:00:00.000Z",
+      "end": "2027-05-22T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027May22",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-IpzAFPvQRzEFqGA",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-06-05T17:00:00.000Z",
+      "end": "2027-06-05T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Jun5",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-vHUxMrxOqg2PlkZ",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-06-19T17:00:00.000Z",
+      "end": "2027-06-19T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Jun19",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-Xp9lfWaXiX2BHug",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-07-03T17:00:00.000Z",
+      "end": "2027-07-03T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Jul3",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-CzaOxgBNgYyTKrS",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-07-17T17:00:00.000Z",
+      "end": "2027-07-17T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Jul17",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-OuDiC3qIHO2TMP6",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-07-31T17:00:00.000Z",
+      "end": "2027-07-31T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Jul31",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-oFud2YXXbkJcL7q",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-08-14T17:00:00.000Z",
+      "end": "2027-08-14T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Aug14",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-puKe52COPEPResb",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-08-28T17:00:00.000Z",
+      "end": "2027-08-28T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Aug28",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-3OQnVqUmrdCB3VQ",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-09-11T17:00:00.000Z",
+      "end": "2027-09-11T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Sep11",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-jQ8AJ1pWsQgVKTg",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-09-25T17:00:00.000Z",
+      "end": "2027-09-25T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Sep25",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-AWsdi7DmkrtQeY9",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-10-09T17:00:00.000Z",
+      "end": "2027-10-09T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Oct9",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-jvUIHqzDde7VmJa",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-10-23T17:00:00.000Z",
+      "end": "2027-10-23T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Oct23",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-xXaxHeiXjYqCaiq",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-11-06T17:00:00.000Z",
+      "end": "2027-11-06T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Nov6",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-9rj2V9wRcOEVuuE",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-11-20T17:00:00.000Z",
+      "end": "2027-11-20T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Nov20",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-lbj40DfCBH1abk2",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-12-04T17:00:00.000Z",
+      "end": "2027-12-04T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Dec4",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "evt-MrDS0EGJNuePJ7A",
+      "name": "Richmond Tech Community Coffee Meetup",
+      "start": "2027-12-18T17:00:00.000Z",
+      "end": "2027-12-18T18:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "Waves Coffee House - London Plaza, 5951 Number 3 Rd #180, Richmond, BC V6X 3Y6, Canada",
+      "url": "https://luma.com/RichmondTechCoffee2027Dec18",
+      "latitude": 49.1708997,
+      "longitude": -123.1368138,
+      "sequence": 216085686,
+      "sources": [
+        "cal-gUADv2P40s4rWOB"
+      ],
+      "cover": null,
+      "city": "vancouver"
+    },
+    {
+      "id": "calev-aZZsep2E5jG7n4J",
+      "name": "Prompt Victoria >_ AI Conference 2026",
+      "start": "2026-11-05T16:00:00.000Z",
+      "end": "2026-11-06T01:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Vancouver",
+      "location": "https://promptvictoria.ca/",
+      "url": "https://luma.com/victoriatechweek2026",
+      "latitude": 48.4216749,
+      "longitude": -123.3668179,
+      "sequence": 216085686,
+      "sources": [
+        "cal-2jzOe3AtDZp3HsD"
+      ],
+      "cover": null,
+      "city": "victoria"
+    },
+    {
+      "id": "calev-b9yV4mqbhfArfnG",
+      "name": "Early Stage Founder Dinner",
+      "start": "2026-11-06T01:00:00.000Z",
+      "end": "2026-11-06T04:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "https://wygo.world/calgarytour",
+      "url": "https://luma.com/calgaryinnovationweek2026",
+      "latitude": 51.0376536,
+      "longitude": -114.0812187,
+      "sequence": 216085688,
+      "sources": [
+        "cal-BUu5NNfzTOkzsa8"
+      ],
+      "cover": null,
+      "city": "calgary"
+    },
+    {
+      "id": "evt-6vDrLCT5Gelw1RO",
+      "name": "Hackathon: Tech Thursday x Garmin",
+      "start": "2026-11-14T15:00:00.000Z",
+      "end": "2026-11-14T23:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "TBD",
+      "url": "https://luma.com/qbri3not",
+      "latitude": null,
+      "longitude": null,
+      "sequence": 216085688,
+      "sources": [
+        "cal-G9uXagmA57lPjU2"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/yd/c2e98204-db92-4c8a-b5c6-41c47ff448fd.png",
+      "city": "calgary"
+    },
+    {
+      "id": "evt-zeZJmII3M8nZGsS",
+      "name": "Hunter Hub Skills Clinic | Building Technical Skills as a Founder, without a Technical Background",
+      "start": "2026-11-17T18:00:00.000Z",
+      "end": "2026-11-17T19:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "Hunter Hub for Entrepreneurial Thinking, 460 Campus Lane NW, Calgary, AB T2N 1N4, Canada",
+      "url": "https://luma.com/q0wuhqa0",
+      "latitude": 51.078033,
+      "longitude": -114.12915129999999,
+      "sequence": 216085688,
+      "sources": [
+        "cal-vN0x9nuso728ULQ"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/dy/8c7f1c4d-b1b5-4229-9d50-90467c5f2136.jpg",
+      "venueCity": "Calgary",
+      "city": "calgary"
+    },
+    {
+      "id": "calev-SGrGxIoS99XYfzm",
+      "name": "Top Tech Stories of 2026",
+      "start": "2026-11-18T22:30:00.000Z",
+      "end": "2026-11-19T01:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "https://www.eventbrite.ca/e/2003683607608?aff=oddtdtcreator",
+      "url": "https://luma.com/calgarytechthursday",
+      "latitude": 51.0413491,
+      "longitude": -114.0656258,
+      "sequence": 216085688,
+      "sources": [
+        "cal-G9uXagmA57lPjU2"
+      ],
+      "cover": null,
+      "city": "calgary"
+    },
+    {
+      "id": "evt-Irii5ELhWGrCulI",
+      "name": "Alumni Spotlight Series: Jana Boyko",
+      "start": "2026-11-20T18:00:00.000Z",
+      "end": "2026-11-20T19:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "Hunter Hub for Entrepreneurial Thinking, 460 Campus Lane NW, Calgary, AB T2N 1N4, Canada",
+      "url": "https://luma.com/1z3eobbo",
+      "latitude": 51.078033,
+      "longitude": -114.12915129999999,
+      "sequence": 216085688,
+      "sources": [
+        "cal-vN0x9nuso728ULQ"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/fc/029315ae-9deb-4e2a-ab83-fdde12e94b5a.jpg",
+      "venueCity": "Calgary",
+      "city": "calgary"
+    },
+    {
+      "id": "evt-KSY4bzNJs9HmhqH",
+      "name": "AI for Entrepreneurial Thinking Skills Clinic | From Idea to Execution: Build Your AI-Assisted Founder Stack",
+      "start": "2026-11-25T15:00:00.000Z",
+      "end": "2026-11-25T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "Hunter Hub for Entrepreneurial Thinking, 460 Campus Lane NW, Calgary, AB T2N 1N4, Canada",
+      "url": "https://luma.com/f7yxf6kl",
+      "latitude": 51.078033,
+      "longitude": -114.12915129999999,
+      "sequence": 216085688,
+      "sources": [
+        "cal-vN0x9nuso728ULQ"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/l3/f1e4a783-3451-489f-b2d6-8df0714115cb.png",
+      "venueCity": "Calgary",
+      "city": "calgary"
+    },
+    {
+      "id": "evt-K8HKv6zqAQQjscD",
+      "name": "Hunter Hub Skills Clinic | Insurance 101 for Founders: What You Actually Need to Know Before You Need It",
+      "start": "2026-12-01T18:00:00.000Z",
+      "end": "2026-12-01T19:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "Hunter Hub for Entrepreneurial Thinking, 460 Campus Lane NW, Calgary, AB T2N 1N4, Canada",
+      "url": "https://luma.com/lg7u59zx",
+      "latitude": 51.078033,
+      "longitude": -114.12915129999999,
+      "sequence": 216085688,
+      "sources": [
+        "cal-vN0x9nuso728ULQ"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/5d/c539e72c-43e9-4cde-b4e1-ad80c1717e16.jpg",
+      "venueCity": "Calgary",
+      "city": "calgary"
+    },
+    {
+      "id": "evt-FNVN8YIgLHU2dcg",
+      "name": "Edmonton Tech Wednesdays - casual, weekly meetup",
+      "start": "2026-11-12T00:30:00.000Z",
+      "end": "2026-11-12T03:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "The Pint Public House, 10125 109 St NW, Edmonton, AB T5J 3P2, Canada",
+      "url": "https://luma.com/fiqjomh8",
+      "latitude": 53.5416279,
+      "longitude": -113.50803649999999,
+      "sequence": 216085688,
+      "sources": [
+        "cal-XuQJD3iDbbAGjSU"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/6r/5fbdccb8-d8f5-4e9b-9701-66cd9158490e.png",
+      "venueCity": "Edmonton",
+      "city": "edmonton"
+    },
+    {
+      "id": "evt-iZC3fy8viqO2lAJ",
+      "name": "Edmonton Tech Wednesdays - casual, weekly meetup",
+      "start": "2026-11-19T00:30:00.000Z",
+      "end": "2026-11-19T03:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "The Pint Public House, 10125 109 St NW, Edmonton, AB T5J 3P2, Canada",
+      "url": "https://luma.com/15f0gmfq",
+      "latitude": 53.5416279,
+      "longitude": -113.50803649999999,
+      "sequence": 216085688,
+      "sources": [
+        "cal-XuQJD3iDbbAGjSU"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/6r/5fbdccb8-d8f5-4e9b-9701-66cd9158490e.png",
+      "venueCity": "Edmonton",
+      "city": "edmonton"
+    },
+    {
+      "id": "evt-XFiUVlOnsAU5sbb",
+      "name": "Edmonton Tech Wednesdays - casual, weekly meetup",
+      "start": "2026-11-26T00:30:00.000Z",
+      "end": "2026-11-26T03:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Edmonton",
+      "location": "The Pint Public House, 10125 109 St NW, Edmonton, AB T5J 3P2, Canada",
+      "url": "https://luma.com/mi4s7rd7",
+      "latitude": 53.5416279,
+      "longitude": -113.50803649999999,
+      "sequence": 216085688,
+      "sources": [
+        "cal-XuQJD3iDbbAGjSU"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/6r/5fbdccb8-d8f5-4e9b-9701-66cd9158490e.png",
+      "venueCity": "Edmonton",
+      "city": "edmonton"
+    },
+    {
+      "id": "calev-ID1Hcksvxpv4kNI",
+      "name": "World Cafe: A Year Worth Celebrating",
+      "start": "2026-11-26T21:30:00.000Z",
+      "end": "2026-11-26T23:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Winnipeg",
+      "location": "https://www.eventbrite.ca/e/2003840178917?aff=oddtdtcreator",
+      "url": "https://luma.com/winnipegtechthursday",
+      "latitude": 49.8980235,
+      "longitude": -97.13492169999999,
+      "sequence": 216085689,
+      "sources": [
+        "cal-7F8pZGxrsjSQVRL"
+      ],
+      "cover": null,
+      "city": "winnipeg"
+    },
+    {
+      "id": "evt-afytwT8yaeUGBuV",
+      "name": "CommuniHacks 2026",
+      "start": "2026-11-07T14:30:00.000Z",
+      "end": "2026-11-08T20:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/w7zz7ftl",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/ap/0d32c956-a5bf-4fed-a284-832d25b49264.jpg",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-SbGPhwAtp6RIM3n",
+      "name": "Revenue Tuesdays",
+      "start": "2026-11-10T17:00:00.000Z",
+      "end": "2026-11-10T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/3w2r1b5n",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/dg/a487f1a6-3bc4-468e-a6de-0f8e84975249.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-XE0nwfsirFJCorS",
+      "name": "Technical Wednesday",
+      "start": "2026-11-11T17:00:00.000Z",
+      "end": "2026-11-11T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/waterloo-ikki",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/8m/adfab867-1f41-40ae-b4ef-ab8b28142010.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-6cuiwqxp23iv4Tg",
+      "name": "CivicTechWR Hacknight",
+      "start": "2026-11-11T23:00:00.000Z",
+      "end": "2026-11-12T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-6cuiwqxp23iv4Tg",
+      "url": "https://luma.com/8uebvxfs",
+      "latitude": 43.452772959027946,
+      "longitude": -80.49118184291133,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/9b/defa9a6a-829a-431e-8211-d46ae5f0a3d5.jpg",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-Iq3kY6Et8M0vDcf",
+      "name": "Pancake Social at Builders Club",
+      "start": "2026-11-13T14:00:00.000Z",
+      "end": "2026-11-13T15:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/waterloo-z4ne",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/3v/7f92a2ec-3fac-480e-b9a4-9ab9761d4282.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-0Y4TBE3bK1knw2k",
+      "name": "Strength Training & ADHD",
+      "start": "2026-11-15T18:30:00.000Z",
+      "end": "2026-11-15T20:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/v4tol0vo",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/bb/5383cfa5-9884-4b3f-b11b-77f4be17f64d.jpg",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-aJMobDyLJdsFTxd",
+      "name": "Non-Technical Wednesday",
+      "start": "2026-11-18T17:00:00.000Z",
+      "end": "2026-11-18T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/waterloo-jvs5",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/uc/1e5723c9-d9ca-4480-a05e-519e148b06df.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-41bL6yC61xLN33X",
+      "name": "CivicTechWR Hacknight",
+      "start": "2026-11-18T23:00:00.000Z",
+      "end": "2026-11-19T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-41bL6yC61xLN33X",
+      "url": "https://luma.com/dkbiup2t",
+      "latitude": 43.45241472729441,
+      "longitude": -80.49061202500921,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/9b/defa9a6a-829a-431e-8211-d46ae5f0a3d5.jpg",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-XBHej0DYQjsV9su",
+      "name": "KWLUG Dinner Meetup",
+      "start": "2026-11-19T00:00:00.000Z",
+      "end": "2026-11-19T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "J & B Family Restaurant, 79 Victoria St N, Kitchener, ON N2H 5C1, Canada",
+      "url": "https://luma.com/dx31j147",
+      "latitude": 43.4540782,
+      "longitude": -80.49491239999999,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/vw/1e293a0b-b164-4b6c-9b90-ae8b9f9b6510.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-S4KCICrUGvbjMQv",
+      "name": "AI Agents × Personal OS",
+      "start": "2026-11-19T22:30:00.000Z",
+      "end": "2026-11-20T01:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-S4KCICrUGvbjMQv",
+      "url": "https://luma.com/2yn1kqpr",
+      "latitude": 43.451639383456666,
+      "longitude": -80.49491885180821,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/pr/2a76b13a-3c35-4348-ab49-0b6a7c35faa4.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-7CGedHjs7Dyoaex",
+      "name": "Hard Tech Happy Hour @ Waterloo Brewing",
+      "start": "2026-11-19T23:00:00.000Z",
+      "end": "2026-11-20T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Waterloo Brewing Taphouse, 400 Bingemans Centre Dr, Kitchener, ON N2B 3X9, Canada",
+      "url": "https://luma.com/rwdyw1q5",
+      "latitude": 43.4707218,
+      "longitude": -80.4513599,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/4h/4f4b9883-ef4e-4a2b-8766-1615d08a4d1f.jpg",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-D1EBAPaqZO5DGC6",
+      "name": "AI x Science | AI Builders Waterloo",
+      "start": "2026-11-24T23:00:00.000Z",
+      "end": "2026-11-25T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/3r1r6t7i",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/f0/905e076d-1546-4b84-a89d-a0fa361ecb8e.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-wqWMlfGXF0AVh7i",
+      "name": "Technical Wednesday",
+      "start": "2026-11-25T17:00:00.000Z",
+      "end": "2026-11-25T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/waterloo-q0lm",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/8m/adfab867-1f41-40ae-b4ef-ab8b28142010.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-rZ8pShfBbpK6oye",
+      "name": "GET together: 2nd annual Mentoring Speakeasy",
+      "start": "2026-11-25T22:30:00.000Z",
+      "end": "2026-11-26T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/a8vljvyq",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": null,
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-U9iSkJtV995Ufk0",
+      "name": "CivicTechWR Hacknight",
+      "start": "2026-11-25T23:00:00.000Z",
+      "end": "2026-11-26T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-U9iSkJtV995Ufk0",
+      "url": "https://luma.com/1b6nuekm",
+      "latitude": 43.45107093563721,
+      "longitude": -80.49496529853845,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/9b/defa9a6a-829a-431e-8211-d46ae5f0a3d5.jpg",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-WuVv66k5WkGaD9a",
+      "name": "Remote Worker Holiday Party III",
+      "start": "2026-11-27T22:00:00.000Z",
+      "end": "2026-11-28T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/waterloo-drnm",
+      "latitude": 43.4507027,
+      "longitude": -80.4922619,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/e4/973672d3-c31f-4deb-abce-593f4ccfb226",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-OtKZFCfkAeHsmOB",
+      "name": "Non-Technical Wednesday",
+      "start": "2026-12-02T17:00:00.000Z",
+      "end": "2026-12-02T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/waterloo-xjfy",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/uc/1e5723c9-d9ca-4480-a05e-519e148b06df.png",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-qeHs8ZwsPUZH9dL",
+      "name": "CivicTechWR Hacknight",
+      "start": "2026-12-02T23:00:00.000Z",
+      "end": "2026-12-03T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-qeHs8ZwsPUZH9dL",
+      "url": "https://luma.com/831us592",
+      "latitude": 43.44991658390659,
+      "longitude": -80.49083721946828,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/9b/defa9a6a-829a-431e-8211-d46ae5f0a3d5.jpg",
+      "venueCity": "Kitchener",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-iilWD6ld2aTbbqf",
+      "name": "KWLUG Tech Meeting - Podman, Post-Quantum Cryptography",
+      "start": "2026-12-08T00:00:00.000Z",
+      "end": "2026-12-08T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "University of Waterloo Davis Centre Library, 200 Ring Rd, Waterloo, ON N2L 5Z5, Canada",
+      "url": "https://luma.com/kdrtn2bu",
+      "latitude": 43.4729293,
+      "longitude": -80.542001,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": "https://images.lumacdn.com/event-covers/vw/1e293a0b-b164-4b6c-9b90-ae8b9f9b6510.png",
+      "venueCity": "Waterloo",
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-wqf5nRZ6LbVBQHg",
+      "name": "Technical Wednesday",
+      "start": "2026-12-09T17:00:00.000Z",
+      "end": "2026-12-09T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/waterloo-6wm1",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": null,
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-RdnEh0echAwOCYB",
+      "name": "CivicTechWR Hacknight",
+      "start": "2026-12-09T23:00:00.000Z",
+      "end": "2026-12-10T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-RdnEh0echAwOCYB",
+      "url": "https://luma.com/t5upy7ig",
+      "latitude": 43.452763298781505,
+      "longitude": -80.49383910148737,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": null,
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-k5z5cXhwhKwGUBV",
+      "name": "Non-Technical Wednesday",
+      "start": "2026-12-16T17:00:00.000Z",
+      "end": "2026-12-16T18:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/waterloo-pext",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": null,
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-foRA7Z5iWAeaJX0",
+      "name": "CivicTechWR - Project Showcase",
+      "start": "2026-12-16T23:00:00.000Z",
+      "end": "2026-12-17T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-foRA7Z5iWAeaJX0",
+      "url": "https://luma.com/g2mjtlxp",
+      "latitude": 43.44952175004763,
+      "longitude": -80.49181364449512,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": null,
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-z7Xk2IMOgI4w3BL",
+      "name": "KWLUG Dinner Meetup",
+      "start": "2026-12-22T00:00:00.000Z",
+      "end": "2026-12-22T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Crabby Joe's Bar • Grill, 70 King St E, Kitchener, ON N2G 2K6, Canada",
+      "url": "https://luma.com/ipuc3gy4",
+      "latitude": 43.449539099999996,
+      "longitude": -80.4878,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": null,
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-WFX3AHEhc2w7ES0",
+      "name": "AI x Learning | AI Builders Waterloo",
+      "start": "2027-01-28T23:00:00.000Z",
+      "end": "2027-01-29T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Builders Club, 165 King St W, Kitchener, ON N2G 1A7, Canada",
+      "url": "https://luma.com/ed7rvkfs",
+      "latitude": 43.450783,
+      "longitude": -80.492199,
+      "sequence": 216085687,
+      "sources": [
+        "cal-rJoHBmPlHGvg5F8"
+      ],
+      "cover": null,
+      "city": "waterloo"
+    },
+    {
+      "id": "evt-dYhJhtE10x9QHbS",
+      "name": "MUG Toronto NOV 2026 - Voyage AI with MongoDB",
+      "start": "2026-11-10T22:30:00.000Z",
+      "end": "2026-11-11T00:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Slalom Consulting, 85 Richmond St W #500, Toronto, ON M5H 2C9, Canada",
+      "url": "https://luma.com/sn68vy7c",
+      "latitude": 43.650587699999996,
+      "longitude": -79.382764,
+      "sequence": 216085686,
+      "sources": [
+        "cal-pCYHxFjHr6u6cRl"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/po/7c9e7cca-d2c2-46f7-b0e1-b88f2c528440.jpg",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-Brk6323DmeXA5cE",
+      "name": "Future of Education: Impact of AI on Learning",
+      "start": "2026-11-10T23:00:00.000Z",
+      "end": "2026-11-11T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Convivium Dining Community, 83 Yonge St, Toronto, ON M5C 1S8, Canada",
+      "url": "https://luma.com/future-of-education-nov-10-2026",
+      "latitude": 43.6495736,
+      "longitude": -79.3779388,
+      "sequence": 216085686,
+      "sources": [
+        "cal-NFIKWffXs4kAUi3"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/5h/c77d22a9-2fec-4ed6-b20e-e6475285a5e1.png",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-MQaHsBz5jHMNliA",
+      "name": "Toronto Fractional Executives Pub Night -- November 2026",
+      "start": "2026-11-10T23:30:00.000Z",
+      "end": "2026-11-11T02:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Paupers Pub, 539 Bloor St W, Toronto, ON M5S 1Y5, Canada",
+      "url": "https://luma.com/bmawtwxr",
+      "latitude": 43.665262899999995,
+      "longitude": -79.4101261,
+      "sequence": 216085686,
+      "sources": [
+        "cal-pCYHxFjHr6u6cRl"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/w8/99913b8b-f9d0-4013-8dec-c2fd2384517d.jpg",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-j9e6EHHFrD4wwH9",
+      "name": "Candidate Pitch Day: A Recession Indicator Comedy Show",
+      "start": "2026-11-12T23:00:00.000Z",
+      "end": "2026-11-13T01:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "2415 Yonge St, Toronto, ON M4P 2E7, Canada",
+      "url": "https://luma.com/techtank-comedy-night-nov-2026",
+      "latitude": 43.710521799999995,
+      "longitude": -79.39859349999999,
+      "sequence": 216085686,
+      "sources": [
+        "cal-pCYHxFjHr6u6cRl"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/ln/fd42bc42-8fd8-41bc-9ae6-45a92aa52f13.png",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-cpUfPaGB374WPqz",
+      "name": "Agentic Payments Hackathon Toronto",
+      "start": "2026-11-13T05:00:00.000Z",
+      "end": "2026-11-16T05:00:00.000Z",
+      "allDay": true,
+      "date": "20261113",
+      "endDate": "20261116",
+      "timezone": "America/Toronto",
+      "location": "Highline Beta, 372 Bay St. Ste 200, Toronto, ON M5H 2W9, Canada",
+      "url": "https://luma.com/0dy3tnev",
+      "latitude": 43.650889199999995,
+      "longitude": -79.3814372,
+      "sequence": 216085686,
+      "sources": [
+        "cal-pCYHxFjHr6u6cRl"
+      ],
+      "cover": "https://images.lumacdn.com/gallery-images/fv/9ca2825f-781f-48c2-bc21-7dd90ac2d3ef",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-3skx7Xhs79a3dAu",
+      "name": "TechTO’s 12th Anniversary & Rocketships Soirée",
+      "start": "2026-11-17T23:00:00.000Z",
+      "end": "2026-11-18T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-3skx7Xhs79a3dAu",
+      "url": "https://luma.com/toronto-12th-anniversary-rocketships-nov-17-2026",
+      "latitude": 43.64299747316878,
+      "longitude": -79.39524246705378,
+      "sequence": 216085686,
+      "sources": [
+        "cal-NFIKWffXs4kAUi3"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/li/d958419d-4ba5-4d98-a714-abb3dd491fac.png",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-a54jUXu5XopmZFR",
+      "name": "Builders & Bubble Tea 🇨🇦",
+      "start": "2026-11-19T21:00:00.000Z",
+      "end": "2026-11-19T23:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-a54jUXu5XopmZFR",
+      "url": "https://luma.com/8c72hx1q",
+      "latitude": 43.644537163990584,
+      "longitude": -79.38950857650835,
+      "sequence": 216085686,
+      "sources": [
+        "cal-pCYHxFjHr6u6cRl"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/74/63c11834-aa65-43f6-b95e-6f978e4ff9a8.png",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-OLTq8xobbUt4TvF",
+      "name": "Humans in the Loop: Building and hiring for AI at Questrade",
+      "start": "2026-11-19T22:30:00.000Z",
+      "end": "2026-11-20T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-OLTq8xobbUt4TvF",
+      "url": "https://luma.com/humans-in-the-loop-nov-19-2026",
+      "latitude": 43.64927103008089,
+      "longitude": -79.38331611607,
+      "sequence": 216085686,
+      "sources": [
+        "cal-NFIKWffXs4kAUi3"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/uv/528721ec-4a9e-45d3-b5c6-1ae06628d6af.png",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-PtSOU1NEWuBY9Fy",
+      "name": "November 2026 TrueNorthCTO @ Index Exchange (Toronto)",
+      "start": "2026-11-25T23:00:00.000Z",
+      "end": "2026-11-26T02:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-PtSOU1NEWuBY9Fy",
+      "url": "https://luma.com/dn5ab9h7",
+      "latitude": 43.644164003987704,
+      "longitude": -79.39405647094443,
+      "sequence": 216085686,
+      "sources": [
+        "cal-pCYHxFjHr6u6cRl"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/wt/6f65dbb1-d441-4449-9d1a-c359668e38ba.png",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-ajz6Zt7B1UurWEv",
+      "name": "Community Leader Roundtable #11",
+      "start": "2026-11-30T23:00:00.000Z",
+      "end": "2026-12-01T02:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Industrious, 30 Adelaide St E 12th Floor, Toronto, ON M5C 2C5, Canada",
+      "url": "https://luma.com/Community-Leader-Roundtable-11",
+      "latitude": 43.6512305,
+      "longitude": -79.37656179999999,
+      "sequence": 216085686,
+      "sources": [
+        "cal-pCYHxFjHr6u6cRl"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/8k/d56926e8-4260-4d54-be00-679cdadc0523.png",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-DcdVQg0qxRJUfGC",
+      "name": "YC Alumni Holiday Party",
+      "start": "2026-12-02T23:00:00.000Z",
+      "end": "2026-12-03T03:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "https://luma.com/event/evt-DcdVQg0qxRJUfGC",
+      "url": "https://luma.com/yc-holiday-party-dec-2-2026",
+      "latitude": 43.643483608360384,
+      "longitude": -79.3937918797579,
+      "sequence": 216085686,
+      "sources": [
+        "cal-NFIKWffXs4kAUi3"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/14/83bc45b8-efe4-469b-8dcf-3d73b6de3d83.png",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-gCMTbdAUVfAVABI",
+      "name": "SANTACOLLIDER 2: TORONTO TECH COMMUNITY HOLIDAY PARTY - THE SEQUEL 🎅🕶️✌️",
+      "start": "2026-12-12T00:00:00.000Z",
+      "end": "2026-12-12T07:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "The Kensington Room, 152 Augusta Ave, Toronto, ON M5T 2L5, Canada",
+      "url": "https://luma.com/santacollider2-toronto-tech-holiday-party-2026",
+      "latitude": 43.6527883,
+      "longitude": -79.4015204,
+      "sequence": 216085686,
+      "sources": [
+        "cal-pCYHxFjHr6u6cRl"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/na/542e01ae-4a99-47a4-847e-cb758dba41ff.gif",
+      "venueCity": "Toronto",
+      "city": "toronto"
+    },
+    {
+      "id": "evt-HHt2BFuibvZWiN6",
+      "name": "Future-proofing Your Career in the AI Era: Skills, Tech, and Leadership in Transition",
+      "start": "2026-11-26T21:30:00.000Z",
+      "end": "2026-11-26T23:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "160 Elgin St, Ottawa, ON K2P 2P7, Canada",
+      "url": "https://luma.com/1v8xjn4t",
+      "latitude": 45.4199079,
+      "longitude": -75.6927426,
+      "sequence": 216085689,
+      "sources": [
+        "cal-yiYZCjVML6OJg7I"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/je/356a0253-469a-4ff5-ba6c-ef81ee42cedc.png",
+      "venueCity": "Ottawa",
+      "city": "ottawa"
+    },
+    {
+      "id": "evt-4CFXMhzpg4JCo4c",
+      "name": "AI Governance Reading Group – The State of Reward Hacking in AI",
+      "start": "2026-11-05T23:00:00.000Z",
+      "end": "2026-11-06T00:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/r0qy81mp",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/ok/687e82d3-b099-41f9-a01d-a2de0e47737a.png",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-mHc4efZwT6t4LmI",
+      "name": "Swarm Alignment Hackathon",
+      "start": "2026-11-07T15:30:00.000Z",
+      "end": "2026-11-08T19:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/b6u4rfp4",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/in/cbe2fee1-c6be-4ceb-9e95-e7a570985ef9.png",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-QdP1jALR0n0lTQF",
+      "name": "Screening: Paul Christiano, Hinton Lectures Night 2",
+      "start": "2026-11-10T22:30:00.000Z",
+      "end": "2026-11-11T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/eg9u3okn",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/pm/3da95ebc-ebb5-4c0c-9a76-61f598573c9b.png",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-jOKw7Yuc48mdRYC",
+      "name": "AI Safety Technical Reading Group – Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "start": "2026-11-16T23:00:00.000Z",
+      "end": "2026-11-17T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/l6ha5hvk",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/pn/4e873446-e0a6-4e80-96d7-6a8934bac7d9.png",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-h7S1gMFDqmX6XF4",
+      "name": "Middle Powers' Paths to AI Governance",
+      "start": "2026-11-18T22:00:00.000Z",
+      "end": "2026-11-19T00:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/lddzcspf",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/nk/0cedb4ea-9f26-47d2-8d8f-0f57bc523d47.png",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-0Ja4CgkvbVMiC9u",
+      "name": "Community Lunch + Ω Labs Coworking",
+      "start": "2026-11-19T17:30:00.000Z",
+      "end": "2026-11-19T21:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/w326v3c9",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/1h/4275c5a4-6462-4e6c-a544-a33dd5bc3842.jpg",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-yvUWiQF5fintwKj",
+      "name": "Swift to harbor: the macroeconomics of ASI and existential risk",
+      "start": "2026-11-19T22:00:00.000Z",
+      "end": "2026-11-20T00:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/5f80asf8",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/v0/41a9da3f-cbf9-4e74-8e42-676961473538.jpg",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-B4tJhhVYrT0SZcU",
+      "name": "How to Find Your Place in AI Safety / Trouver sa place en sécurité de l'IA",
+      "start": "2026-11-25T23:00:00.000Z",
+      "end": "2026-11-26T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/n5chqa9f",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/gallery-images/75/75d79659-77e8-415f-aafd-a6c63d243d2b.png",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-xhUPofUtSHHO7kw",
+      "name": "Community Lunch + Ω Labs Coworking",
+      "start": "2026-11-26T17:30:00.000Z",
+      "end": "2026-11-26T21:30:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "Omega Labs, 3813 R. Saint-Denis, Montréal, QC H2W 2M4, Canada",
+      "url": "https://luma.com/2urllm5u",
+      "latitude": 45.5195447,
+      "longitude": -73.5727567,
+      "sequence": 216085688,
+      "sources": [
+        "cal-6mC5Rknn9qtVgom"
+      ],
+      "cover": "https://images.lumacdn.com/uploads/7l/5971ff7c-8d67-4c7d-9c2a-3d49c157e770.jpg",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    },
+    {
+      "id": "evt-HlM3GM7tNQArLB4",
+      "name": "AI Salon Montreal November",
+      "start": "2026-11-26T22:30:00.000Z",
+      "end": "2026-11-27T01:00:00.000Z",
+      "allDay": false,
+      "date": null,
+      "endDate": null,
+      "timezone": "America/Toronto",
+      "location": "BrainBox AI, 111 Blvd Robert-Bourassa, Montréal, QC H3C 2M1, Canada",
+      "url": "https://luma.com/AI-Salon-Montreal-November-2026",
+      "latitude": 45.4966152,
+      "longitude": -73.5562801,
+      "sequence": 216085687,
+      "sources": [
+        "cal-xfRCBuSHDpIoEmp"
+      ],
+      "cover": "https://images.lumacdn.com/api-uploads/62/d87c0fda-bec1-49e9-b58c-b0ce7220db53.png",
+      "venueCity": "Montréal",
+      "city": "montreal"
+    }
+  ]
+}

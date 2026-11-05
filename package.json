@@ -4,7 +4,8 @@
   "description": "Script to update Canadian Cloud events",
   "type": "module",
   "scripts": {
-    "update-events": "node index.js"
+    "update-events": "node scripts/update-events.mjs",
+    "test": "node --test tests/*.test.mjs"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
